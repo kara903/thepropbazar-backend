@@ -1,0 +1,235 @@
+[
+  {
+    "id": "deep_ganga_overview",
+    "topic": "General Overview & Configurations (No unprompted price)",
+    "canonical_question": "Deep Ganga के बारे में बताइए",
+    "variations": [
+      "Deep Ganga ke baare me batao",
+      "Deep Ganga ke baare me batao kuch jyada",
+      "डीप गंगा के बारे में बताओ कुछ ज्यादा",
+      "deep ganga kaisa hai",
+      "tell me about deep ganga",
+      "deep ganga me kya milta hai"
+    ],
+    "answer": "Deep Ganga SIDCUL Sector 5-A में स्थित 90 साल की लीज़होल्ड गेटेड टाउनशिप है, जहाँ 1 BHK, 2 BHK और 3 BHK फ्लैट्स उपलब्ध हैं।",
+    "spoken_answer": "Deep Ganga में 1 BHK, 2 BHK और 3 BHK फ्लैट्स उपलब्ध हैं।"
+  },
+  {
+    "id": "deep_ganga_loc_1",
+    "topic": "Location & Address",
+    "canonical_question": "Deep Ganga कहाँ पर है?",
+    "variations": [
+      "Deep Ganga kahan par hai?",
+      "Where is Deep Ganga located in Haridwar?",
+      "Deep Ganga ki location kya hai?",
+      "Sector 5-A Sidcul me konsi society hai?",
+      "Deep Ganga kis area me hai?"
+    ],
+    "answer": "Deep Ganga Sector 5-A, SIDCUL, Haridwar में स्थित है। यह BHEL, SIDCUL Industrial Hub और Shivalik Nagar के नजदीक है।",
+    "spoken_answer": "Deep Ganga Haridwar में सिडकुल के Sector 5-A में स्थित है, जो BHEL और Shivalik Nagar के बिल्कुल पास है।"
+  },
+  {
+    "id": "deep_ganga_dist_haridwar",
+    "topic": "Distance from Haridwar City",
+    "canonical_question": "Deep Ganga Haridwar से कितनी दूर है?",
+    "variations": [
+      "Haridwar se kitna door hai Deep Ganga?",
+      "Haridwar city to Deep Ganga distance"
+    ],
+    "answer": "Deep Ganga Haridwar city से लगभग 12 से 13 किलोमीटर दूर है।",
+    "spoken_answer": "Deep Ganga Haridwar शहर से लगभग 12 से 13 किलोमीटर की दूरी पर है।"
+  },
+  {
+    "id": "deep_ganga_dist_shivalik_mall",
+    "topic": "Distance from Shivalik Nagar & Pentagon Mall",
+    "canonical_question": "Deep Ganga Shivalik Nagar और Pentagon Mall से कितनी दूर है?",
+    "variations": [
+      "Shivalik Nagar se kitni door hai Deep Ganga?",
+      "Pentagon Mall to Deep Ganga distance",
+      "Mall se kitna distance hai Deep Ganga ka?"
+    ],
+    "answer": "Deep Ganga Pentagon Mall से लगभग 2.5 किलोमीटर और Shivalik Nagar से लगभग 2.5 से 3 किलोमीटर की दूरी पर है।",
+    "spoken_answer": "Deep Ganga Pentagon Mall और Shivalik Nagar से लगभग ढाई से 3 किलोमीटर दूर है।"
+  },
+  {
+    "id": "deep_ganga_dist_bhel_sidcul",
+    "topic": "Distance from BHEL & SIDCUL",
+    "canonical_question": "Deep Ganga SIDCUL और BHEL से कितनी दूर है?",
+    "variations": [
+      "BHEL se kitna distance hai Deep Ganga ka?",
+      "Sidcul se kitni door hai Deep Ganga?"
+    ],
+    "answer": "Deep Ganga SIDCUL के Sector 5-A में ही स्थित है और BHEL से लगभग 4 किलोमीटर की दूरी पर है।",
+    "spoken_answer": "Deep Ganga SIDCUL के सेक्टर 5-A में स्थित है और BHEL से लगभग 4 किलोमीटर दूर है।"
+  },
+  {
+    "id": "deep_ganga_dist_bhadrabad_greens",
+    "topic": "Distance from Bhadrabad & Haridwar Greens",
+    "canonical_question": "Deep Ganga से Haridwar Greens और Bhadrabad कितनी दूर है?",
+    "variations": [
+      "Haridwar Greens se kitna door hai Deep Ganga?",
+      "Bhadrabad to Deep Ganga distance"
+    ],
+    "answer": "Deep Ganga से लगभग 1 किलोमीटर आगे Haridwar Greens है, और Bhadrabad से NH-58 के अंदर लगभग 8 किलोमीटर है।",
+    "spoken_answer": "Deep Ganga से मात्र 1 किलोमीटर आगे Haridwar Greens है और बहादराबाद से 8 किलोमीटर है।"
+  },
+  {
+    "id": "deep_ganga_developer_acres",
+    "topic": "Developer & 20-Acre Township",
+    "canonical_question": "Deep Ganga किस developer का project है और कितने एकड़ में है?",
+    "variations": [
+      "Deep Ganga kisne banaya hai?",
+      "Deep Ganga developer name",
+      "Deep Ganga kitne acre me hai?",
+      "Delhi Apartments Pvt Ltd Deep Ganga"
+    ],
+    "answer": "Deep Ganga लगभग 20 एकड़ में फैला residential-cum-commercial township है, जिसे Deepak Group of Companies की Delhi Apartments Pvt. Ltd. द्वारा develop किया गया है।",
+    "spoken_answer": "Deep Ganga लगभग 20 एकड़ की टाउनशिप है जिसे दीपक ग्रुप की Delhi Apartments Private Limited ने बनाया है।"
+  },
+  {
+    "id": "deep_ganga_flats_overview",
+    "topic": "Flats Configurations Available",
+    "canonical_question": "Deep Ganga में कौन-कौन से flats available हैं?",
+    "variations": [
+      "Deep Ganga me kitne BHK flats hain?",
+      "1 BHK 2 BHK 3 BHK options in Deep Ganga",
+      "Flats in Deep Ganga Haridwar"
+    ],
+    "answer": "Deep Ganga में 1 BHK (740 sq.ft), 2 BHK (1440 व 1480 sq.ft) और 3 BHK (1478 sq.ft) ready-to-move apartments available हैं।",
+    "spoken_answer": "Deep Ganga में 1 BHK (740 स्क्वायर फीट), 2 BHK और 3 BHK (1478 स्क्वायर फीट) के फ्लैट्स उपलब्ध हैं।"
+  },
+  {
+    "id": "deep_ganga_1bhk_price",
+    "topic": "1 BHK Size & Price",
+    "canonical_question": "Deep Ganga में 1 BHK कितने का है और उसका size क्या है?",
+    "variations": [
+      "1 BHK price in Deep Ganga",
+      "1 BHK size in Deep Ganga",
+      "740 sq ft 1 BHK in Deep Ganga"
+    ],
+    "answer": "Deep Ganga में 1 BHK flat का size लगभग 740 sq.ft है और इसकी starting price लगभग ₹26 लाख से है।",
+    "spoken_answer": "Deep Ganga में 1 BHK 740 स्क्वायर फीट का है और इसकी कीमत लगभग 26 लाख रुपये से शुरू है।"
+  },
+  {
+    "id": "deep_ganga_2bhk_prices",
+    "topic": "2 BHK Sizes & Prices",
+    "canonical_question": "Deep Ganga में 2 BHK के कौन-कौन से sizes और prices available हैं?",
+    "variations": [
+      "2 BHK price in Deep Ganga",
+      "2 BHK sizes in Deep Ganga",
+      "1440 sq ft 2 BHK price",
+      "1480 sq ft 2 BHK price"
+    ],
+    "answer": "Deep Ganga में 2 BHK के 1440 व 1480 sq.ft options हैं। इसकी कीमत लगभग ₹38 लाख से ₹45 लाख के बीच है (1440 sq.ft लगभग ₹45 लाख से शुरू)।",
+    "spoken_answer": "Deep Ganga में 2 BHK की कीमत 38 लाख से 45 लाख रुपये के बीच है।"
+  },
+  {
+    "id": "deep_ganga_3bhk_price",
+    "topic": "3 BHK Size & Price",
+    "canonical_question": "Deep Ganga में 3 BHK का size और price कितना है?",
+    "variations": [
+      "3 BHK price in Deep Ganga",
+      "3 BHK size in Deep Ganga",
+      "1478 sq ft 3 BHK in Deep Ganga"
+    ],
+    "answer": "Deep Ganga में 3 BHK flat का size लगभग 1478 sq.ft है और इसकी starting price ₹55 लाख से है।",
+    "spoken_answer": "Deep Ganga में 3 BHK 1478 स्क्वायर फीट का है और इसकी कीमत 55 लाख रुपये से शुरू है।"
+  },
+  {
+    "id": "deep_ganga_leasehold_truth",
+    "topic": "Legal Status: 90 Years LEASEHOLD (Not Freehold)",
+    "canonical_question": "Deep Ganga freehold है या leasehold और कितने साल की lease है?",
+    "variations": [
+      "Deep Ganga leasehold hai ya freehold?",
+      "Kya Deep Ganga leasehold property hai?",
+      "Freehold hai kya Deep Ganga?",
+      "Deep Ganga kitne saal ki lease par hai?",
+      "90 years lease Deep Ganga"
+    ],
+    "answer": "Deep Ganga 90 साल की लीज़ (90-Year LEASEHOLD) पर आधारित प्रॉपर्टी है, freehold नहीं।",
+    "spoken_answer": "Deep Ganga 90 साल की लीज़होल्ड प्रॉपर्टी है, फ्रीहोल्ड नहीं।"
+  },
+  {
+    "id": "deep_ganga_rera_legal",
+    "topic": "RERA Registration & Registry",
+    "canonical_question": "क्या Deep Ganga RERA approved है और इसका RERA number क्या है?",
+    "variations": [
+      "Deep Ganga RERA number",
+      "RERA approved hai kya Deep Ganga?",
+      "Registry hoti hai kya Deep Ganga me?"
+    ],
+    "answer": "हाँ जी, Deep Ganga RERA registered project है और इसका RERA registration number UKREP12170000139 है। Applicable documentation के अनुसार registry होती है।",
+    "spoken_answer": "हाँ जी, Deep Ganga RERA रजिस्टर्ड है और इसका RERA नंबर UKREP12170000139 है।"
+  },
+  {
+    "id": "deep_ganga_amenities_truth",
+    "topic": "Amenities: NO Pool, NO Club House, NO Society Gym",
+    "canonical_question": "क्या Deep Ganga में Swimming Pool, Club House या Gym है?",
+    "variations": [
+      "Deep Ganga me swimming pool hai kya?",
+      "Club house hai kya Deep Ganga me?",
+      "Gym hai kya Deep Ganga society me?",
+      "Deep Ganga me swimming pool kyu nahi hai?"
+    ],
+    "answer": "नहीं जी, Deep Ganga में Swimming Pool, Club House और Society Gym उपलब्ध नहीं हैं। हालांकि society के shopping complex में private gym subscription लेकर join किया जा सकता है।",
+    "spoken_answer": "Deep Ganga में स्विमिंग पूल और क्लब हाउस उपलब्ध नहीं हैं, लेकिन कॉम्प्लेक्स में प्राइवेट जिम जॉइन किया जा सकता है।"
+  },
+  {
+    "id": "deep_ganga_available_facilities",
+    "topic": "Available Amenities, Lift, Park, Power Backup & Security",
+    "canonical_question": "Deep Ganga में कौन-कौन सी सुविधाएं available हैं?",
+    "variations": [
+      "Deep Ganga me lift parking hai kya?",
+      "Security and power backup in Deep Ganga",
+      "Facilities available in Deep Ganga"
+    ],
+    "answer": "Deep Ganga में High-Speed Lifts, Car Parking, 24x7 Security, Power Backup, Gated Campus, Peaceful Parks और Deep Ganga Shopping Mall / Commercial facilities available हैं।",
+    "spoken_answer": "Deep Ganga में लिफ्ट, कार पार्किंग, 24 घंटे सिक्योरिटी, पावर बैकअप, पार्क और अंदर शॉपिंग मॉल की सुविधा उपलब्ध है।"
+  },
+  {
+    "id": "deep_ganga_mall",
+    "topic": "Deep Ganga Shopping Mall & Commercial Complex",
+    "canonical_question": "क्या Deep Ganga में mall या commercial facilities हैं?",
+    "variations": [
+      "Deep Ganga mall hai kya andar?",
+      "Commercial shops in Deep Ganga"
+    ],
+    "answer": "हाँ जी, Deep Ganga gated society के अंदर ही Deep Ganga Mall स्थित है, जिसमें shopping, retail outlets, food joints और commercial facilities उपलब्ध हैं।",
+    "spoken_answer": "हाँ जी, Deep Ganga कैंपस के अंदर ही शॉपिंग मॉल और कमर्शियल दुकानें उपलब्ध हैं।"
+  },
+  {
+    "id": "deep_ganga_bank_loan",
+    "topic": "Bank Loan Eligibility",
+    "canonical_question": "Deep Ganga में flat खरीदने पर bank loan कितना मिल सकता है?",
+    "variations": [
+      "Deep Ganga me loan milta hai kya?",
+      "Bank loan in Deep Ganga Haridwar",
+      "Loan percentage in Deep Ganga"
+    ],
+    "answer": "हाँ जी, eligible buyers को buyer profile और bank approval के आधार पर property value का लगभग 80% से 90% तक bank loan मिल सकता है।",
+    "spoken_answer": "हाँ जी, Deep Ganga में एलिजिबल बायर्स को 80 से 90 प्रतिशत तक बैंक लोन मिल सकता है।"
+  },
+  {
+    "id": "deep_ganga_site_visit",
+    "topic": "Site Visit & Contact Details",
+    "canonical_question": "Deep Ganga में site visit कैसे कर सकते हैं और किससे बात करनी होगी?",
+    "variations": [
+      "Deep Ganga ki site visit karni hai",
+      "Rahul Dwivedi number for Deep Ganga",
+      "Site visit contact number"
+    ],
+    "answer": "Deep Ganga में site visit और authentic property purchase के लिए आप The Propbazar के Rahul Dwivedi जी से 9990004807 पर contact कर सकते हैं।",
+    "spoken_answer": "साइट विज़िट के लिए आप राहुल द्विवेदी जी से 9990004807 पर संपर्क कर सकते हैं।"
+  },
+  {
+    "id": "deep_ganga_policy_docs_price",
+    "topic": "Policies: Maintenance & Legal Documents",
+    "canonical_question": "Deep Ganga में maintenance कितना है और क्या documents online मिल सकते हैं?",
+    "variations": [
+      "Maintenance in Deep Ganga",
+      "Documents online available for Deep Ganga"
+    ],
+    "answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से।",
+    "spoken_answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से।"
+  }
+]
