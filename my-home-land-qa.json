@@ -1,0 +1,105 @@
+[
+  {
+    "id": "homeland_loc_1",
+    "topic": "Location & Landmark",
+    "canonical_question": "My Home Land कहाँ पर है?",
+    "variations": [
+      "My Home Land kahan par hai?",
+      "Where is My Home Land located in Haridwar?",
+      "My Home Land ki location kya hai?",
+      "Denso Chowk Sidcul ke pass konsi plotted society hai?",
+      "Homeland Haridwar location"
+    ],
+    "answer": "My Home Land Denso Chowk, SIDCUL, Haridwar के पास स्थित है। यह Shivalik hills view वाले residential plots का project है।",
+    "spoken_answer": "My Home Land सिडकुल में डेंसो चौक के पास स्थित है, जहाँ से सुंदर हिल व्यू मिलता है।"
+  },
+  {
+    "id": "homeland_property_type",
+    "topic": "Property Type & Total 66 Plots",
+    "canonical_question": "My Home Land किस तरह का project है और इसमें कितने plots हैं?",
+    "variations": [
+      "My Home Land me kya milta hai?",
+      "Plots in My Home Land Haridwar",
+      "Total plots in My Home Land"
+    ],
+    "answer": "My Home Land एक premium hill-view residential plotted township है, जिसमें कुल 66 residential plots उपलब्ध हैं।",
+    "spoken_answer": "My Home Land एक हिल-व्यू रेजिडेंशियल प्लॉट्स प्रोजेक्ट है, जिसमें कुल 66 प्लॉट्स उपलब्ध हैं।"
+  },
+  {
+    "id": "homeland_plot_sizes_range",
+    "topic": "Plot Sizes & Dimensions",
+    "canonical_question": "My Home Land में plot sizes क्या हैं?",
+    "variations": [
+      "My Home Land me plot size kitna hai?",
+      "Smallest and largest plot in My Home Land",
+      "852 sq ft and 2218 sq ft plot in My Home Land",
+      "1000 sq ft plot in My Home Land"
+    ],
+    "answer": "My Home Land में 852 sq.ft (79.17 sq.m) से लेकर 2218 sq.ft (206.06 sq.m) तक के plots उपलब्ध हैं, जिनमें प्रमुख साइज़ 852, 1000, 1023, 1125, 1295, 1400, 1472, 1657 और 2218 sq.ft हैं।",
+    "spoken_answer": "यहाँ 852 स्क्वायर फीट से लेकर 2218 स्क्वायर फीट तक के रेजिडेंशियल प्लॉट्स उपलब्ध हैं, जैसे 1000, 1200 और 1400 स्क्वायर फीट।"
+  },
+  {
+    "id": "homeland_price_rate",
+    "topic": "Starting Price & Rate per Sq Ft",
+    "canonical_question": "My Home Land में plot की starting price और rate क्या है?",
+    "variations": [
+      "My Home Land me plot kitne ka hai?",
+      "Plot starting price in My Home Land",
+      "Per square feet rate in My Home Land",
+      "3500 per sq ft plot Haridwar"
+    ],
+    "answer": "My Home Land में residential plots का rate लगभग ₹3,500 per sq.ft से शुरू होता है। Exact कीमत प्लॉट साइज़ और लोकेशन पर निर्भर करती है।",
+    "spoken_answer": "My Home Land में प्लॉट्स का रेट लगभग 3500 रुपये प्रति स्क्वायर फीट से शुरू होता है।"
+  },
+  {
+    "id": "homeland_legal_rera_hrda",
+    "topic": "Approvals: Both RERA & HRDA Approved, 100% Freehold",
+    "canonical_question": "क्या My Home Land RERA और HRDA approved है, और क्या यह Freehold है?",
+    "variations": [
+      "My Home Land RERA approved hai kya?",
+      "RERA number of My Home Land",
+      "UKREP11250000688",
+      "HRDA approved plots in Sidcul Haridwar",
+      "Kya My Home Land RERA aur HRDA dono approved hai?",
+      "Freehold plots My Home Land"
+    ],
+    "answer": "हाँ जी, My Home Land RERA registered (RERA No: UKREP11250000688) और HRDA दोनों से fully approved 100% Freehold residential project है।",
+    "spoken_answer": "हाँ जी, My Home Land RERA और HRDA दोनों से अप्रूव्ड 100% फ्रीहोल्ड प्रोजेक्ट है, जिसका RERA नंबर UKREP11250000688 है।"
+  },
+  {
+    "id": "homeland_infrastructure_amenities",
+    "topic": "Infrastructure: Roads, Park, STP, Water Tank & Recharge Pits",
+    "canonical_question": "My Home Land में कौन-कौन सी basic facilities और infrastructure है?",
+    "variations": [
+      "Road width in My Home Land",
+      "Park and water tank in My Home Land",
+      "STP sewage in My Home Land Haridwar"
+    ],
+    "answer": "My Home Land में 7.50 मीटर और 9 मीटर चौड़ी internal roads, 737 sq.m का ग्रीन पार्क, Overhead Water Tank, 45 KL STP (Sewage Treatment Plant), Drainage, Recharge Pits और Electric Lines की पूरी व्यवस्था है।",
+    "spoken_answer": "यहाँ 9 मीटर चौड़ी सड़कें, 737 स्क्वायर मीटर का पार्क, ओवरहेड वाटर टैंक, सीवेज प्लांट और बिजली-पानी की पूरी व्यवस्था है।"
+  },
+  {
+    "id": "homeland_bank_loan",
+    "topic": "Bank Loan Eligibility",
+    "canonical_question": "My Home Land में plot पर bank loan मिल सकता है?",
+    "variations": [
+      "My Home Land me loan milta hai kya?",
+      "Plot loan in My Home Land Haridwar",
+      "Bank finance on plots"
+    ],
+    "answer": "हाँ जी, HRDA और RERA approved होने के कारण eligible buyers को बैंक नियमों के अनुसार प्लॉट पर bank loan मिल सकता है।",
+    "spoken_answer": "हाँ जी, RERA और HRDA अप्रूव्ड होने की वजह से इसपर बैंक लोन की सुविधा भी मिल जाती है।"
+  },
+  {
+    "id": "homeland_site_visit_policy",
+    "topic": "Site Visit & Documentation Policy",
+    "canonical_question": "My Home Land में site visit और documents की क्या policy है?",
+    "variations": [
+      "Site visit of My Home Land Haridwar",
+      "Documents online for My Home Land",
+      "Maintenance in My Home Land"
+    ],
+    "answer": "Site visit schedule करने और legal documents के physical verification के लिए आप The Propbazar office में संपर्क कर सकते हैं। Documents ऑनलाइन share नहीं किए जाते हैं।",
+    "spoken_answer": "साइट विज़िट और डॉक्युमेंट्स वेरिफिकेशन के लिए आप द प्रॉपबाज़ार टीम से संपर्क कर सकते हैं।"
+  }
+]
