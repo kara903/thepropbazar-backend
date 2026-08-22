@@ -1,0 +1,317 @@
+[
+  {
+    "id": "mantra_overview",
+    "topic": "General Overview & Configurations (No unprompted price)",
+    "canonical_question": "Mantra Happy Homes के बारे में बताइए",
+    "variations": [
+      "Mantra Happy Homes ke baare me batao",
+      "aur ye mantra happy homes",
+      "mantra happy homes kaisa hai",
+      "tell me about mantra happy homes",
+      "mantra happy homes me kya milta hai",
+      "mantra happy homes ke baare me kuch batao"
+    ],
+    "answer": "Mantra Happy Homes राजा बिस्किट चौक के सामने स्थित 6 एकड़ की गेटेड टाउनशिप है, जहाँ 2 BHK फ्लैट्स (810, 950 और 1010 sq.ft) और 950 sq.ft के रेजिडेंशियल प्लॉट्स उपलब्ध हैं। यहाँ 1 BHK या 3 BHK फ्लैट्स नहीं हैं।",
+    "spoken_answer": "Mantra Happy Homes में 2 BHK फ्लैट्स (810, 950 और 1010 स्क्वायर फीट) और 950 स्क्वायर फीट के प्लॉट्स उपलब्ध हैं।"
+  },
+  {
+    "id": "mantra_loc_1",
+    "topic": "Location & Landmark",
+    "canonical_question": "Mantra Happy Homes कहाँ पर है?",
+    "variations": [
+      "Mantra Happy Homes kahan par hai?",
+      "Where is Mantra Happy Homes located in Haridwar?",
+      "Mantra Happy Homes ki location kya hai?",
+      "Raja Biscuit Chowk ke pass konsi society hai?",
+      "Pentagon mall ke pass Mantra Happy Homes hai kya?"
+    ],
+    "answer": "Mantra Happy Homes Haridwar के New Haridwar region में, Raja Biscuit Chowk के opposite स्थित है। यह Shivalik Nagar और Pentagon Mall के बिल्कुल नजदीक है।",
+    "spoken_answer": "Mantra Happy Homes Haridwar में Raja Biscuit Chowk के सामने स्थित है, जो Pentagon Mall और Shivalik Nagar के बिल्कुल पास है।"
+  },
+  {
+    "id": "mantra_dist_haridwar",
+    "topic": "Distance from Haridwar City",
+    "canonical_question": "Mantra Happy Homes Haridwar से कितनी दूर है?",
+    "variations": [
+      "Haridwar se kitni door hai Mantra Happy Homes?",
+      "Haridwar main city to Mantra Happy Homes distance"
+    ],
+    "answer": "Mantra Happy Homes Haridwar city से लगभग 9 किलोमीटर दूर है।",
+    "spoken_answer": "Mantra Happy Homes Haridwar शहर से लगभग 9 किलोमीटर की दूरी पर है।"
+  },
+  {
+    "id": "mantra_dist_mall",
+    "topic": "Distance from Pentagon Mall",
+    "canonical_question": "Mantra Happy Homes Pentagon Mall से कितनी दूर है?",
+    "variations": [
+      "Pentagon Mall se kitna door hai?",
+      "Mall pass me hai kya Mantra Happy Homes ke?",
+      "Distance from Pentagon Mall to Mantra Happy Homes"
+    ],
+    "answer": "Pentagon Mall Mantra Happy Homes से मात्र लगभग 1 किलोमीटर दूर है। इसके अलावा Shivalik Nagar मार्केट 2.5 किलोमीटर पर है।",
+    "spoken_answer": "Pentagon Mall Mantra Happy Homes से मात्र 1 किलोमीटर दूर है, और शिवालिक नगर मार्केट ढाई किलोमीटर है।"
+  },
+  {
+    "id": "mantra_dist_shivalik",
+    "topic": "Distance from Shivalik Nagar",
+    "canonical_question": "Mantra Happy Homes Shivalik Nagar से कितनी दूर है?",
+    "variations": [
+      "Shivalik Nagar se kitna distance hai?",
+      "Shivalik nagar pass me hai kya?"
+    ],
+    "answer": "Shivalik Nagar Mantra Happy Homes से लगभग 2 से 2.5 किलोमीटर दूर है।",
+    "spoken_answer": "Shivalik Nagar Mantra Happy Homes से लगभग 2 किलोमीटर की दूरी पर है।"
+  },
+  {
+    "id": "mantra_dist_highway",
+    "topic": "Distance from National Highway",
+    "canonical_question": "Mantra Happy Homes National Highway से कितनी दूर है?",
+    "variations": [
+      "National Highway 58 se kitni door hai Mantra Happy Homes?",
+      "NH-58 distance from Mantra Happy Homes"
+    ],
+    "answer": "National Highway 58 Mantra Happy Homes से लगभग 3.5 किलोमीटर दूर है।",
+    "spoken_answer": "National Highway 58 Mantra Happy Homes से लगभग साढ़े 3 किलोमीटर दूर है।"
+  },
+  {
+    "id": "mantra_dist_jwalapur",
+    "topic": "Distance from Jwalapur",
+    "canonical_question": "Mantra Happy Homes Jwalapur से कितनी दूर है?",
+    "variations": [
+      "Jwalapur se kitni door hai Mantra Happy Homes?",
+      "Jwalapur to Mantra Happy Homes distance"
+    ],
+    "answer": "Jwalapur Mantra Happy Homes से लगभग 6 किलोमीटर दूर है।",
+    "spoken_answer": "Jwalapur Mantra Happy Homes से लगभग 6 किलोमीटर दूर है।"
+  },
+  {
+    "id": "mantra_dist_patanjali",
+    "topic": "Distance from Patanjali Yogpeeth",
+    "canonical_question": "Mantra Happy Homes Patanjali Yogpeeth से कितनी दूर है?",
+    "variations": [
+      "Patanjali se kitna distance hai?",
+      "Patanjali Yogpeeth to Mantra Happy Homes distance"
+    ],
+    "answer": "Patanjali Yogpeeth Mantra Happy Homes से लगभग 8.6 किलोमीटर दूर है।",
+    "spoken_answer": "Patanjali Yogpeeth Mantra Happy Homes से लगभग साढ़े 8 किलोमीटर दूर है।"
+  },
+  {
+    "id": "mantra_dist_har_ki_pauri",
+    "topic": "Distance from Har Ki Pauri",
+    "canonical_question": "Mantra Happy Homes Har Ki Pauri से कितनी दूर है?",
+    "variations": [
+      "Har Ki Pauri se kitna door hai Mantra Happy Homes?",
+      "Ganga ghat to Mantra Happy Homes distance"
+    ],
+    "answer": "Har Ki Pauri Mantra Happy Homes से लगभग 12 किलोमीटर दूर है।",
+    "spoken_answer": "Har Ki Pauri Mantra Happy Homes से लगभग 12 किलोमीटर की दूरी पर है।"
+  },
+  {
+    "id": "mantra_dist_station",
+    "topic": "Distance from Railway & Bus Station",
+    "canonical_question": "Mantra Happy Homes Railway Station और Bus Station से कितनी दूर है?",
+    "variations": [
+      "Haridwar Railway Station se kitna door hai?",
+      "Bus stand se kitna distance hai?",
+      "Station to Mantra Happy Homes"
+    ],
+    "answer": "Haridwar Railway Station और Bus Station दोनों Mantra Happy Homes से लगभग 9 किलोमीटर दूर हैं।",
+    "spoken_answer": "Haridwar Railway Station और Bus Stand दोनों Mantra Happy Homes से लगभग 9 किलोमीटर दूर हैं।"
+  },
+  {
+    "id": "mantra_surroundings",
+    "topic": "Hotels, Hospital & Industrial Hub",
+    "canonical_question": "Mantra Happy Homes के आसपास कौन-कौन से hotels, hospital और companies हैं?",
+    "variations": [
+      "Mantra Happy Homes ke pass hospital konsa hai?",
+      "Hotels near Mantra Happy Homes",
+      "Companies near Mantra Happy Homes Sidcul"
+    ],
+    "answer": "Mantra Happy Homes के 1 किमी के अंदर Hotel Radisson Blu, Hotel Hyphen, Hotel Gardania और Metro Hospital स्थित हैं। पास में Havells, ITC, Hero Group और HUL जैसी A-grade companies हैं।",
+    "spoken_answer": "1 किलोमीटर के अंदर रेडिसन ब्लू होटल और मेट्रो हॉस्पिटल स्थित हैं, और पास में हीरो व आईटीसी जैसी बड़ी कंपनियाँ हैं।"
+  },
+  {
+    "id": "mantra_developer",
+    "topic": "Developer Details",
+    "canonical_question": "Mantra Happy Homes का developer कौन है?",
+    "variations": [
+      "Mantra Happy Homes kis builder ka project hai?",
+      "CRC group project Mantra Happy Homes"
+    ],
+    "answer": "Mantra Happy Homes CRC Group (Chandgi Ram Real Estate) का पहला और प्रतिष्ठित residential project है।",
+    "spoken_answer": "Mantra Happy Homes CRC Group का पहला और प्रतिष्ठित रेजिडेंशियल प्रोजेक्ट है।"
+  },
+  {
+    "id": "mantra_towers_flats",
+    "topic": "6-Acre Township, 5 Towers & 272 Flats",
+    "canonical_question": "Mantra Happy Homes कितने एकड़ में फैला है, कितने towers और flats हैं?",
+    "variations": [
+      "Mantra Happy Homes kitne acre me hai?",
+      "Mantra Happy Homes me kitne tower hain?",
+      "Total flats in Mantra Happy Homes",
+      "Kitne acre ki township hai Mantra Happy Homes?",
+      "Kitne flats hain Mantra Happy Homes me?"
+    ],
+    "answer": "Mantra Happy Homes 6 एकड़ में फैली हुई residential township है, जिसमें कुल 5 towers और कुल 272 flats हैं।",
+    "spoken_answer": "Mantra Happy Homes 6 एकड़ में बनी टाउनशिप है जिसमें 5 टावर्स और 272 फ्लैट्स हैं।"
+  },
+  {
+    "id": "mantra_property_types",
+    "topic": "Property Types & Plots Detail",
+    "canonical_question": "Mantra Happy Homes में कौन-कौन सी properties available हैं और plot का rate क्या है?",
+    "variations": [
+      "Mantra Happy Homes me kya kya milta hai?",
+      "Flat ke alawa plots hain kya Mantra Happy Homes me?",
+      "Plots rate in Mantra Happy Homes",
+      "950 sq ft plot in Mantra Happy Homes"
+    ],
+    "answer": "Mantra Happy Homes में 2 BHK flats (810, 950, 1010 sq.ft) और 950 sq.ft के independent residential plots available हैं, जिनका asking rate ₹8,000 per sq.ft है।",
+    "spoken_answer": "Mantra Happy Homes में 2 BHK फ्लैट्स के साथ 950 स्क्वायर फीट के प्लॉट्स भी हैं, जिनका आस्किंग रेट 8000 रुपये प्रति स्क्वायर फीट है।"
+  },
+  {
+    "id": "mantra_2bhk_all_prices",
+    "topic": "2 BHK Sizes & Prices Overview",
+    "canonical_question": "Mantra Happy Homes में 2 BHK के कौन-कौन से sizes और prices available हैं?",
+    "variations": [
+      "Mantra Happy Homes me 2 BHK kitne ka hai?",
+      "2 BHK price in Mantra Happy Homes",
+      "Mantra Happy Homes flats rate",
+      "2 BHK size in Mantra Happy Homes"
+    ],
+    "answer": "Mantra Happy Homes में 2 BHK के तीन sizes हैं: 810 sq.ft (₹27 से 28 लाख), 950 sq.ft (₹34 से 35 लाख) और 1010 sq.ft (लगभग ₹38 लाख)।",
+    "spoken_answer": "Mantra Happy Homes में 2 BHK 810 स्क्वायर फीट 27 से 28 लाख, 950 स्क्वायर फीट 34 से 35 लाख और 1010 स्क्वायर फीट 38 लाख से शुरू है।"
+  },
+  {
+    "id": "mantra_810_details",
+    "topic": "810 sq.ft 2 BHK Breakup",
+    "canonical_question": "Mantra Happy Homes में 810 sq.ft 2 BHK का price, built-up और carpet area कितना है?",
+    "variations": [
+      "810 sq ft 2 BHK price in Mantra Happy Homes",
+      "810 sq ft carpet area and builtup area",
+      "810 square feet flat details"
+    ],
+    "answer": "810 sq.ft 2 BHK की कीमत ₹27 से 28 लाख से शुरू है। इसका built-up area लगभग 679 sq.ft है और carpet area 518 sq.ft है (131 sq.ft common circulation).",
+    "spoken_answer": "810 स्क्वायर फीट 2 BHK की कीमत 27 से 28 लाख है, जिसका बिल्ट-अप एरिया 679 और कारपेट एरिया 518 स्क्वायर फीट है।"
+  },
+  {
+    "id": "mantra_950_details",
+    "topic": "950 sq.ft 2 BHK Breakup",
+    "canonical_question": "Mantra Happy Homes में 950 sq.ft 2 BHK का price, built-up और carpet area कितना है?",
+    "variations": [
+      "950 sq ft 2 BHK price in Mantra Happy Homes",
+      "950 sq ft carpet area and builtup area",
+      "950 square feet flat details"
+    ],
+    "answer": "950 sq.ft 2 BHK की कीमत ₹34 से 35 लाख से शुरू है। इसका built-up area लगभग 796 sq.ft है और carpet area 616 sq.ft है (154 sq.ft common circulation).",
+    "spoken_answer": "950 स्क्वायर फीट 2 BHK की कीमत 34 से 35 लाख है, जिसका बिल्ट-अप एरिया 796 और कारपेट एरिया 616 स्क्वायर फीट है।"
+  },
+  {
+    "id": "mantra_1010_details",
+    "topic": "1010 sq.ft 2 BHK Details",
+    "canonical_question": "Mantra Happy Homes में 1010 sq.ft 2 BHK का price कितना है?",
+    "variations": [
+      "1010 sq ft 2 BHK price in Mantra Happy Homes",
+      "1010 square feet flat rate"
+    ],
+    "answer": "1010 sq.ft 2 BHK का price लगभग ₹38 लाख से शुरू है। इसका built-up area 846 sq.ft और carpet area 655 sq.ft है।",
+    "spoken_answer": "1010 स्क्वायर फीट का बड़ा 2 BHK लगभग 38 लाख रुपये से शुरू है।"
+  },
+  {
+    "id": "mantra_legal_rera_hrda",
+    "topic": "Legal, RERA & HRDA Approval",
+    "canonical_question": "क्या Mantra Happy Homes RERA और HRDA approved है?",
+    "variations": [
+      "Mantra Happy Homes RERA registered hai kya?",
+      "RERA number of Mantra Happy Homes",
+      "HRDA approved hai kya?",
+      "Freehold hai ya leasehold?",
+      "Registry hoti hai kya?"
+    ],
+    "answer": "हाँ जी, Mantra Happy Homes RERA registered (RERA No: UKREP10170000059) और HRDA approved है। यह 100% Freehold property है और direct registry होती है।",
+    "spoken_answer": "हाँ जी, यह HRDA अप्रूव्ड और RERA रजिस्टर्ड है जिसका नंबर UKREP10170000059 है, और ज़मीन 100% फ्रीहोल्ड है।"
+  },
+  {
+    "id": "mantra_amenities",
+    "topic": "Amenities & Lifestyle",
+    "canonical_question": "Mantra Happy Homes में कौन-कौन सी amenities available हैं?",
+    "variations": [
+      "Mantra Happy Homes me swimming pool gym hai kya?",
+      "Club house and temple in Mantra Happy Homes",
+      "Facilities in Mantra Happy Homes Haridwar"
+    ],
+    "answer": "Mantra Happy Homes में Club House, Swimming Pool, Gym, Party Hall, Table Tennis, Badminton Court, Jogging Track, Kids Play Area, 2 Landscape Gardens, Mandir (Temple), Gazebo और Commercial Shops available हैं।",
+    "spoken_answer": "यहाँ क्लब हाउस, स्विमिंग पूल, जिम, पार्टी हॉल, बैडमिंटन कोर्ट, मंदिर, बच्चों का पार्क और डेली नीड्स की दुकानें उपलब्ध हैं।"
+  },
+  {
+    "id": "mantra_utilities_security",
+    "topic": "Security & Utilities",
+    "canonical_question": "Mantra Happy Homes में security और utilities कैसी हैं?",
+    "variations": [
+      "Power backup and water supply in Mantra Happy Homes",
+      "Security system in Mantra Happy Homes",
+      "Rainwater harvesting and parking"
+    ],
+    "answer": "Mantra Happy Homes एक 24x7 secure gated campus है, जिसमें 100% power backup, underground electricity & water, sewerage system, rainwater harvesting, Vastu compliance, parking और drop-off area उपलब्ध हैं।",
+    "spoken_answer": "यहाँ 24 घंटे सुरक्षा, 100% पावर बैकअप, अंडरग्राउंड बिजली-पानी, पार्किंग और ड्रॉप-ऑफ एरिया उपलब्ध है।"
+  },
+  {
+    "id": "mantra_outsider_land_rule",
+    "topic": "Uttarakhand Outside Buyer Land & Flat Rule",
+    "canonical_question": "अगर हम Uttarakhand के बाहर के हैं, तो Uttarakhand में कितनी जमीन या फ्लैट खरीद सकते हैं?",
+    "variations": [
+      "Uttarakhand ke bahar wale kitni zameen khareed sakte hain?",
+      "Outside buyer land limit in Uttarakhand",
+      "Can outsiders buy flats in Haridwar?",
+      "250 sq m limit in Uttarakhand"
+    ],
+    "answer": "Uttarakhand के बाहर के लोग अधिकतम 2696 sq.ft (250 sq.m / 299 sq.yards) तक जमीन/प्लॉट खरीद सकते हैं। लेकिन FLATS खरीदने पर कोई सीमा नहीं है, आप unlimited flats खरीद सकते हैं।",
+    "spoken_answer": "उत्तराखंड के बाहर के लोग 2696 स्क्वायर फीट तक ज़मीन खरीद सकते हैं, लेकिन फ्लैट्स खरीदने पर कोई लिमिट नहीं है — आप कितने भी फ्लैट्स खरीद सकते हैं।"
+  },
+  {
+    "id": "mantra_broker_commission",
+    "topic": "Brokerage / Commission Policy",
+    "canonical_question": "The Propbazar में broker का कितना commission रहता है?",
+    "variations": [
+      "Brokerage kitna lete ho?",
+      "Commission charges on flat purchase",
+      "Broker commission kitna hai?"
+    ],
+    "answer": "40 लाख से नीचे की property पर 2% और 40 लाख से ऊपर की property पर 1% commission रहता है। यह fixed नहीं है और टेबल पर बैठकर बात की जा सकती है।",
+    "spoken_answer": "40 लाख से नीचे 2 प्रतिशत और 40 लाख से ऊपर 1 प्रतिशत रहता है, जिस पर बैठकर बात की जा सकती है।"
+  },
+  {
+    "id": "mantra_registry_charges",
+    "topic": "Registry & Govt Charges",
+    "canonical_question": "Mantra Happy Homes में registry charges कितने लगते हैं?",
+    "variations": [
+      "Registry charges kitne hain?",
+      "Govt stamp duty and registry fees"
+    ],
+    "answer": "Registry में मुख्य रूप से government charges लगते हैं, जो सामान्यतः 3% से 5% तक होते हैं। इसके साथ government slip charge लागू होता है जो नियमानुसार बदलता रहता है।",
+    "spoken_answer": "रजिस्ट्री में सामान्यतः 3 से 5 प्रतिशत सरकारी चार्ज लगता है, जो नियमों के अनुसार तय होता है।"
+  },
+  {
+    "id": "mantra_bank_loan",
+    "topic": "Bank Loan Eligibility",
+    "canonical_question": "Mantra Happy Homes में flat खरीदने पर bank loan कितना मिल सकता है?",
+    "variations": [
+      "Mantra Happy Homes me loan kitna milega?",
+      "Bank loan available in Mantra Happy Homes?",
+      "SBI PNB loan percent"
+    ],
+    "answer": "Mantra Happy Homes में eligible buyers को property value का लगभग 80% से 90% तक bank loan आसानी से मिल जाता है।",
+    "spoken_answer": "हाँ जी, Mantra Happy Homes में एलिजिबल बायर्स को 80 से 90 प्रतिशत तक बैंक लोन मिल जाता है।"
+  },
+  {
+    "id": "mantra_policies_docs_maint",
+    "topic": "Maintenance & Document Policy",
+    "canonical_question": "Mantra Happy Homes में maintenance कितना है और क्या documents online मिल सकते हैं?",
+    "variations": [
+      "Maintenance kitna hai Mantra Happy Homes me?",
+      "Documents online bhej sakte ho kya?",
+      "Registry papers photo video online"
+    ],
+    "answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से।",
+    "spoken_answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से।"
+  }
+]
