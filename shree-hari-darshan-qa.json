@@ -1,0 +1,137 @@
+[
+  {
+    "id": "haridarshan_loc_1",
+    "topic": "Location & Landmark",
+    "canonical_question": "Shree Hari Darshan City कहाँ पर है?",
+    "variations": [
+      "Shree Hari Darshan City kahan par hai?",
+      "Where is Shree Hari Darshan City located in Haridwar?",
+      "Shree Hari Darshan City ki location kya hai?",
+      "Patanjali Yogpeeth ke pass konsi plotted society hai?",
+      "Hari Darshan City Patanjali"
+    ],
+    "answer": "Shree Hari Darshan City Patanjali Yogpeeth, Haridwar के पास स्थित है। यह एक gated residential plotting project है।",
+    "spoken_answer": "Shree Hari Darshan City पतंजलि योगपीठ, हरिद्वार के पास स्थित एक गेटेड रेजिडेंशियल प्लॉट्स प्रोजेक्ट है।"
+  },
+  {
+    "id": "haridarshan_developer",
+    "topic": "Developer Details",
+    "canonical_question": "Shree Hari Darshan City किस developer का project है?",
+    "variations": [
+      "Shree Hari Darshan City kisne banaya hai?",
+      "Vedanta Buildcon Haridwar project",
+      "Builder of Shree Hari Darshan City"
+    ],
+    "answer": "Shree Hari Darshan City Vedanta Buildcon का प्रतिष्ठित residential plotting project है।",
+    "spoken_answer": "Shree Hari Darshan City 'Vedanta Buildcon' का रेजिडेंशियल प्लॉटिंग प्रोजेक्ट है।"
+  },
+  {
+    "id": "haridarshan_plot_sizes",
+    "topic": "Plot Sizes & Configurations",
+    "canonical_question": "Shree Hari Darshan City में कौन-कौन से plot sizes available हैं?",
+    "variations": [
+      "Shree Hari Darshan City me plot size kitna hai?",
+      "Plot sizes in Shree Hari Darshan City Patanjali",
+      "875 sq ft and 2217 sq ft plot in Shree Hari Darshan City",
+      "1000 sq ft plot in Shree Hari Darshan City"
+    ],
+    "answer": "Shree Hari Darshan City में 875 sq.ft से लेकर 2217 sq.ft तक के plots available हैं, जिनमें 875, 890, 1000, 1023, 1125, 1295, 1471, 1483 और 2217 sq.ft के प्रमुख साइज़ शामिल हैं।",
+    "spoken_answer": "यहाँ 875 स्क्वायर फीट से लेकर 2217 स्क्वायर फीट तक के प्लॉट्स उपलब्ध हैं, जैसे 1000, 1125 और 1471 स्क्वायर फीट।"
+  },
+  {
+    "id": "haridarshan_rera_legal",
+    "topic": "RERA Approval & Registration",
+    "canonical_question": "क्या Shree Hari Darshan City RERA approved है और इसका RERA number क्या है?",
+    "variations": [
+      "Shree Hari Darshan City RERA approved hai kya?",
+      "RERA number of Shree Hari Darshan City",
+      "UKREP10230000522 RERA"
+    ],
+    "answer": "हाँ जी, Shree Hari Darshan City RERA registered project है और इसका RERA registration number UKREP10230000522 है।",
+    "spoken_answer": "हाँ जी, Shree Hari Darshan City RERA रजिस्टर्ड है और इसका RERA नंबर UKREP10230000522 है।"
+  },
+  {
+    "id": "haridarshan_amenities",
+    "topic": "Amenities & Infrastructure",
+    "canonical_question": "Shree Hari Darshan City में कौन-कौन सी सुविधाएं available हैं?",
+    "variations": [
+      "Club house and gym in Shree Hari Darshan City",
+      "Facilities in Shree Hari Darshan City Patanjali",
+      "Gated society CCTV in Shree Hari Darshan City"
+    ],
+    "answer": "Shree Hari Darshan City एक 24x7 secure gated township है, जिसमें Club House, Gymnasium, Kids Play Area, Jogging Track, Park, Cafeteria, Indoor Games, CCTV Cameras, Wide Internal Roads, Street Lighting और 24 घंटे पानी-बिजली की सुविधा है।",
+    "spoken_answer": "यहाँ क्लब हाउस, जिम, पार्क, बच्चों का प्ले एरिया, जॉगिंग ट्रैक, सीसीटीवी सिक्योरिटी, चौड़ी सड़कें और 24 घंटे बिजली-पानी की सुविधा है।"
+  },
+  {
+    "id": "haridarshan_freehold_status",
+    "topic": "Freehold Land Status",
+    "canonical_question": "क्या Shree Hari Darshan City Freehold है या Leasehold?",
+    "variations": [
+      "Shree Hari Darshan City freehold hai ya leasehold?",
+      "Freehold plots in Shree Hari Darshan City Patanjali",
+      "Registry hoti hai kya Shree Hari Darshan City me?"
+    ],
+    "answer": "Shree Hari Darshan City 100% Freehold residential plotted project है, जहाँ बायर के नाम पर सीधी रजिस्ट्री और दाखिल खारिज होती है।",
+    "spoken_answer": "Shree Hari Darshan City पूरी तरह से 100% फ्रीहोल्ड प्रोजेक्ट है।"
+  },
+  {
+    "id": "haridarshan_plot_count",
+    "topic": "Total Plots & Expanding Project",
+    "canonical_question": "Shree Hari Darshan City में कुल कितने plots हैं?",
+    "variations": [
+      "Kitne plots hain Shree Hari Darshan City me?",
+      "Total plots in Shree Hari Darshan City",
+      "Expanding project Shree Hari Darshan"
+    ],
+    "answer": "Shree Hari Darshan City एक expanding (विस्तारित होने वाला) प्रोजेक्ट है जिसमें अभी 150 से अधिक प्लॉट्स उपलब्ध हैं, और आगे भी इसका विस्तार हो रहा है।",
+    "spoken_answer": "यह आगे फैलने वाला प्रोजेक्ट है और अभी इसमें 150 से ज़्यादा प्लॉट्स उपलब्ध हैं।"
+  },
+  {
+    "id": "haridarshan_pricing_policy",
+    "topic": "Plot Pricing Rate Starting ₹4500/sq.ft",
+    "canonical_question": "Shree Hari Darshan City में plot का price और rate क्या है?",
+    "variations": [
+      "Shree Hari Darshan City me plot kitne ka hai?",
+      "Plot price in Shree Hari Darshan City Patanjali",
+      "Rate per sq ft in Shree Hari Darshan City",
+      "4500 per sq ft plot Haridwar"
+    ],
+    "answer": "Shree Hari Darshan City में residential plots का starting rate ₹4,500 per sq.ft है। Exact कुल कीमत प्लॉट के साइज और लोकेशन पर निर्भर करती है।",
+    "spoken_answer": "Shree Hari Darshan City में प्लॉट्स का शुरुआती रेट 4500 रुपये प्रति स्क्वायर फीट है।"
+  },
+  {
+    "id": "haridarshan_bank_loan",
+    "topic": "Bank Loan Eligibility",
+    "canonical_question": "Shree Hari Darshan City में plot खरीदने पर bank loan मिल सकता है?",
+    "variations": [
+      "Shree Hari Darshan City me loan milta hai kya?",
+      "Plot loan in Shree Hari Darshan City",
+      "Loan percentage in Shree Hari Darshan City"
+    ],
+    "answer": "हाँ जी, RERA approved होने के कारण eligible buyers को property value का लगभग 80% से 90% तक bank loan मिल सकता है।",
+    "spoken_answer": "हाँ जी, RERA रजिस्टर्ड होने के कारण इसपर 80 से 90 प्रतिशत तक बैंक लोन मिल सकता है।"
+  },
+  {
+    "id": "haridarshan_site_visit",
+    "topic": "Site Visit & Contact Details",
+    "canonical_question": "Shree Hari Darshan City में site visit कैसे कर सकते हैं और किससे बात करें?",
+    "variations": [
+      "Shree Hari Darshan City site visit karni hai",
+      "Rahul Dwivedi number for Shree Hari Darshan City",
+      "Contact number for Shree Hari Darshan City"
+    ],
+    "answer": "Shree Hari Darshan City में site visit और authentic plot purchase के लिए आप The Propbazar के Rahul Dwivedi जी से 9990004807 पर contact कर सकते हैं।",
+    "spoken_answer": "साइट विज़िट और प्लॉट बुकिंग के लिए आप राहुल द्विवेदी जी से 9990004807 पर संपर्क कर सकते हैं।"
+  },
+  {
+    "id": "haridarshan_policy_docs_maint",
+    "topic": "Maintenance & Document Policy",
+    "canonical_question": "Shree Hari Darshan City में maintenance कितना है और क्या documents online मिल सकते हैं?",
+    "variations": [
+      "Maintenance in Shree Hari Darshan City",
+      "Documents online available for Shree Hari Darshan City"
+    ],
+    "answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से।",
+    "spoken_answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से।"
+  }
+]
