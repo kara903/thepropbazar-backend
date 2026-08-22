@@ -1,0 +1,440 @@
+[
+  {
+    "id": "jurs_delivery_year",
+    "topic": "Delivery / Possession Year 2014",
+    "canonical_question": "JURS Country कब डिलीवर हुआ था?",
+    "variations": [
+      "JURS Country kab deliver hua?",
+      "Jurs country delivery year",
+      "Jurs Country kab bana tha?",
+      "Possession year of JURS Country",
+      "Jurs country kab ready hua tha?"
+    ],
+    "answer": "JURS Country 2014 में पूरी तरह बनकर deliver हुआ था। यह एक established ready-to-move freehold township है।",
+    "spoken_answer": "JURS Country 2014 में deliver हुआ था और यह पूरी तरह ready-to-move है।"
+  },
+  {
+    "id": "jurs_overview",
+    "topic": "General Overview & Configurations (No unprompted price)",
+    "canonical_question": "JURS Country के बारे में बताइए",
+    "variations": [
+      "JURS Country ke baare me batao",
+      "jurs country kaisa hai",
+      "tell me about jurs country",
+      "jurs country me kya milta hai",
+      "jurs country ke baare me kuch batao"
+    ],
+    "answer": "JURS Country दिल्ली-हरिद्वार नेशनल हाईवे पर स्थित 35 एकड़ की प्रीमियम फ्रीहोल्ड टाउनशिप है, जहाँ 2 BHK, 3 BHK, 4 BHK और 5 BHK फ्लैट्स, विला और प्लॉट्स उपलब्ध हैं।",
+    "spoken_answer": "JURS Country में 2 BHK, 3 BHK, 4 BHK, 5 BHK फ्लैट्स, विला और प्लॉट्स उपलब्ध हैं।"
+  },
+  {
+    "id": "jurs_loc_1",
+    "topic": "Location & Landmark",
+    "canonical_question": "JURS Country कहाँ पर है?",
+    "variations": [
+      "JURS Country kahan par hai?",
+      "Where is Jurs Country located in Haridwar?",
+      "Jurs Country ki location kya hai?",
+      "Jurs country kis road par hai?",
+      "Bhumannand hospital ke pass konsi society hai?",
+      "Lemon hotel ke pass jurs country hai kya?"
+    ],
+    "answer": "JURS Country NH-334 Delhi-Haridwar Highway पर, Haridwar से लगभग 5 किलोमीटर आगे Bhumaanand Hospital और Lemon Hotel के नजदीक स्थित है। यह Har Ki Pauri से लगभग 7 किलोमीटर दूर है।",
+    "spoken_answer": "JURS Country NH-334 Delhi-Haridwar Highway पर Bhumaanand Hospital और Lemon Hotel के पास स्थित है, जो Har Ki Pauri से लगभग 7 किलोमीटर है।"
+  },
+  {
+    "id": "jurs_dist_haridwar",
+    "topic": "Distance from Haridwar City",
+    "canonical_question": "JURS Country Haridwar से कितनी दूर है?",
+    "variations": [
+      "Jurs country Haridwar se kitni door hai?",
+      "Haridwar se kitna distance hai Jurs country ka?",
+      "Distance from Haridwar main city to Jurs Country"
+    ],
+    "answer": "JURS Country Haridwar से लगभग 5 किलोमीटर आगे है।",
+    "spoken_answer": "JURS Country Haridwar शहर से लगभग 5 किलोमीटर आगे स्थित है।"
+  },
+  {
+    "id": "jurs_dist_har_ki_pauri",
+    "topic": "Distance from Har Ki Pauri",
+    "canonical_question": "JURS Country Har Ki Pauri से कितनी दूर है?",
+    "variations": [
+      "Har Ki Pauri se kitni duri par hai Jurs Country?",
+      "Jurs country to Har ki pedi distance",
+      "Ganga ghat se kitna door hai Jurs country?",
+      "Distance from Har Ki Pauri to Jurs Country"
+    ],
+    "answer": "JURS Country Har Ki Pauri से लगभग 7 किलोमीटर दूर है।",
+    "spoken_answer": "JURS Country Har Ki Pauri से लगभग 7 किलोमीटर की दूरी पर है।"
+  },
+  {
+    "id": "jurs_dist_railway",
+    "topic": "Distance from Railway Station",
+    "canonical_question": "JURS Country Haridwar Railway Station से कितनी दूर है?",
+    "variations": [
+      "Haridwar station se jurs country kitna door hai?",
+      "Railway station to Jurs Country distance",
+      "Station se kitna time lagta hai Jurs country aane me?"
+    ],
+    "answer": "JURS Country Haridwar Railway Station से लगभग 5 किलोमीटर दूर है।",
+    "spoken_answer": "JURS Country Haridwar Railway Station से लगभग 5 किलोमीटर की दूरी पर है।"
+  },
+  {
+    "id": "jurs_dist_jwalapur",
+    "topic": "Distance from Jwalapur Station",
+    "canonical_question": "JURS Country Jwalapur Railway Station से कितनी दूर है?",
+    "variations": [
+      "Jwalapur station se kitni duri par hai?",
+      "Jwalapur railway station distance from Jurs country",
+      "Jwalapur se kitna pass hai?"
+    ],
+    "answer": "JURS Country Jwalapur Railway Station से मात्र 2 किलोमीटर की दूरी पर है।",
+    "spoken_answer": "JURS Country Jwalapur Railway Station से मात्र 2 किलोमीटर दूर है।"
+  },
+  {
+    "id": "jurs_dist_high_street",
+    "topic": "Distance from High Street",
+    "canonical_question": "JURS Country High Street से कितनी दूर है?",
+    "variations": [
+      "High street market se kitni door hai?",
+      "Jurs Country to high street distance"
+    ],
+    "answer": "JURS Country High Street से लगभग 1 किलोमीटर दूर है।",
+    "spoken_answer": "JURS Country High Street से लगभग 1 किलोमीटर की दूरी पर है।"
+  },
+  {
+    "id": "jurs_dist_sidcul_bhel",
+    "topic": "Distance from SIDCUL and BHEL",
+    "canonical_question": "JURS Country SIDCUL और BHEL से कितनी दूर है?",
+    "variations": [
+      "Sidcul se kitna distance hai Jurs country ka?",
+      "BHEL Haridwar se kitni door hai?",
+      "Distance to SIDCUL and BHEL from Jurs Country"
+    ],
+    "answer": "JURS Country SIDCUL और BHEL से लगभग 4 किलोमीटर दूर है।",
+    "spoken_answer": "JURS Country SIDCUL और BHEL से लगभग 4 किलोमीटर की दूरी पर है।"
+  },
+  {
+    "id": "jurs_acres",
+    "topic": "Township Area & Size",
+    "canonical_question": "JURS Country कितने एकड़ में फैला हुआ है?",
+    "variations": [
+      "Jurs country total kitne acre ka project hai?",
+      "Kitne area me bana hai Jurs country?",
+      "Total area of Jurs Country township in acres"
+    ],
+    "answer": "JURS Country लगभग 35 एकड़ में फैला हुआ Haridwar का विशाल integrated township है।",
+    "spoken_answer": "JURS Country लगभग 35 एकड़ में फैला हुआ विशाल integrated township है।"
+  },
+  {
+    "id": "jurs_overview",
+    "topic": "Project Overview",
+    "canonical_question": "JURS Country क्या है?",
+    "variations": [
+      "Jurs Country ke bare me batao",
+      "What is Jurs Country project?",
+      "Jurs Country me kya-kya hai?"
+    ],
+    "answer": "JURS Country Haridwar का 35 एकड़ का एक integrated township है, जिसमें premium economy flats, luxury apartments (2, 3, 4, 5 BHK), villas और plots के साथ स्कूल, क्लब हाउस और सभी आधुनिक सुविधाएँ उपलब्ध हैं।",
+    "spoken_answer": "JURS Country Haridwar का 35 एकड़ का integrated township है, जिसमें 2 से 5 BHK फ्लैट्स, विला और प्लॉट्स के साथ स्कूल और सभी लक्ज़री सुविधाएँ उपलब्ध हैं।"
+  },
+  {
+    "id": "jurs_why_integrated",
+    "topic": "Why Integrated Township",
+    "canonical_question": "JURS Country को integrated township क्यों कहा जाता है?",
+    "variations": [
+      "Integrated township ka matlab kya hai yahan?",
+      "Why is Jurs Country called integrated township?"
+    ],
+    "answer": "क्योंकि JURS Country में residential flats, luxury apartments, villas, plots के साथ-साथ The Wisdom Global School, club house, swimming pool, gym, parks, temple और yoga centre एक ही campus में integrated हैं।",
+    "spoken_answer": "क्योंकि JURS Country में घरों के साथ स्कूल, क्लब हाउस, स्विमिंग पूल, जिम, पार्क और मंदिर एक ही 35 एकड़ के कैंपस में उपलब्ध हैं।"
+  },
+  {
+    "id": "jurs_city_within_city",
+    "topic": "City within a City Concept",
+    "canonical_question": "JURS Country को 'City Within a City' क्यों कहा जाता है?",
+    "variations": [
+      "Why is Jurs Country called City Within a City?",
+      "City within a city kyu bolte hain isko?"
+    ],
+    "answer": "JURS Country में रहने के लिए घरों के साथ school, club house, sports facilities, parks, temple और सभी lifestyle सुविधाएँ एक ही township में उपलब्ध हैं, इसलिए इसे 'City Within a City' कहा जाता है।",
+    "spoken_answer": "यहाँ घरों के साथ स्कूल, स्पोर्ट्स, मंदिर और क्लब जैसी रोज़मर्रा की सभी सुविधाएँ एक ही कैंपस में हैं, इसलिए इसे City Within a City कहा जाता है।"
+  },
+  {
+    "id": "jurs_rera",
+    "topic": "RERA Approval & Registration",
+    "canonical_question": "क्या JURS Country RERA approved है?",
+    "variations": [
+      "Is Jurs Country RERA registered?",
+      "RERA number kya hai Jurs Country ka?",
+      "Kya rera approval hai project ke pass?",
+      "RERA registration details of Jurs Country"
+    ],
+    "answer": "हाँ जी, JURS Country RERA registered project है। इसका RERA registration number UKREP09170000025 है।",
+    "spoken_answer": "हाँ जी, JURS Country RERA registered है और इसका RERA नंबर UKREP09170000025 है।"
+  },
+  {
+    "id": "jurs_hrda",
+    "topic": "HRDA / HDA Approval",
+    "canonical_question": "क्या JURS Country HRDA/HDA approved है?",
+    "variations": [
+      "HRDA approved hai kya?",
+      "Haridwar Development Authority approval status",
+      "HDA se pass hai map?"
+    ],
+    "answer": "हाँ जी, JURS Country Haridwar Development Authority यानी HDA/HRDA approved project है।",
+    "spoken_answer": "हाँ जी, JURS Country पूरी तरह Haridwar Development Authority यानी HRDA approved है।"
+  },
+  {
+    "id": "jurs_freehold",
+    "topic": "Freehold Status",
+    "canonical_question": "क्या JURS Country freehold है?",
+    "variations": [
+      "Jurs Country freehold property hai ya leasehold?",
+      "Zameen freehold hai kya?",
+      "Is Jurs Country freehold?"
+    ],
+    "answer": "हाँ जी, JURS Country की जमीन completely freehold है, leasehold नहीं।",
+    "spoken_answer": "हाँ जी, JURS Country की ज़मीन 100% फ्रीहोल्ड है।"
+  },
+  {
+    "id": "jurs_land_registration",
+    "topic": "Land Mutation & Registration",
+    "canonical_question": "JURS Country की जमीन किसके नाम पर registered है?",
+    "variations": [
+      "Zameen kiske naam par registered hai?",
+      "Land registry mutation details of Jurs Country"
+    ],
+    "answer": "Project की जमीन developers के नाम fully mutated और registered है, और buyer को direct registry मिलती है।",
+    "spoken_answer": "प्रोजेक्ट की ज़मीन डेवलपर्स के नाम पूरी तरह म्यूटेटेड और रजिस्टर्ड है, जिससे बायर को डायरेक्ट रजिस्ट्री मिलती है।"
+  },
+  {
+    "id": "jurs_section_143",
+    "topic": "Section 143 Approval",
+    "canonical_question": "JURS Country की जमीन किस section के अंतर्गत approved है?",
+    "variations": [
+      "143 approved hai kya?",
+      "Section 143 residential township approval"
+    ],
+    "answer": "JURS Country की जमीन Residential Township के रूप में Section 143 के अंतर्गत approved है।",
+    "spoken_answer": "हाँ जी, JURS Country रेजिडेंशियल टाउनशिप के रूप में Section 143 के तहत अप्रूव्ड है।"
+  },
+  {
+    "id": "jurs_govt_approval",
+    "topic": "Uttarakhand Habitat Developer Approval",
+    "canonical_question": "JURS Country के developers Government of Uttarakhand से approved हैं?",
+    "variations": [
+      "Government of Uttarakhand approval status of developer"
+    ],
+    "answer": "हाँ जी, developers Government of Uttarakhand के Registered Habitat Developers के रूप में approved हैं।",
+    "spoken_answer": "हाँ जी, डेवलपर्स उत्तराखंड सरकार के रजिस्टर्ड हैबिटेट डेवलपर्स के रूप में अप्रूव्ड हैं।"
+  },
+  {
+    "id": "jurs_developer_name",
+    "topic": "Developer Details",
+    "canonical_question": "JURS Country का developer कौन है?",
+    "variations": [
+      "Jurs country kisne banaya hai?",
+      "Who is the developer of Jurs Country?",
+      "Builder name of Jurs Country"
+    ],
+    "answer": "JURS Country को The Vardhman Developers द्वारा develop किया गया है, जो The Rishabh Velveleen Group से जुड़े हैं।",
+    "spoken_answer": "JURS Country को The Vardhman Developers द्वारा डेवलप किया गया है, जो The Rishabh Velveleen Group से जुड़े हैं।"
+  },
+  {
+    "id": "jurs_developer_group",
+    "topic": "Rishabh Velveleen Group Background",
+    "canonical_question": "The Rishabh Velveleen Group कब स्थापित हुआ था?",
+    "variations": [
+      "Developer group background and establishment year"
+    ],
+    "answer": "The Rishabh Velveleen Group की स्थापना 1987 में German collaboration के साथ हुई थी।",
+    "spoken_answer": "The Rishabh Velveleen Group की स्थापना 1987 में जर्मन कोलैबोरेशन के साथ हुई थी।"
+  },
+  {
+    "id": "jurs_options",
+    "topic": "Residential Options Available",
+    "canonical_question": "JURS Country में कौन-कौन से residential options available हैं?",
+    "variations": [
+      "Jurs country me kya kya milta hai?",
+      "What properties are available in Jurs Country?",
+      "Flat villa plot sab hai kya?"
+    ],
+    "answer": "JURS Country में premium economy flats, luxury apartments (2, 3, 4, 5 BHK), villas और residential plots available हैं।",
+    "spoken_answer": "JURS Country में 2 से 5 BHK फ्लैट्स, विला और रेजिडेंशियल प्लॉट्स उपलब्ध हैं।"
+  },
+  {
+    "id": "jurs_bhk_types",
+    "topic": "BHK Configuration",
+    "canonical_question": "JURS Country में कौन-कौन से BHK available हैं?",
+    "variations": [
+      "Jurs country me kitne BHK flats hain?",
+      "BHK options in Jurs Country"
+    ],
+    "answer": "JURS Country में 2 BHK, 3 BHK, 4 BHK और 5 BHK luxury apartments available हैं।",
+    "spoken_answer": "JURS Country में 2 BHK, 3 BHK, 4 BHK और 5 BHK अपार्टमेंट्स उपलब्ध हैं।"
+  },
+  {
+    "id": "jurs_2bhk_sizes",
+    "topic": "2 BHK Sizes & Prices",
+    "canonical_question": "JURS Country में 2 BHK के कौन-कौन से sizes और price available हैं?",
+    "variations": [
+      "2 BHK size in Jurs Country",
+      "2 BHK price in Jurs Country",
+      "Jurs country me 2 BHK kitne ka hai?",
+      "880 sq ft 2 BHK price in Jurs Country",
+      "988 sq ft 2 BHK price in Jurs Country"
+    ],
+    "answer": "JURS Country में 2 BHK के दो sizes available हैं: 880 sq.ft (कीमत ₹45 लाख से शुरू) और 988 sq.ft (कीमत ₹48 लाख से शुरू)।",
+    "spoken_answer": "JURS Country में 2 BHK 880 स्क्वायर फीट 45 लाख से और 988 स्क्वायर फीट 48 लाख से शुरू है।"
+  },
+  {
+    "id": "jurs_3bhk_sizes",
+    "topic": "3 BHK Sizes & Prices",
+    "canonical_question": "JURS Country में 3 BHK के कौन-कौन से sizes और price available हैं?",
+    "variations": [
+      "3 BHK size in Jurs Country",
+      "3 BHK price in Jurs Country",
+      "Jurs country me 3 BHK kitne ka hai?",
+      "1210 sq ft 3 BHK price",
+      "1248 sq ft 3 BHK price",
+      "1388 sq ft 3 BHK price",
+      "1645 sq ft 3 BHK price"
+    ],
+    "answer": "JURS Country में 3 BHK के चार sizes हैं: 1210 sq.ft (₹60 लाख से शुरू), 1248 sq.ft (₹65 लाख से शुरू), 1388 sq.ft (₹70 लाख से शुरू) और 1645 sq.ft (₹87 लाख से शुरू)।",
+    "spoken_answer": "JURS Country में 3 BHK 1210 से 1645 स्क्वायर फीट में 60 लाख से 87 लाख रुपये तक उपलब्ध है।"
+  },
+  {
+    "id": "jurs_4bhk_sizes",
+    "topic": "4 BHK Sizes & Prices",
+    "canonical_question": "JURS Country में 4 BHK के कौन-कौन से sizes और price available हैं?",
+    "variations": [
+      "4 BHK size in Jurs Country",
+      "4 BHK price in Jurs Country",
+      "Jurs country me 4 BHK kitne ka hai?",
+      "2575 sq ft 4 BHK price",
+      "2720 sq ft 4 BHK price"
+    ],
+    "answer": "JURS Country में 4 BHK के दो sizes हैं: 2575 sq.ft (₹1 करोड़ 35 लाख से शुरू) और 2720 sq.ft (₹1 करोड़ 50 लाख से शुरू)।",
+    "spoken_answer": "JURS Country में 4 BHK 2575 स्क्वायर फीट 1 करोड़ 35 लाख से और 2720 स्क्वायर फीट 1 करोड़ 50 लाख से शुरू है।"
+  },
+  {
+    "id": "jurs_5bhk_size",
+    "topic": "5 BHK Size & Price",
+    "canonical_question": "JURS Country में 5 BHK का size और price कितना है?",
+    "variations": [
+      "5 BHK size in Jurs Country",
+      "5 BHK price in Jurs Country",
+      "Jurs country me 5 BHK kitne ka hai?",
+      "2296 sq ft 5 BHK price"
+    ],
+    "answer": "JURS Country में 5 BHK का size 2296 sq.ft है और इसकी कीमत ₹1 करोड़ 25 लाख से शुरू है।",
+    "spoken_answer": "JURS Country में 5 BHK 2296 स्क्वायर फीट का है और इसकी कीमत 1 करोड़ 25 लाख रुपये से शुरू है।"
+  },
+  {
+    "id": "jurs_amenities_list",
+    "topic": "Complete Amenities",
+    "canonical_question": "JURS Country में कौन-कौन सी amenities available हैं?",
+    "variations": [
+      "Jurs Country me kya kya amenities hain?",
+      "Facilities in Jurs Country Haridwar",
+      "Club house, swimming pool, gym hai kya?"
+    ],
+    "answer": "JURS Country में Club House, Swimming Pool, Gymnasium, Meditation & Yoga Centre, Lawn Tennis Courts, Café, Billiards, Cards Room, Table Tennis, Music Room, Temple, Amphitheatre और landscaped green parks available हैं।",
+    "spoken_answer": "JURS Country में क्लब हाउस, स्विमिंग पूल, जिम, मंदिर, योगा सेंटर, टेनिस कोर्ट, कैफ़े और हरे-भरे पार्क उपलब्ध हैं।"
+  },
+  {
+    "id": "jurs_school",
+    "topic": "The Wisdom Global School",
+    "canonical_question": "क्या JURS Country में school है?",
+    "variations": [
+      "Jurs country me school hai kya?",
+      "Wisdom Global School Jurs Country",
+      "School details in Jurs Country township"
+    ],
+    "answer": "हाँ जी, JURS Country के अंदर The Wisdom Global School integrated है, जो Nursery से Class 12 तक CBSE syllabus वाला fully air-conditioned स्कूल है।",
+    "spoken_answer": "हाँ जी, टाउनशिप के अंदर The Wisdom Global School है, जो नर्सरी से 12वीं तक CBSE बोर्ड का एयर-कंडीशंड स्कूल है।"
+  },
+  {
+    "id": "jurs_temple",
+    "topic": "Mandir / Temple",
+    "canonical_question": "क्या JURS Country में मंदिर (Temple) है?",
+    "variations": [
+      "Society ke andar mandir hai kya?",
+      "Temple in Jurs Country"
+    ],
+    "answer": "हाँ जी, JURS Country residential township के अंदर एक सुंदर और शांत मंदिर (Temple) बना हुआ है।",
+    "spoken_answer": "हाँ जी, JURS Country टाउनशिप के अंदर सुंदर मंदिर उपलब्ध है।"
+  },
+  {
+    "id": "jurs_villas_plots",
+    "topic": "Villas & Plots in JURS Country",
+    "canonical_question": "क्या JURS Country में villas और plots available हैं?",
+    "variations": [
+      "Jurs country me villa mil jayega kya?",
+      "Plots in Jurs Country Haridwar",
+      "Row house in Jurs Country"
+    ],
+    "answer": "हाँ जी, JURS Country में flats के अलावा luxurious row houses/villas और residential plots भी available हैं।",
+    "spoken_answer": "हाँ जी, JURS Country में फ्लैट्स के अलावा लग्ज़री विला और रेजिडेंशियल प्लॉट्स भी उपलब्ध हैं।"
+  },
+  {
+    "id": "jurs_towers_detail",
+    "topic": "Towers: Parsvnath, Vardhman, Rishabh Towers",
+    "canonical_question": "JURS Country में कौन-कौन से towers और developments हैं?",
+    "variations": [
+      "Parsvnath tower kya hai Jurs country me?",
+      "Vardhman tower Jurs Country",
+      "Rishabh tower Jurs Country"
+    ],
+    "answer": "JURS Country में US architect designed high-rise 'Parsvnath Towers', fully-fitted luxury 'Vardhman Tower', premium economy 'Rishabh Tower', luxury duplex apartments और villas शामिल हैं।",
+    "spoken_answer": "JURS Country में पार्श्वनाथ टॉवर्स, वर्धमान टॉवर, ऋषभ टॉवर, लक्ज़री डुप्लेक्स और विला शामिल हैं।"
+  },
+  {
+    "id": "jurs_piped_gas",
+    "topic": "Piped Natural Gas (PNG)",
+    "canonical_question": "क्या JURS Country में piped gas connection है?",
+    "variations": [
+      "PNG gas connection in Jurs Country",
+      "Gas line connection hai kya?"
+    ],
+    "answer": "JURS Country Haridwar का पहला project है जिसमें piped natural gas (PNG) की सुविधा दी गई है।",
+    "spoken_answer": "हाँ जी, JURS Country हरिद्वार का पहला प्रोजेक्ट है जिसमें पाइप्ड नेचुरल गैस की सुविधा उपलब्ध है।"
+  },
+  {
+    "id": "jurs_utilities",
+    "topic": "Power, Water, Security & Construction",
+    "canonical_question": "JURS Country में पानी, बिजली बैकअप और सिक्योरिटी कैसी है?",
+    "variations": [
+      "24 hour power backup hai kya?",
+      "Water supply and security in Jurs Country",
+      "Construction quality and earthquake resistance"
+    ],
+    "answer": "JURS Country में 24 घंटे water supply, 24 घंटे power backup, 3-tier digital security, single-entry gate, Grade A earthquake-resistant Zone 4 structure और rainwater harvesting की व्यवस्था है।",
+    "spoken_answer": "यहाँ 24 घंटे पावर बैकअप, 24 घंटे पानी, 3-टियर डिजिटल सिक्योरिटी और भूकंपरोधी ग्रेड-A कंस्ट्रक्शन है।"
+  },
+  {
+    "id": "jurs_bank_loan",
+    "topic": "Bank Loans & Eligibility",
+    "canonical_question": "JURS Country में bank loan कितना मिल सकता है?",
+    "variations": [
+      "Loan kitna percent milega?",
+      "Home loan banks approved for Jurs Country",
+      "SBI PNB HDFC loan in Jurs Country"
+    ],
+    "answer": "JURS Country SBI, HDFC, ICICI, Axis Bank, PNB और LIC से approved है। Eligible buyers को property value का लगभग 80% से 90% तक bank loan मिल सकता है।",
+    "spoken_answer": "JURS Country एसबीआई और पीएनबी सहित सभी प्रमुख बैंकों से अप्रूव्ड है, जहाँ 80 से 90 प्रतिशत तक बैंक लोन मिल सकता है।"
+  },
+  {
+    "id": "jurs_policy_doc_price",
+    "topic": "Policies: Latest Prices, Maintenance & Documents",
+    "canonical_question": "JURS Country में maintenance और latest price की क्या policy है?",
+    "variations": [
+      "Maintenance kitna hai?",
+      "Documents online bhej sakte ho kya?",
+      "Exact current price policy"
+    ],
+    "answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से।",
+    "spoken_answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से।"
+  }
+]
