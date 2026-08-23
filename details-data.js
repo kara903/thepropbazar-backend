@@ -54,16 +54,16 @@ const PROPERTY_DATA = {
                 "https://youtube.com/shorts/zCpAppKWXN0?feature=share"
             ],
             connectivity: [
-                { icon: "fa-place-of-worship", title: "Har Ki Pauri", distance: "13 km" },
-                { icon: "fa-train", title: "Haridwar bus/railway station", distance: "10.5 km" },
-                { icon: "fa-road", title: "NH- 58 Highway", distance: "2.5 km" },
-                { icon: "fa-hospital", title: "Hospital", distance: "1 km" },
-                { icon: "fa-cart-shopping", title: "Mall", distance: "1 km" },
-                { icon: "fa-school", title: "School / College", distance: "2.5 km" },
-                { icon: "fa-city", title: "Shivalik nagar", distance: "3.5 km" },
-                { icon: "fa-gas-pump", title: "Petrol pump", distance: "1 km" },
-                { icon: "fa-plane", title: "Jolly grand airport", distance: "50 km" },
-                { icon: "fa-location-dot", title: "Dehradun", distance: "65 km" }
+                { icon: "fa-place-of-worship", title: "Har Ki Pauri", distance: "25-30 Min Drive" },
+                { icon: "fa-train", title: "Haridwar bus/railway station", distance: "20-25 Min Drive" },
+                { icon: "fa-road", title: "NH- 58 Highway", distance: "5 Min Drive" },
+                { icon: "fa-hospital", title: "Hospital", distance: "2-3 Min Drive" },
+                { icon: "fa-cart-shopping", title: "Mall", distance: "2-3 Min Drive" },
+                { icon: "fa-school", title: "School / College", distance: "5 Min Drive" },
+                { icon: "fa-city", title: "Shivalik nagar", distance: "6-8 Min Drive" },
+                { icon: "fa-gas-pump", title: "Petrol pump", distance: "2 Min Drive" },
+                { icon: "fa-plane", title: "Jolly grand airport", distance: "55-60 Min Drive" },
+                { icon: "fa-location-dot", title: "Dehradun", distance: "1 hr 15 min Drive" }
             ],
             strengths: [
                 { icon: "fa-shield-halved", title: "Safe & Secure", desc: "Gated society with modern security." },
@@ -155,16 +155,16 @@ const PROPERTY_DATA = {
                 "https://youtu.be/ch3UQNx3vKM"
             ],
             connectivity: [
-                { icon: "fa-place-of-worship", title: "Har Ki Pauri", distance: "18 km" },
-                { icon: "fa-train", title: "Haridwar bus/railway station", distance: "15 km" },
-                { icon: "fa-road", title: "NH- 58 Highway", distance: "10 km" },
-                { icon: "fa-hospital", title: "Hospital", distance: "2.9 km" },
-                { icon: "fa-cart-shopping", title: "Mall", distance: "6.3 km" },
-                { icon: "fa-school", title: "School / College", distance: "1 km" },
-                { icon: "fa-city", title: "Shivalik nagar", distance: "7.8 km" },
-                { icon: "fa-gas-pump", title: "Petrol pump", distance: "0.5 km" },
-                { icon: "fa-plane", title: "Jolly grand airport", distance: "55 km" },
-                { icon: "fa-location-dot", title: "Dehradun", distance: "69 km" }
+                { icon: "fa-place-of-worship", title: "Har Ki Pauri", distance: "35-40 Min Drive" },
+                { icon: "fa-train", title: "Haridwar bus/railway station", distance: "30-35 Min Drive" },
+                { icon: "fa-road", title: "NH- 58 Highway", distance: "15-20 Min Drive" },
+                { icon: "fa-hospital", title: "Hospital", distance: "5-7 Min Drive" },
+                { icon: "fa-cart-shopping", title: "Mall", distance: "12-15 Min Drive" },
+                { icon: "fa-school", title: "School / College", distance: "2-3 Min Drive" },
+                { icon: "fa-city", title: "Shivalik nagar", distance: "15 Min Drive" },
+                { icon: "fa-gas-pump", title: "Petrol pump", distance: "1 Min Drive" },
+                { icon: "fa-plane", title: "Jolly grand airport", distance: "1 hr Drive" },
+                { icon: "fa-location-dot", title: "Dehradun", distance: "1 hr 20 min Drive" }
             ],
             strengths: [
                 { icon: "fa-shield-halved", title: "24x7 Security", desc: "Gated community with CCTV and security guards." },
@@ -235,16 +235,16 @@ const PROPERTY_DATA = {
             videos: [
 ],
             connectivity: [
-                { icon: "fa-place-of-worship", title: "Har Ki Pauri", distance: "17 km" },
-                { icon: "fa-train", title: "Haridwar bus/railway station", distance: "14 km" },
-                { icon: "fa-road", title: "NH- 58 Highway", distance: "9 km" },
-                { icon: "fa-hospital", title: "Hospital", distance: "1 km" },
-                { icon: "fa-cart-shopping", title: "Mall", distance: "5 km" },
-                { icon: "fa-school", title: "School / College", distance: "2 km" },
-                { icon: "fa-city", title: "Shivalik nagar", distance: "1.9 km" },
-                { icon: "fa-gas-pump", title: "Petrol pump", distance: "0.5 km" },
-                { icon: "fa-plane", title: "Jolly grand airport", distance: "54 km" },
-                { icon: "fa-location-dot", title: "Dehradun", distance: "68 km" }
+                { icon: "fa-place-of-worship", title: "Har Ki Pauri", distance: "30-35 Min Drive" },
+                { icon: "fa-train", title: "Haridwar bus/railway station", distance: "25-30 Min Drive" },
+                { icon: "fa-road", title: "NH- 58 Highway", distance: "15-18 Min Drive" },
+                { icon: "fa-hospital", title: "Hospital", distance: "2-3 Min Drive" },
+                { icon: "fa-cart-shopping", title: "Mall", distance: "Walking Distance (2 Min)" },
+                { icon: "fa-school", title: "School / College", distance: "4-5 Min Drive" },
+                { icon: "fa-city", title: "Shivalik nagar", distance: "4-5 Min Drive" },
+                { icon: "fa-gas-pump", title: "Petrol pump", distance: "1-2 Min Drive" },
+                { icon: "fa-plane", title: "Jolly grand airport", distance: "1 hr Drive" },
+                { icon: "fa-location-dot", title: "Dehradun", distance: "1 hr 20 min Drive" }
             ],
             strengths: [
                 { icon: "fa-shield-halved", title: "24x7 Security", desc: "Gated community with CCTV and security guards." },
@@ -301,16 +301,16 @@ const PROPERTY_DATA = {
                 "https://youtube.com/shorts/d_QVCNHLNMo?feature=share"
             ],
             connectivity: [
-                { icon: "fa-place-of-worship", title: "Har Ki Pauri", distance: "13 km" },
-                { icon: "fa-train", title: "Haridwar bus/railway station", distance: "10 km" },
-                { icon: "fa-road", title: "NH- 58 Highway", distance: "5 km" },
-                { icon: "fa-hospital", title: "Hospital", distance: "2 km" },
-                { icon: "fa-cart-shopping", title: "Mall", distance: "0 km" },
-                { icon: "fa-school", title: "School / College", distance: "1 km" },
-                { icon: "fa-city", title: "Shivalik nagar", distance: "0 km" },
-                { icon: "fa-gas-pump", title: "Petrol pump", distance: "1 km" },
-                { icon: "fa-plane", title: "Jolly grand airport", distance: "50 km" },
-                { icon: "fa-location-dot", title: "Dehradun", distance: "64 km" }
+                { icon: "fa-place-of-worship", title: "Har Ki Pauri", distance: "25-30 Min Drive" },
+                { icon: "fa-train", title: "Haridwar bus/railway station", distance: "20-25 Min Drive" },
+                { icon: "fa-road", title: "NH- 58 Highway", distance: "8-10 Min Drive" },
+                { icon: "fa-hospital", title: "Hospital", distance: "4-5 Min Drive" },
+                { icon: "fa-cart-shopping", title: "Mall", distance: "Walking Distance (1 Min)" },
+                { icon: "fa-school", title: "School / College", distance: "2-3 Min Drive" },
+                { icon: "fa-city", title: "Shivalik nagar", distance: "Walking Distance (2 Min)" },
+                { icon: "fa-gas-pump", title: "Petrol pump", distance: "2 Min Drive" },
+                { icon: "fa-plane", title: "Jolly grand airport", distance: "55-60 Min Drive" },
+                { icon: "fa-location-dot", title: "Dehradun", distance: "1 hr 15 min Drive" }
             ],
             strengths: [
                 { icon: "fa-shield-halved", title: "Gated Township", desc: "Premium security with multi-tier access control." },
@@ -412,16 +412,16 @@ const PROPERTY_DATA = {
                 "jurs country's society's images and videos/Jurs Country Jwalapur, Haridwar - MBTV by Magicbricks (720p, h264).mp4"
             ],
             connectivity: [
-                { icon: "fa-place-of-worship", title: "Har Ki Pauri", distance: "9 km" },
-                { icon: "fa-train", title: "Haridwar bus/railway station", distance: "7.6 km" },
-                { icon: "fa-road", title: "NH- 58 Highway", distance: "0 km" },
-                { icon: "fa-hospital", title: "Hospital", distance: "1 km" },
-                { icon: "fa-cart-shopping", title: "Mall", distance: "3 km" },
-                { icon: "fa-school", title: "School / College", distance: "2 km" },
-                { icon: "fa-city", title: "Shivalik nagar", distance: "3 km" },
-                { icon: "fa-gas-pump", title: "Petrol pump", distance: "0 km" },
-                { icon: "fa-plane", title: "Jolly grand airport", distance: "46 km" },
-                { icon: "fa-location-dot", title: "Dehradun", distance: "62 km" }
+                { icon: "fa-place-of-worship", title: "Har Ki Pauri", distance: "15-18 Min Drive" },
+                { icon: "fa-train", title: "Haridwar bus/railway station", distance: "12-15 Min Drive" },
+                { icon: "fa-road", title: "NH- 58 Highway", distance: "On Highway (0 Min)" },
+                { icon: "fa-hospital", title: "Hospital", distance: "2-3 Min Drive" },
+                { icon: "fa-cart-shopping", title: "Mall", distance: "5-6 Min Drive" },
+                { icon: "fa-school", title: "School / College", distance: "Inside Campus (Wisdom Global)" },
+                { icon: "fa-city", title: "Shivalik nagar", distance: "5-6 Min Drive" },
+                { icon: "fa-gas-pump", title: "Petrol pump", distance: "Next Door (1 Min)" },
+                { icon: "fa-plane", title: "Jolly grand airport", distance: "50 Min Drive" },
+                { icon: "fa-location-dot", title: "Dehradun", distance: "1 hr 10 min Drive" }
             ],
             strengths: [
                 { icon: "fa-shield-halved", title: "Premium Township", desc: "Fully gated township with round-the-clock security." },
@@ -457,10 +457,10 @@ const PROPERTY_DATA = {
             ],
             videos: [],
             connectivity: [
-                { icon: "fa-train", title: "Railway Station", distance: "6 km" },
-                { icon: "fa-road", title: "Main Road", distance: "1 km" },
-                { icon: "fa-hospital", title: "Hospital", distance: "3 km" },
-                { icon: "fa-school", title: "Schools", distance: "2 km" }
+                { icon: "fa-train", title: "Railway Station", distance: "12-15 Min Drive" },
+                { icon: "fa-road", title: "Main Road", distance: "2 Min Drive" },
+                { icon: "fa-hospital", title: "Hospital", distance: "5-7 Min Drive" },
+                { icon: "fa-school", title: "Schools", distance: "4-5 Min Drive" }
             ],
             strengths: [
                 { icon: "fa-shield-halved", title: "Secure Community", desc: "24x7 gated security with CCTV coverage." },
