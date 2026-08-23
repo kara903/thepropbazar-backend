@@ -160,7 +160,7 @@ const PROPERTY_DATA = {
                 { icon: "fa-road", title: "NH- 58 Highway", distance: "10 Min Drive" },
                 { icon: "fa-hospital", title: "Hospital", distance: "3 Min Drive" },
                 { icon: "fa-cart-shopping", title: "Mall", distance: "8 Min Drive" },
-                { icon: "fa-school", title: "School / College", distance: "2 Min Drive" },
+                { icon: "fa-school", title: "School / College", distance: "Inside Campus (Munjal School)" },
                 { icon: "fa-city", title: "Shivalik nagar", distance: "10 Min Drive" },
                 { icon: "fa-gas-pump", title: "Petrol pump", distance: "1 Min Drive" },
                 { icon: "fa-plane", title: "Jolly grand airport", distance: "45 Min Drive" },
@@ -307,7 +307,7 @@ const PROPERTY_DATA = {
                 { icon: "fa-hospital", title: "Hospital", distance: "3 Min Drive" },
                 { icon: "fa-cart-shopping", title: "Mall", distance: "Walking Distance (1 Min)" },
                 { icon: "fa-school", title: "School / College", distance: "2 Min Drive" },
-                { icon: "fa-city", title: "Shivalik nagar", distance: "Walking Distance (1 Min)" },
+                { icon: "fa-city", title: "Shivalik nagar", distance: "2 Min Drive (1 km)" },
                 { icon: "fa-gas-pump", title: "Petrol pump", distance: "1 Min Drive" },
                 { icon: "fa-plane", title: "Jolly grand airport", distance: "40 Min Drive" },
                 { icon: "fa-location-dot", title: "Dehradun", distance: "55 Min Drive" }
