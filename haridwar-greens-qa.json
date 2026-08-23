@@ -10,8 +10,9 @@
       "Possession year of Haridwar Greens",
       "Haridwar Greens ready-to-move kab hua?"
     ],
-    "answer": "Haridwar Greens Hero Homes द्वारा 2017 में deliver किया गया था। यह एक established ready-to-move freehold township है।",
-    "spoken_answer": "Haridwar Greens 2017 में deliver हुआ था और यह fully ready-to-move है।"
+    "answer": "हरिद्वार ग्रीन्स के 1075 स्क्वायर फीट 2 BHK का कारपेट एरिया 697 स्क्वायर फीट है।",
+    "spoken_answer": "Haridwar Greens 2017 में deliver हुआ था और यह fully ready-to-move है।",
+    "content": "Q: भैया हरिद्वार ग्रीन्स के 1075 स्क्वायर फीट का कारपेट एरिया कितना है?\nA: हरिद्वार ग्रीन्स के 1075 स्क्वायर फीट 2 BHK का कारपेट एरिया 697 स्क्वायर फीट है।"
   },
   {
     "id": "greens_overview",
