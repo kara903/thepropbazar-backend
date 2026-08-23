@@ -11,8 +11,9 @@
       "tell me about deep ganga",
       "deep ganga me kya milta hai"
     ],
-    "answer": "Deep Ganga SIDCUL Sector 5-A में स्थित 90 साल की लीज़होल्ड गेटेड टाउनशिप है, जहाँ 1 BHK, 2 BHK और 3 BHK फ्लैट्स उपलब्ध हैं।",
-    "spoken_answer": "Deep Ganga में 1 BHK, 2 BHK और 3 BHK फ्लैट्स उपलब्ध हैं।"
+    "answer": "दीप गंगा में 1 BHK फ्लैट का साइज 740 स्क्वायर फीट है और इसका रेट लगभग 26 लाख रुपये से शुरू हो जाता है।",
+    "spoken_answer": "Deep Ganga में 1 BHK, 2 BHK और 3 BHK फ्लैट्स उपलब्ध हैं।",
+    "content": "Q: भैया दीप गंगा में 1 BHK का क्या रेट चल रहा है?\nA: दीप गंगा में 1 BHK फ्लैट का साइज 740 स्क्वायर फीट है और इसका रेट लगभग 26 लाख रुपये से शुरू हो जाता है।"
   },
   {
     "id": "deep_ganga_loc_1",
