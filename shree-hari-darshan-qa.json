@@ -10,8 +10,9 @@
       "Patanjali Yogpeeth ke pass konsi plotted society hai?",
       "Hari Darshan City Patanjali"
     ],
-    "answer": "Shree Hari Darshan City Patanjali Yogpeeth, Haridwar के पास स्थित है। यह एक gated residential plotting project है।",
-    "spoken_answer": "Shree Hari Darshan City पतंजलि योगपीठ, हरिद्वार के पास स्थित एक गेटेड रेजिडेंशियल प्लॉट्स प्रोजेक्ट है।"
+    "answer": "श्री हरिदर्शन हरिद्वार में बहादराबाद टोल टैक्स के ठीक सामने बना हुआ प्रोजेक्ट है।",
+    "spoken_answer": "Shree Hari Darshan City पतंजलि योगपीठ, हरिद्वार के पास स्थित एक गेटेड रेजिडेंशियल प्लॉट्स प्रोजेक्ट है।",
+    "content": "Q: भैया श्री हरिदर्शन सिटी कहाँ पर है?\nA: श्री हरिदर्शन हरिद्वार में बहादराबाद टोल टैक्स के ठीक सामने बना हुआ प्रोजेक्ट है।"
   },
   {
     "id": "haridarshan_developer",
