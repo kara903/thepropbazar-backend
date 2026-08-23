@@ -77,11 +77,8 @@ const PROPERTY_DATA = {
     "Haridwar Greens": {
         "1BHK": {
             flatPhotos: [
-                "1 BHK flat images haridwar greens/photo1.jpg",
-                "1 BHK flat images haridwar greens/photo2.jpg"
             ],
             flatVideos: [
-                "1 BHK flat images haridwar greens/video1.mp4"
             ],
             size: "485 sq.ft",
             price: "₹16 Lakh*",
@@ -101,8 +98,6 @@ const PROPERTY_DATA = {
                 "2 BHK flat images haridwar greens/IMG-20260714-WA0058.jpg"
             ],
             flatVideos: [
-                "2 BHK flat images haridwar greens/VID-20260714-WA0048.mp4",
-                "2 BHK flat images haridwar greens/2 Bhk Apartment For Sale in Haridwar.#antriksh #nri #city 9897588881 - Investors Forum Realty (720p, h264).mp4"
             ],
             size: "1075 sq.ft",
             price: "₹38 Lakh*",
@@ -290,10 +285,7 @@ const PROPERTY_DATA = {
             description: "Antriksh NRI City is a premium township designed for NRI investors and families, offering international-standard living opposite Pentagon Mall Haridwar.",
             photos: [
                 "images/antriksh nri city.jpg",
-                "antriksh NRI city's society's images and videos/658322071O-1759996123386.jpg",
-                "antriksh NRI city's society's images and videos/658322077O-1759996123335.jpg",
                 "antriksh NRI city's society's images and videos/79023067_4_1745121088877-0042_470_1080.jpg",
-                "antriksh NRI city's society's images and videos/antriksh.jpg",
                 "antriksh NRI city's society's images and videos/od0wb987.jpg",
                 "antriksh NRI city's society's images and videos/site_plan_nri_city.jpg"
             ],
@@ -403,7 +395,6 @@ const PROPERTY_DATA = {
                 "jurs country's society's images and videos/gyihvezl.jpg",
                 "jurs country's society's images and videos/jdlg0ha_1715597149_491757414_sm.jpg",
                 "jurs country's society's images and videos/la6332d_1715597148_491757408_optOrig.jpg",
-                "jurs country's society's images and videos/lxcjc2o_1715597149_491757418_optOrig.jpg",
                 "jurs country's society's images and videos/mni7zzu_1715597147_491757392_sm.jpg",
                 "jurs country's society's images and videos/unnamed.jpg",
                 "jurs country's society's images and videos/yaupnns_1715597149_491757416_sm.jpg"
