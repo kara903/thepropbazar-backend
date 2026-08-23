@@ -14,7 +14,12 @@ async function getGoogleToken() {
             scopes: ['https://www.googleapis.com/auth/cloud-platform']
         };
 
-        if (process.env.GOOGLE_SERVICE_KEY_JSON) {
+        if (process.env.GOOGLE_SERVICE_KEY_BASE64) {
+            try {
+                const decoded = Buffer.from(process.env.GOOGLE_SERVICE_KEY_BASE64, 'base64').toString('utf8');
+                authOptions.credentials = JSON.parse(decoded);
+            } catch(e) {}
+        } else if (process.env.GOOGLE_SERVICE_KEY_JSON) {
             try {
                 authOptions.credentials = JSON.parse(process.env.GOOGLE_SERVICE_KEY_JSON);
             } catch(e) {}
