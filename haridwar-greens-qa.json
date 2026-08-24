@@ -1,288 +1,324 @@
 [
   {
-    "id": "greens_delivery_year",
-    "topic": "Delivery / Possession Year 2017",
-    "canonical_question": "Haridwar Greens कब डिलीवर हुआ था?",
+    "id": "train_004",
+    "topic": "Haridwar Greens 1 BHK Price",
+    "canonical_question": "हरिद्वार ग्रीन्स में 1 बीएचके फ्लैट कितने तक का मिल जाएगा भैया?",
     "variations": [
-      "Haridwar Greens kab deliver hua?",
-      "Haridwar Greens delivery date year",
-      "Haridwar Greens kab bana tha?",
-      "Possession year of Haridwar Greens",
-      "Haridwar Greens ready-to-move kab hua?"
+      "हरिद्वार ग्रीन्स में 1 बीएचके फ्लैट कितने तक का मिल जाएगा भैया?",
+      "हरिद्वार ग्रीन्स में 1 बीएचके फ्लैट कितने तक का मिल जाएगा ?",
+      "हरिद्वार ग्रीन्स में 1 बीएचके फ्लैट कितने तक का मिल जाएगा भैया"
+    ],
+    "answer": "हरिद्वार ग्रीन्स में 1 BHK फ्लैट लगभग 15 से 16 लाख रुपये के बजट में मिल जाता है।",
+    "spoken_answer": "हरिद्वार ग्रीन्स में 1 BHK फ्लैट लगभग 15 से 16 लाख रुपये के बजट में मिल जाता है।",
+    "content": "Q: हरिद्वार ग्रीन्स में 1 बीएचके फ्लैट कितने तक का मिल जाएगा भैया?\nA: हरिद्वार ग्रीन्स में 1 BHK फ्लैट लगभग 15 से 16 लाख रुपये के बजट में मिल जाता है।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_007",
+    "topic": "WhatsApp Registry Papers Policy",
+    "canonical_question": "भैया, मुझे हरिद्वार ग्रीन्स की रजिस्ट्री के पेपर्स और नक्शा व्हाट्सएप पर भेज दो ज़रा।",
+    "variations": [
+      "भैया, मुझे हरिद्वार ग्रीन्स की रजिस्ट्री के पेपर्स और नक्शा व्हाट्सएप पर भेज दो ज़रा।",
+      "मुझे हरिद्वार ग्रीन्स की रजिस्ट्री के पेपर्स और नक्शा व्हाट्सएप पर भेज दो ज़रा।",
+      "भैया, मुझे हरिद्वार ग्रीन्स की रजिस्ट्री के पेपर्स और नक्शा व्हाट्सएप पर भेज दो ज़रा"
+    ],
+    "answer": "जी आप हमारे ऑफिस में कॉन्टैक्ट कर लीजिए, हम आपको व्हाट्सएप में भेज देंगे।",
+    "spoken_answer": "जी आप हमारे ऑफिस में कॉन्टैक्ट कर लीजिए, हम आपको व्हाट्सएप में भेज देंगे।",
+    "content": "Q: भैया, मुझे हरिद्वार ग्रीन्स की रजिस्ट्री के पेपर्स और नक्शा व्हाट्सएप पर भेज दो ज़रा।\nA: जी आप हमारे ऑफिस में कॉन्टैक्ट कर लीजिए, हम आपको व्हाट्सएप में भेज देंगे।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_064",
+    "topic": "Haridwar Greens Delivery Year",
+    "canonical_question": "हरिद्वार ग्रीन्स कब डिलीवर हुई थी?",
+    "variations": [
+      "हरिद्वार ग्रीन्स कब डिलीवर हुई थी?",
+      "हरिद्वार ग्रीन्स कब डिलीवर हुई थी?",
+      "हरिद्वार ग्रीन्स कब डिलीवर हुई थी"
+    ],
+    "answer": "हरिद्वार ग्रीन्स 2017 में डिलीवर हुई थी।",
+    "spoken_answer": "हरिद्वार ग्रीन्स 2017 में डिलीवर हुई थी।",
+    "content": "Q: हरिद्वार ग्रीन्स कब डिलीवर हुई थी?\nA: हरिद्वार ग्रीन्स 2017 में डिलीवर हुई थी।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_071",
+    "topic": "Haridwar Greens 1 BHK Size & Price",
+    "canonical_question": "हरिद्वार ग्रीन्स में 1 BHK का क्या साइज और क्या रेट चल रहा है?",
+    "variations": [
+      "हरिद्वार ग्रीन्स में 1 BHK का क्या साइज और क्या रेट चल रहा है?",
+      "हरिद्वार ग्रीन्स में 1 BHK का क्या साइज और क्या रेट चल रहा है?",
+      "हरिद्वार ग्रीन्स में 1 BHK का क्या साइज और क्या रेट चल रहा है"
+    ],
+    "answer": "हरिद्वार ग्रीन्स में 1 BHK का कुल साइज़ लगभग 485 स्क्वायर फीट और सुपर बिल्डअप एरिया लगभग 367 स्क्वायर फीट है, और इसकी कीमत 16 से 17 लाख रुपये के बीच है।",
+    "spoken_answer": "हरिद्वार ग्रीन्स में 1 BHK का कुल साइज़ लगभग 485 स्क्वायर फीट और सुपर बिल्डअप एरिया लगभग 367 स्क्वायर फीट है, और इसकी कीमत 16 से 17 लाख रुपये के बीच है।",
+    "content": "Q: हरिद्वार ग्रीन्स में 1 BHK का क्या साइज और क्या रेट चल रहा है?\nA: हरिद्वार ग्रीन्स में 1 BHK का कुल साइज़ लगभग 485 स्क्वायर फीट और सुपर बिल्डअप एरिया लगभग 367 स्क्वायर फीट है, और इसकी कीमत 16 से 17 लाख रुपये के बीच है।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_083",
+    "topic": "Haridwar Greens 2 BHK & 3 BHK Pricing Starting",
+    "canonical_question": "हरिद्वार ग्रीन्स में 2 BHK और 3 BHK का क्या रेट चल रहा है?",
+    "variations": [
+      "हरिद्वार ग्रीन्स में 2 BHK और 3 BHK का क्या रेट चल रहा है?",
+      "हरिद्वार ग्रीन्स में 2 BHK और 3 BHK का क्या रेट चल रहा है?",
+      "हरिद्वार ग्रीन्स में 2 BHK और 3 BHK का क्या रेट चल रहा है"
+    ],
+    "answer": "हरिद्वार ग्रीन्स में 2 BHK का साइज लगभग 1075 स्क्वायर फीट है जो लगभग 38 लाख से शुरू होता है, और 3 BHK में 1410, 1484 और 1700 स्क्वायर फीट के साइज आते हैं जिनकी कीमत लगभग 55 से 60 लाख रुपये से शुरू होती है।",
+    "spoken_answer": "हरिद्वार ग्रीन्स में 2 BHK का साइज लगभग 1075 स्क्वायर फीट है जो लगभग 38 लाख से शुरू होता है, और 3 BHK में 1410, 1484 और 1700 स्क्वायर फीट के साइज आते हैं जिनकी कीमत लगभग 55 से 60 लाख रुपये से शुरू होती है।",
+    "content": "Q: हरिद्वार ग्रीन्स में 2 BHK और 3 BHK का क्या रेट चल रहा है?\nA: हरिद्वार ग्रीन्स में 2 BHK का साइज लगभग 1075 स्क्वायर फीट है जो लगभग 38 लाख से शुरू होता है, और 3 BHK में 1410, 1484 और 1700 स्क्वायर फीट के साइज आते हैं जिनकी कीमत लगभग 55 से 60 लाख रुपये से शुरू होती है।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_116",
+    "topic": "Shivalik Hills View from Haridwar Greens and Homeland",
+    "canonical_question": "क्या इन सोसायटियों से शिवालिक हिल्स का नजारा दिखता है?",
+    "variations": [
+      "क्या इन सोसायटियों से शिवालिक हिल्स का नजारा दिखता है?",
+      "क्या इन सोसायटियों से शिवालिक हिल्स का नजारा दिखता है?",
+      "क्या इन सोसायटियों से शिवालिक हिल्स का नजारा दिखता है"
+    ],
+    "answer": "जी हाँ, हरिद्वार ग्रीन्स और माई होम लैंड से शिवालिक हिल्स का बहुत ही प्यारा नजारा दिखता है।",
+    "spoken_answer": "जी हाँ, हरिद्वार ग्रीन्स और माई होम लैंड से शिवालिक हिल्स का बहुत ही प्यारा नजारा दिखता है।",
+    "content": "Q: क्या इन सोसायटियों से शिवालिक हिल्स का नजारा दिखता है?\nA: जी हाँ, हरिद्वार ग्रीन्स और माई होम लैंड से शिवालिक हिल्स का बहुत ही प्यारा नजारा दिखता है।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_119",
+    "topic": "Haridwar Greens Open Area & Walking Parks",
+    "canonical_question": "हरिद्वार ग्रीन्स में वॉक करने के लिए पार्क और खुला एरिया कैसा है?",
+    "variations": [
+      "हरिद्वार ग्रीन्स में वॉक करने के लिए पार्क और खुला एरिया कैसा है?",
+      "हरिद्वार ग्रीन्स में वॉक करने के लिए पार्क और खुला एरिया कैसा है?",
+      "हरिद्वार ग्रीन्स में वॉक करने के लिए पार्क और खुला एरिया कैसा है"
+    ],
+    "answer": "हरिद्वार ग्रीन्स का लगभग आधा हिस्सा खुला और ग्रीन एरिया है, जहाँ वॉक करने के लिए बहुत बड़े-बड़े और सुंदर पार्क बने हुए हैं।",
+    "spoken_answer": "हरिद्वार ग्रीन्स का लगभग आधा हिस्सा खुला और ग्रीन एरिया है, जहाँ वॉक करने के लिए बहुत बड़े-बड़े और सुंदर पार्क बने हुए हैं।",
+    "content": "Q: हरिद्वार ग्रीन्स में वॉक करने के लिए पार्क और खुला एरिया कैसा है?\nA: हरिद्वार ग्रीन्स का लगभग आधा हिस्सा खुला और ग्रीन एरिया है, जहाँ वॉक करने के लिए बहुत बड़े-बड़े और सुंदर पार्क बने हुए हैं।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_127",
+    "topic": "Haridwar Greens 12-Month Active Gym",
+    "canonical_question": "हरिद्वार ग्रीन्स में जिम की क्या टाइमिंग और सुविधाएं हैं?",
+    "variations": [
+      "हरिद्वार ग्रीन्स में जिम की क्या टाइमिंग और सुविधाएं हैं?",
+      "हरिद्वार ग्रीन्स में जिम की क्या टाइमिंग और सुविधाएं हैं?",
+      "हरिद्वार ग्रीन्स में जिम की क्या टाइमिंग और सुविधाएं हैं"
+    ],
+    "answer": "हरिद्वार ग्रीन्स का जिम और क्लब हाउस पूरे 12 महीने एक्टिव रहता है।",
+    "spoken_answer": "हरिद्वार ग्रीन्स का जिम और क्लब हाउस पूरे 12 महीने एक्टिव रहता है।",
+    "content": "Q: हरिद्वार ग्रीन्स में जिम की क्या टाइमिंग और सुविधाएं हैं?\nA: हरिद्वार ग्रीन्स का जिम और क्लब हाउस पूरे 12 महीने एक्टिव रहता है।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_132",
+    "topic": "Haridwar Greens Distance to Sidcul & Collectorate",
+    "canonical_question": "हरिद्वार ग्रीन्स से सिडकुल और रोशनाबाद कलेक्ट्रेट कितनी दूरी पर है?",
+    "variations": [
+      "हरिद्वार ग्रीन्स से सिडकुल और रोशनाबाद कलेक्ट्रेट कितनी दूरी पर है?",
+      "हरिद्वार ग्रीन्स से सिडकुल और रोशनाबाद कलेक्ट्रेट कितनी दूरी पर है?",
+      "हरिद्वार ग्रीन्स से सिडकुल और रोशनाबाद कलेक्ट्रेट कितनी दूरी पर है"
+    ],
+    "answer": "हरिद्वार ग्रीन्स से सिडकुल लगभग 3 से 4 किलोमीटर और रोशनाबाद कलेक्ट्रेट मात्र 1 किलोमीटर की दूरी पर है।",
+    "spoken_answer": "हरिद्वार ग्रीन्स से सिडकुल लगभग 3 से 4 किलोमीटर और रोशनाबाद कलेक्ट्रेट मात्र 1 किलोमीटर की दूरी पर है।",
+    "content": "Q: हरिद्वार ग्रीन्स से सिडकुल और रोशनाबाद कलेक्ट्रेट कितनी दूरी पर है?\nA: हरिद्वार ग्रीन्स से सिडकुल लगभग 3 से 4 किलोमीटर और रोशनाबाद कलेक्ट्रेट मात्र 1 किलोमीटर की दूरी पर है।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_141",
+    "topic": "1 BHK in 25-26 Lakh Budget (Deep Ganga & Haridwar Greens)",
+    "canonical_question": "मेरा बजट 25-26 लाख है, क्या मेरे को 1 BHK मिल जाएगा?",
+    "variations": [
+      "मेरा बजट 25-26 लाख है, क्या मेरे को 1 BHK मिल जाएगा?",
+      "मेरा बजट 25-26 लाख है, क्या मेरे को 1 BHK मिल जाएगा?",
+      "मेरा बजट 25-26 लाख है, क्या मेरे को 1 BHK मिल जाएगा"
+    ],
+    "answer": "हाँ जी, 1 BHK में ऑप्शन मिल जाएगा जैसे दीप गंगा में 740 स्क्वायर फीट लगभग 26 लाख से शुरू हो जाता है। वहीं दूसरी ओर हरिद्वार ग्रीन्स में आपको 1 BHK 16-17 लाख से मिल जाएगा।",
+    "spoken_answer": "हाँ जी, 1 BHK में ऑप्शन मिल जाएगा जैसे दीप गंगा में 740 स्क्वायर फीट लगभग 26 लाख से शुरू हो जाता है। वहीं दूसरी ओर हरिद्वार ग्रीन्स में आपको 1 BHK 16-17 लाख से मिल जाएगा।",
+    "content": "Q: मेरा बजट 25-26 लाख है, क्या मेरे को 1 BHK मिल जाएगा?\nA: हाँ जी, 1 BHK में ऑप्शन मिल जाएगा जैसे दीप गंगा में 740 स्क्वायर फीट लगभग 26 लाख से शुरू हो जाता है। वहीं दूसरी ओर हरिद्वार ग्रीन्स में आपको 1 BHK 16-17 लाख से मिल जाएगा।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_142",
+    "topic": "Difference between Deep Ganga and Haridwar Greens 1 BHK",
+    "canonical_question": "दीप गंगा और हरिद्वार ग्रीन्स के 1 BHK में क्या फर्क या अंतर है?",
+    "variations": [
+      "दीप गंगा और हरिद्वार ग्रीन्स के 1 BHK में क्या फर्क या अंतर है?",
+      "दीप गंगा और हरिद्वार ग्रीन्स के 1 BHK में क्या फर्क या अंतर है?",
+      "दीप गंगा और हरिद्वार ग्रीन्स के 1 BHK में क्या फर्क या अंतर है"
+    ],
+    "answer": "फर्क मुख्य रूप से साइज और इंटीरियर के काम पर है। दीप गंगा में 1 BHK का साइज 740 स्क्वायर फीट बड़ा आता है, जबकि हरिद्वार ग्रीन्स में 575 स्क्वायर फीट आता है। बाकी रीसेल फ्लैट्स होने की वजह से फ्लैट ओनर ने इंटीरियर में जैसा काम कराया होता है, उस पर भी डिपेंड करता है।",
+    "spoken_answer": "फर्क मुख्य रूप से साइज और इंटीरियर के काम पर है। दीप गंगा में 1 BHK का साइज 740 स्क्वायर फीट बड़ा आता है, जबकि हरिद्वार ग्रीन्स में 575 स्क्वायर फीट आता है। बाकी रीसेल फ्लैट्स होने की वजह से फ्लैट ओनर ने इंटीरियर में जैसा काम कराया होता है, उस पर भी डिपेंड करता है।",
+    "content": "Q: दीप गंगा और हरिद्वार ग्रीन्स के 1 BHK में क्या फर्क या अंतर है?\nA: फर्क मुख्य रूप से साइज और इंटीरियर के काम पर है। दीप गंगा में 1 BHK का साइज 740 स्क्वायर फीट बड़ा आता है, जबकि हरिद्वार ग्रीन्स में 575 स्क्वायर फीट आता है। बाकी रीसेल फ्लैट्स होने की वजह से फ्लैट ओनर ने इंटीरियर में जैसा काम कराया होता है, उस पर भी डिपेंड करता है।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_152",
+    "topic": "Haridwar Greens 3 BHK Balcony & Park View",
+    "canonical_question": "हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में कितनी बालकनी और किस तरह का व्यू मिलता है?",
+    "variations": [
+      "हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में कितनी बालकनी और किस तरह का व्यू मिलता है?",
+      "हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में कितनी बालकनी और किस तरह का व्यू मिलता है?",
+      "हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में कितनी बालकनी और किस तरह का व्यू मिलता है"
+    ],
+    "answer": "हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में बालकनी मिलती है और सामने पार्क और हरियाली का बहुत ही प्यारा व्यू मिल जाता है।",
+    "spoken_answer": "हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में बालकनी मिलती है और सामने पार्क और हरियाली का बहुत ही प्यारा व्यू मिल जाता है।",
+    "content": "Q: हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में कितनी बालकनी और किस तरह का व्यू मिलता है?\nA: हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में बालकनी मिलती है और सामने पार्क और हरियाली का बहुत ही प्यारा व्यू मिल जाता है।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_155",
+    "topic": "Haridwar Greens 3 BHK Balcony & Park View",
+    "canonical_question": "हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में कितनी बालकनी और किस तरह का व्यू मिलता है?",
+    "variations": [
+      "हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में कितनी बालकनी और किस तरह का व्यू मिलता है?",
+      "हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में कितनी बालकनी और किस तरह का व्यू मिलता है?",
+      "हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में कितनी बालकनी और किस तरह का व्यू मिलता है"
+    ],
+    "answer": "हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में बालकनी मिलती है और सामने पार्क और हरियाली का बहुत ही प्यारा व्यू मिल जाता है।",
+    "spoken_answer": "हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में बालकनी मिलती है और सामने पार्क और हरियाली का बहुत ही प्यारा व्यू मिल जाता है।",
+    "content": "Q: हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में कितनी बालकनी और किस तरह का व्यू मिलता है?\nA: हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में बालकनी मिलती है और सामने पार्क और हरियाली का बहुत ही प्यारा व्यू मिल जाता है।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_161",
+    "topic": "Universal Society Maintenance Policy",
+    "canonical_question": "हरिद्वार ग्रीन्स में 3 BHK का मंथली मेंटेनेंस चार्ज कितना रहता है?",
+    "variations": [
+      "हरिद्वार ग्रीन्स में 3 BHK का मंथली मेंटेनेंस चार्ज कितना रहता है?",
+      "हरिद्वार ग्रीन्स में 3 BHK का मंथली मेंटेनेंस चार्ज कितना रहता है?",
+      "हरिद्वार ग्रीन्स में 3 BHK का मंथली मेंटेनेंस चार्ज कितना रहता है"
+    ],
+    "answer": "जी, मेंटेनेंस चार्ज रेंटल कस्टमर्स और बायर्स के लिए थोड़ा अलग-अलग होता है, इसलिए इसकी सटीक जानकारी ऑफिस टीम से लेना ही बेहतर रहेगा।",
+    "spoken_answer": "जी, मेंटेनेंस चार्ज रेंटल कस्टमर्स और बायर्स के लिए थोड़ा अलग-अलग होता है, इसलिए इसकी सटीक जानकारी ऑफिस टीम से लेना ही बेहतर रहेगा।",
+    "content": "Q: हरिद्वार ग्रीन्स में 3 BHK का मंथली मेंटेनेंस चार्ज कितना रहता है?\nA: जी, मेंटेनेंस चार्ज रेंटल कस्टमर्स और बायर्स के लिए थोड़ा अलग-अलग होता है, इसलिए इसकी सटीक जानकारी ऑफिस टीम से लेना ही बेहतर रहेगा।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_184",
+    "topic": "Haridwar Greens Club House & 12 Months Active Amenities",
+    "canonical_question": "हरिद्वार ग्रीन्स के क्लब हाउस में क्या-क्या सुविधाएं मिलती हैं?",
+    "variations": [
+      "हरिद्वार ग्रीन्स के क्लब हाउस में क्या-क्या सुविधाएं मिलती हैं?",
+      "हरिद्वार ग्रीन्स के क्लब हाउस में क्या-क्या सुविधाएं मिलती हैं?",
+      "हरिद्वार ग्रीन्स के क्लब हाउस में क्या-क्या सुविधाएं मिलती हैं"
+    ],
+    "answer": "हरिद्वार ग्रीन्स में क्लब हाउस, स्विमिंग पूल और जिम जैसी सुविधाएं मिलती हैं, जो पूरे 12 महीने एक्टिव रहती हैं।",
+    "spoken_answer": "हरिद्वार ग्रीन्स में क्लब हाउस, स्विमिंग पूल और जिम जैसी सुविधाएं मिलती हैं, जो पूरे 12 महीने एक्टिव रहती हैं।",
+    "content": "Q: हरिद्वार ग्रीन्स के क्लब हाउस में क्या-क्या सुविधाएं मिलती हैं?\nA: हरिद्वार ग्रीन्स में क्लब हाउस, स्विमिंग पूल और जिम जैसी सुविधाएं मिलती हैं, जो पूरे 12 महीने एक्टिव रहती हैं।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_190",
+    "topic": "Haridwar Greens 2 BHK Ventilation and Sunlight",
+    "canonical_question": "हरिद्वार ग्रीन्स के 2 BHK में क्या दोनों बेडरूम में खिड़कियाँ और अच्छी धूप आती है?",
+    "variations": [
+      "हरिद्वार ग्रीन्स के 2 BHK में क्या दोनों बेडरूम में खिड़कियाँ और अच्छी धूप आती है?",
+      "हरिद्वार ग्रीन्स के 2 BHK में क्या दोनों बेडरूम में खिड़कियाँ और अच्छी धूप आती है?",
+      "हरिद्वार ग्रीन्स के 2 BHK में क्या दोनों बेडरूम में खिड़कियाँ और अच्छी धूप आती है"
+    ],
+    "answer": "हाँ जी, हरिद्वार ग्रीन्स के 2 BHK फ्लैट्स में अच्छा वेंटिलेशन और धूप आती है और दोनों बेडरूम काफी हवादार बने हुए हैं।",
+    "spoken_answer": "हाँ जी, हरिद्वार ग्रीन्स के 2 BHK फ्लैट्स में अच्छा वेंटिलेशन और धूप आती है और दोनों बेडरूम काफी हवादार बने हुए हैं।",
+    "content": "Q: हरिद्वार ग्रीन्स के 2 BHK में क्या दोनों बेडरूम में खिड़कियाँ और अच्छी धूप आती है?\nA: हाँ जी, हरिद्वार ग्रीन्स के 2 BHK फ्लैट्स में अच्छा वेंटिलेशन और धूप आती है और दोनों बेडरूम काफी हवादार बने हुए हैं।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_206",
+    "topic": "Haridwar Greens 3 BHK Standard Layout (No Store Room)",
+    "canonical_question": "क्या हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में अलग से स्टोर रूम का ऑप्शन है?",
+    "variations": [
+      "क्या हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में अलग से स्टोर रूम का ऑप्शन है?",
+      "क्या हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में अलग से स्टोर रूम का ऑप्शन है?",
+      "क्या हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में अलग से स्टोर रूम का ऑप्शन है"
+    ],
+    "answer": "जी नहीं, हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में अलग से स्टोर रूम नहीं आता, इसमें 3 बेडरूम, 2 या 3 वॉशरूम, लिविंग-डाइनिंग और किचन की लेआउट मिलती है।",
+    "spoken_answer": "जी नहीं, हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में अलग से स्टोर रूम नहीं आता, इसमें 3 बेडरूम, 2 या 3 वॉशरूम, लिविंग-डाइनिंग और किचन की लेआउट मिलती है।",
+    "content": "Q: क्या हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में अलग से स्टोर रूम का ऑप्शन है?\nA: जी नहीं, हरिद्वार ग्रीन्स के 3 BHK फ्लैट्स में अलग से स्टोर रूम नहीं आता, इसमें 3 बेडरूम, 2 या 3 वॉशरूम, लिविंग-डाइनिंग और किचन की लेआउट मिलती है।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_213",
+    "topic": "Haridwar Greens Cross Ventilation & Fresh Air",
+    "canonical_question": "हरिद्वार ग्रीन्स के फ्लैट्स में क्रॉस-वेंटिलेशन कैसा रहता है?",
+    "variations": [
+      "हरिद्वार ग्रीन्स के फ्लैट्स में क्रॉस-वेंटिलेशन कैसा रहता है?",
+      "हरिद्वार ग्रीन्स के फ्लैट्स में क्रॉस-वेंटिलेशन कैसा रहता है?",
+      "हरिद्वार ग्रीन्स के फ्लैट्स में क्रॉस-वेंटिलेशन कैसा रहता है"
+    ],
+    "answer": "हरिद्वार ग्रीन्स का लगभग आधा हिस्सा खुला और ग्रीन एरिया होने की वजह से फ्लैट्स में क्रॉस-वेंटिलेशन और ताजी हवा का फ्लो बहुत ही बढ़िया रहता है।",
+    "spoken_answer": "हरिद्वार ग्रीन्स का लगभग आधा हिस्सा खुला और ग्रीन एरिया होने की वजह से फ्लैट्स में क्रॉस-वेंटिलेशन और ताजी हवा का फ्लो बहुत ही बढ़िया रहता है।",
+    "content": "Q: हरिद्वार ग्रीन्स के फ्लैट्स में क्रॉस-वेंटिलेशन कैसा रहता है?\nA: हरिद्वार ग्रीन्स का लगभग आधा हिस्सा खुला और ग्रीन एरिया होने की वजह से फ्लैट्स में क्रॉस-वेंटिलेशन और ताजी हवा का फ्लो बहुत ही बढ़िया रहता है।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_223",
+    "topic": "Haridwar Greens Good Quality Vitrified Flooring Tiles",
+    "canonical_question": "हरिद्वार ग्रीन्स के फ्लैट्स में किस तरह की फ्लोरिंग टाइल्स लगी हैं?",
+    "variations": [
+      "हरिद्वार ग्रीन्स के फ्लैट्स में किस तरह की फ्लोरिंग टाइल्स लगी हैं?",
+      "हरिद्वार ग्रीन्स के फ्लैट्स में किस तरह की फ्लोरिंग टाइल्स लगी हैं?",
+      "हरिद्वार ग्रीन्स के फ्लैट्स में किस तरह की फ्लोरिंग टाइल्स लगी हैं"
+    ],
+    "answer": "जी, हरिद्वार ग्रीन्स के फ्लैट्स में अच्छी क्वालिटी की विट्रिफाइड टाइल्स लगी हुई हैं।",
+    "spoken_answer": "जी, हरिद्वार ग्रीन्स के फ्लैट्स में अच्छी क्वालिटी की विट्रिफाइड टाइल्स लगी हुई हैं।",
+    "content": "Q: हरिद्वार ग्रीन्स के फ्लैट्स में किस तरह की फ्लोरिंग टाइल्स लगी हैं?\nA: जी, हरिद्वार ग्रीन्स के फ्लैट्स में अच्छी क्वालिटी की विट्रिफाइड टाइल्स लगी हुई हैं।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_235",
+    "topic": "Haridwar Greens 485 sqft 1 BHK Exact Sizes and Carpet Area",
+    "canonical_question": "हरिद्वार ग्रीन्स के 1 BHK में ड्राइंग हॉल, बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है?",
+    "variations": [
+      "हरिद्वार ग्रीन्स के 1 BHK में ड्राइंग हॉल, बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है?",
+      "हरिद्वार ग्रीन्स के 1 BHK में ड्राइंग हॉल, बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है?",
+      "हरिद्वार ग्रीन्स के 1 BHK में ड्राइंग हॉल, बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है"
+    ],
+    "answer": "हरिद्वार ग्रीन्स में 1 BHK का साइज 485 स्क्वायर फीट आता है, जिसका बिल्ट-अप एरिया 367 स्क्वायर फीट और कारपेट एरिया 285 स्क्वायर फीट है। इसमें लिविंग/डाइनिंग हॉल 10x14 फीट, बेडरूम 10x10 फीट, टॉयलेट 5x7 फीट और बालकनी 5.5x4 फीट की मिलती है।",
+    "spoken_answer": "हरिद्वार ग्रीन्स में 1 BHK का साइज 485 स्क्वायर फीट आता है, जिसका बिल्ट-अप एरिया 367 स्क्वायर फीट और कारपेट एरिया 285 स्क्वायर फीट है। इसमें लिविंग/डाइनिंग हॉल 10x14 फीट, बेडरूम 10x10 फीट, टॉयलेट 5x7 फीट और बालकनी 5.5x4 फीट की मिलती है।",
+    "content": "Q: हरिद्वार ग्रीन्स के 1 BHK में ड्राइंग हॉल, बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है?\nA: हरिद्वार ग्रीन्स में 1 BHK का साइज 485 स्क्वायर फीट आता है, जिसका बिल्ट-अप एरिया 367 स्क्वायर फीट और कारपेट एरिया 285 स्क्वायर फीट है। इसमें लिविंग/डाइनिंग हॉल 10x14 फीट, बेडरूम 10x10 फीट, टॉयलेट 5x7 फीट और बालकनी 5.5x4 फीट की मिलती है।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_236",
+    "topic": "Haridwar Greens 1075 sqft 2 BHK Detailed Room Dimensions",
+    "canonical_question": "हरिद्वार ग्रीन्स के 1075 स्क्वायर फीट 2 BHK में ड्राइंग हॉल, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है?",
+    "variations": [
+      "हरिद्वार ग्रीन्स के 1075 स्क्वायर फीट 2 BHK में ड्राइंग हॉल, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है?",
+      "हरिद्वार ग्रीन्स के 1075 स्क्वायर फीट 2 BHK में ड्राइंग हॉल, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है?",
+      "हरिद्वार ग्रीन्स के 1075 स्क्वायर फीट 2 BHK में ड्राइंग हॉल, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है"
+    ],
+    "answer": "हरिद्वार ग्रीन्स के 1075 स्क्वायर फीट 2 BHK में ड्राइंग हॉल 17x12 फीट, मास्टर बेडरूम 11x13.5 फीट, दूसरा बेडरूम 11x11 फीट, किचन 9x7 फीट, बाथरूम 5x7.5 फीट और बालकनी 9x6 फीट की मिलती है।",
+    "spoken_answer": "हरिद्वार ग्रीन्स के 1075 स्क्वायर फीट 2 BHK में ड्राइंग हॉल 17x12 फीट, मास्टर बेडरूम 11x13.5 फीट, दूसरा बेडरूम 11x11 फीट, किचन 9x7 फीट, बाथरूम 5x7.5 फीट और बालकनी 9x6 फीट की मिलती है।",
+    "content": "Q: हरिद्वार ग्रीन्स के 1075 स्क्वायर फीट 2 BHK में ड्राइंग हॉल, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है?\nA: हरिद्वार ग्रीन्स के 1075 स्क्वायर फीट 2 BHK में ड्राइंग हॉल 17x12 फीट, मास्टर बेडरूम 11x13.5 फीट, दूसरा बेडरूम 11x11 फीट, किचन 9x7 फीट, बाथरूम 5x7.5 फीट और बालकनी 9x6 फीट की मिलती है।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_237",
+    "topic": "Haridwar Greens 3 BHK 1410 sqft Exact Room Dimensions",
+    "canonical_question": "हरिद्वार ग्रीन्स के 3 BHK फ्लैट में ड्राइंग-डाइनिंग हॉल, तीनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है?",
+    "variations": [
+      "हरिद्वार ग्रीन्स के 3 BHK फ्लैट में ड्राइंग-डाइनिंग हॉल, तीनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है?",
+      "हरिद्वार ग्रीन्स के 3 BHK फ्लैट में ड्राइंग-डाइनिंग हॉल, तीनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है?",
+      "हरिद्वार ग्रीन्स के 3 BHK फ्लैट में ड्राइंग-डाइनिंग हॉल, तीनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है"
+    ],
+    "answer": "हरिद्वार ग्रीन्स के 1410 स्क्वायर फीट 3 BHK का बिल्ट-अप एरिया 1225 स्क्वायर फीट और कारपेट एरिया 943 स्क्वायर फीट है। इसमें ड्राइंग हॉल 18x13 फीट, पहला बेडरूम 12x11.5 फीट, दूसरा बेडरूम 11x14 फीट, तीसरा बेडरूम 12.5x14 फीट, किचन 9x7 फीट, बाथरूम 4.5x7.5 फीट और 2 बालकनी मिलती हैं।",
+    "spoken_answer": "हरिद्वार ग्रीन्स के 1410 स्क्वायर फीट 3 BHK का बिल्ट-अप एरिया 1225 स्क्वायर फीट और कारपेट एरिया 943 स्क्वायर फीट है। इसमें ड्राइंग हॉल 18x13 फीट, पहला बेडरूम 12x11.5 फीट, दूसरा बेडरूम 11x14 फीट, तीसरा बेडरूम 12.5x14 फीट, किचन 9x7 फीट, बाथरूम 4.5x7.5 फीट और 2 बालकनी मिलती हैं।",
+    "content": "Q: हरिद्वार ग्रीन्स के 3 BHK फ्लैट में ड्राइंग-डाइनिंग हॉल, तीनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है?\nA: हरिद्वार ग्रीन्स के 1410 स्क्वायर फीट 3 BHK का बिल्ट-अप एरिया 1225 स्क्वायर फीट और कारपेट एरिया 943 स्क्वायर फीट है। इसमें ड्राइंग हॉल 18x13 फीट, पहला बेडरूम 12x11.5 फीट, दूसरा बेडरूम 11x14 फीट, तीसरा बेडरूम 12.5x14 फीट, किचन 9x7 फीट, बाथरूम 4.5x7.5 फीट और 2 बालकनी मिलती हैं।",
+    "project_name": "Haridwar Greens"
+  },
+  {
+    "id": "train_250",
+    "topic": "Haridwar Greens 1075 sqft 2 BHK Carpet Area (697 sqft)",
+    "canonical_question": "हरिद्वार ग्रीन्स के 1075 स्क्वायर फीट 2 BHK का कारपेट एरिया कितना है?",
+    "variations": [
+      "हरिद्वार ग्रीन्स के 1075 स्क्वायर फीट 2 BHK का कारपेट एरिया कितना है?",
+      "हरिद्वार ग्रीन्स के 1075 स्क्वायर फीट 2 BHK का कारपेट एरिया कितना है?",
+      "हरिद्वार ग्रीन्स के 1075 स्क्वायर फीट 2 BHK का कारपेट एरिया कितना है"
     ],
     "answer": "हरिद्वार ग्रीन्स के 1075 स्क्वायर फीट 2 BHK का कारपेट एरिया 697 स्क्वायर फीट है।",
-    "spoken_answer": "Haridwar Greens 2017 में deliver हुआ था और यह fully ready-to-move है।",
-    "content": "Q: भैया हरिद्वार ग्रीन्स के 1075 स्क्वायर फीट का कारपेट एरिया कितना है?\nA: हरिद्वार ग्रीन्स के 1075 स्क्वायर फीट 2 BHK का कारपेट एरिया 697 स्क्वायर फीट है।"
-  },
-  {
-    "id": "greens_overview",
-    "topic": "General Overview & Configurations (No unprompted price)",
-    "canonical_question": "Haridwar Greens के बारे में बताइए",
-    "variations": [
-      "Haridwar Greens ke baare me batao",
-      "haridwar greens kaisa hai",
-      "tell me about haridwar greens",
-      "haridwar greens me kya milta hai",
-      "haridwar greens ke baare me kuch batao"
-    ],
-    "answer": "Haridwar Greens सिडकुल में स्थित Hero Homes की 55 एकड़ की फ्रीहोल्ड टाउनशिप है, जहाँ 1 BHK (485 sq.ft), 2 BHK (1075 sq.ft) और 3 BHK (1410, 1484, 1700 sq.ft) फ्लैट्स उपलब्ध हैं।",
-    "spoken_answer": "Haridwar Greens में 1 BHK, 2 BHK और 3 BHK फ्लैट्स उपलब्ध हैं।"
-  },
-  {
-    "id": "greens_loc_1",
-    "topic": "Location & Address",
-    "canonical_question": "Haridwar Greens कहाँ पर है और किधर की साइड पड़ता है?",
-    "variations": [
-      "Haridwar Greens kahan par hai?",
-      "Haridwar Greens kahan padta hai?",
-      "kidhar ki side ko padta hai",
-      "kidhar padta hai Haridwar Greens",
-      "Where is Haridwar Greens located in Haridwar?",
-      "Haridwar Greens ki location kya hai?",
-      "Jawahar Navodaya Vidyalaya Sidcul ke pass konsi society hai?",
-      "Roshnabad stadium ke pass Haridwar Greens hai kya?",
-      "Haridwar Greens kis area me hai?"
-    ],
-    "answer": "Haridwar Greens SIDCUL, Haridwar में Jawahar Navodaya Vidyalaya और Roshnabad Stadium के पास स्थित है। (ध्यान दें: यह सिडकुल-रोशनाबाद एरिया में है, गंगा नदी या हाईवे के पास नहीं है)।",
-    "spoken_answer": "Haridwar Greens सिडकुल में जवाहर नवोदय विद्यालय और रोशनाबाद स्टेडियम के पास स्थित है।"
-  },
-  {
-    "id": "greens_dist_sidcul",
-    "topic": "Distance from SIDCUL",
-    "canonical_question": "Haridwar Greens SIDCUL से कितनी दूर है?",
-    "variations": [
-      "Sidcul se kitna door hai Haridwar Greens?",
-      "Sidcul to Haridwar Greens distance"
-    ],
-    "answer": "Haridwar Greens SIDCUL से मात्र लगभग 1 किलोमीटर की दूरी पर है।",
-    "spoken_answer": "Haridwar Greens SIDCUL से मात्र 1 किलोमीटर की दूरी पर है।"
-  },
-  {
-    "id": "greens_dist_court",
-    "topic": "Distance from District Court",
-    "canonical_question": "Haridwar Greens District Court से कितनी दूर है?",
-    "variations": [
-      "District Court Roshnabad se kitna door hai?",
-      "Court to Haridwar Greens distance"
-    ],
-    "answer": "Haridwar Greens District Court से लगभग 3 किलोमीटर दूर है।",
-    "spoken_answer": "Haridwar Greens डिस्ट्रिक्ट कोर्ट से लगभग 3 किलोमीटर दूर है।"
-  },
-  {
-    "id": "greens_dist_bhadrabad",
-    "topic": "Distance from Bhadrabad Junction",
-    "canonical_question": "Haridwar Greens Bhadrabad Junction से कितनी दूर है?",
-    "variations": [
-      "Bhadrabad se kitna distance hai Haridwar Greens ka?"
-    ],
-    "answer": "Haridwar Greens Bhadrabad Junction से लगभग 9 किलोमीटर दूर है।",
-    "spoken_answer": "Haridwar Greens बहादराबाद जंक्शन से लगभग 9 किलोमीटर दूर है।"
-  },
-  {
-    "id": "greens_dist_ranipur",
-    "topic": "Distance from Ranipur Mor",
-    "canonical_question": "Haridwar Greens Ranipur Mor से कितनी दूर है?",
-    "variations": [
-      "Ranipur mor se kitni door hai Haridwar Greens?"
-    ],
-    "answer": "Haridwar Greens Ranipur Mor से लगभग 13 किलोमीटर दूर है।",
-    "spoken_answer": "Haridwar Greens रानीपुर मोड़ से लगभग 13 किलोमीटर की दूरी पर है।"
-  },
-  {
-    "id": "greens_dist_patanjali",
-    "topic": "Distance from Patanjali Yogpeeth",
-    "canonical_question": "Haridwar Greens Patanjali Yogpeeth से कितनी दूर है?",
-    "variations": [
-      "Patanjali Yogpeeth to Haridwar Greens distance"
-    ],
-    "answer": "Haridwar Greens Patanjali Yogpeeth से लगभग 14 किलोमीटर दूर है।",
-    "spoken_answer": "Haridwar Greens पतंजलि योगपीठ से लगभग 14 किलोमीटर दूर है।"
-  },
-  {
-    "id": "greens_dist_station",
-    "topic": "Distance from Railway Station",
-    "canonical_question": "Haridwar Greens Haridwar Railway Station से कितनी दूर है?",
-    "variations": [
-      "Haridwar station se kitna door hai Haridwar Greens?",
-      "Railway station to Haridwar Greens"
-    ],
-    "answer": "Haridwar Greens Haridwar Railway Station से लगभग 15 किलोमीटर दूर है।",
-    "spoken_answer": "Haridwar Greens रेलवे स्टेशन से लगभग 15 किलोमीटर दूर है।"
-  },
-  {
-    "id": "greens_dist_har_ki_pauri",
-    "topic": "Distance from Har Ki Pauri",
-    "canonical_question": "Haridwar Greens Har Ki Pauri से कितनी दूर है?",
-    "variations": [
-      "Har Ki Pauri se kitna distance hai Haridwar Greens ka?",
-      "Ganga ghat se kitni duri par hai Haridwar Greens?"
-    ],
-    "answer": "Haridwar Greens Har Ki Pauri से लगभग 17 किलोमीटर दूर है।",
-    "spoken_answer": "Haridwar Greens Har Ki Pauri से लगभग 17 किलोमीटर की दूरी पर है।"
-  },
-  {
-    "id": "greens_dist_airport_dehradun",
-    "topic": "Distance from Airport & Dehradun",
-    "canonical_question": "Haridwar Greens Jolly Grant Airport और Dehradun से कितनी दूर है?",
-    "variations": [
-      "Airport se kitni door hai Haridwar Greens?",
-      "Dehradun distance from Haridwar Greens"
-    ],
-    "answer": "Haridwar Greens Jolly Grant Airport से लगभग 51 किलोमीटर और Dehradun से लगभग 67 किलोमीटर दूर है।",
-    "spoken_answer": "Haridwar Greens जॉली ग्रांट एयरपोर्ट से 51 किलोमीटर और देहरादून से 67 किलोमीटर दूर है।"
-  },
-  {
-    "id": "greens_acres_greenery",
-    "topic": "55-Acre Township, 27 Towers, 1500+ Flats & 75% Greenery",
-    "canonical_question": "Haridwar Greens कितने एकड़ में फैला है, कितने towers और flats हैं?",
-    "variations": [
-      "Haridwar Greens kitne acre ka project hai?",
-      "Haridwar Greens me kitne tower hain?",
-      "Total flats in Haridwar Greens",
-      "55 acre township Haridwar Greens",
-      "Greenery percentage in Haridwar Greens",
-      "Kitna open space hai Haridwar Greens me?"
-    ],
-    "answer": "Haridwar Greens लगभग 55 एकड़ की विशाल integrated township है, जिसमें कुल 27 towers और 1500 से अधिक flats हैं, और लगभग 75% open व landscaped green area है।",
-    "spoken_answer": "Haridwar Greens 55 एकड़ की टाउनशिप है जिसमें 27 टावर्स और 1500 से ज्यादा फ्लैट्स हैं, साथ ही 75 प्रतिशत ग्रीन एरिया है।"
-  },
-  {
-    "id": "greens_developer_architect",
-    "topic": "Hero Homes & Canadian B+H Architects",
-    "canonical_question": "Haridwar Greens का developer और architect कौन है?",
-    "variations": [
-      "Haridwar Greens kisne banaya hai?",
-      "Hero Homes Haridwar Greens",
-      "Architect of Haridwar Greens B+H Canada"
-    ],
-    "answer": "Haridwar Greens Hero Homes (Hero Realty / Hero Enterprise) का प्रतिष्ठित प्रोजेक्ट है, जिसे Canada के globally renowned B+H Architects ने design किया है।",
-    "spoken_answer": "यह Hero Homes का प्रोजेक्ट है, जिसे कनाडा की मशहूर आर्किटेक्चर फर्म B+H Architects ने डिज़ाइन किया है।"
-  },
-  {
-    "id": "greens_school",
-    "topic": "BML Munjal Green Medows School",
-    "canonical_question": "क्या Haridwar Greens में school है?",
-    "variations": [
-      "Haridwar Greens me school hai kya?",
-      "BML Munjal school Haridwar Greens",
-      "School in Haridwar Greens township"
-    ],
-    "answer": "हाँ जी, Haridwar Greens township के अंदर BML Munjal Green Medows School already fully operational है।",
-    "spoken_answer": "हाँ जी, टाउनशिप के अंदर BML Munjal Green Medows School पहले से ही संचालित है।"
-  },
-  {
-    "id": "greens_flats_overview",
-    "topic": "Flats Configurations Available",
-    "canonical_question": "Haridwar Greens में कौन-कौन से flats available हैं?",
-    "variations": [
-      "Haridwar Greens me kitne BHK flats milte hain?",
-      "1 BHK 2 BHK 3 BHK options in Haridwar Greens",
-      "Flat types in Haridwar Greens"
-    ],
-    "answer": "Haridwar Greens में 1 BHK, 2 BHK (1075 sq.ft), 3 BHK (1410, 1484, 1700 sq.ft) और Studio category उपलब्ध हैं।",
-    "spoken_answer": "Haridwar Greens में 1 BHK, 2 BHK (1075 स्क्वायर फीट) और 3 BHK (1410 से 1700 स्क्वायर फीट) फ्लैट्स उपलब्ध हैं।"
-  },
-  {
-    "id": "greens_1bhk_price",
-    "topic": "1 BHK Size & Price",
-    "canonical_question": "Haridwar Greens में 1 BHK का size और price क्या है?",
-    "variations": [
-      "1 BHK price in Haridwar Greens",
-      "1 BHK kitne ka hai Haridwar Greens me?",
-      "1 BHK size in Haridwar Greens",
-      "485 sq ft flat Haridwar Greens",
-      "367 sq ft flat"
-    ],
-    "answer": "Haridwar Greens में 1 BHK का कुल साइज़ लगभग 485 sq.ft और सुपर बिल्डअप एरिया लगभग 367 sq.ft है, और इसकी कीमत ₹16 से 17 लाख के बीच है।",
-    "spoken_answer": "Haridwar Greens में 1 BHK 485 स्क्वायर फीट का है और इसकी कीमत लगभग 16 से 17 लाख रुपये से शुरू है।"
-  },
-  {
-    "id": "greens_2bhk_price",
-    "topic": "2 BHK Size & Price",
-    "canonical_question": "Haridwar Greens में 2 BHK का size और price कितना है?",
-    "variations": [
-      "2 BHK size in Haridwar Greens",
-      "2 BHK price in Haridwar Greens",
-      "1075 sq ft flat price in Haridwar Greens"
-    ],
-    "answer": "Haridwar Greens में 2 BHK का size लगभग 1075 sq.ft है और इसकी कीमत लगभग ₹38 लाख से शुरू होती है।",
-    "spoken_answer": "Haridwar Greens में 2 BHK 1075 स्क्वायर फीट का है और इसकी कीमत लगभग 38 लाख रुपये से शुरू है।"
-  },
-  {
-    "id": "greens_3bhk_prices",
-    "topic": "3 BHK Sizes & Pricing",
-    "canonical_question": "Haridwar Greens में 3 BHK के कौन-कौन से sizes और prices available हैं?",
-    "variations": [
-      "3 BHK price in Haridwar Greens",
-      "3 BHK sizes in Haridwar Greens",
-      "1410 sq ft 3 BHK price",
-      "1484 sq ft 3 BHK price",
-      "1700 sq ft 3 BHK price"
-    ],
-    "answer": "Haridwar Greens में 3 BHK के तीन sizes हैं: 1410 sq.ft (₹50 लाख से शुरू), 1484 sq.ft (₹53 लाख से शुरू) और 1700 sq.ft (₹62 लाख से शुरू)।",
-    "spoken_answer": "Haridwar Greens में 3 BHK 1410 स्क्वायर फीट 50 लाख से, 1484 स्क्वायर फीट 53 लाख से और 1700 स्क्वायर फीट 62 लाख से शुरू है।"
-  },
-  {
-    "id": "greens_legal_rera_hrda",
-    "topic": "Legal, Freehold, RERA & HRDA",
-    "canonical_question": "क्या Haridwar Greens RERA और HRDA approved है और इसका RERA number क्या है?",
-    "variations": [
-      "Haridwar Greens RERA approved hai kya?",
-      "RERA number of Haridwar Greens",
-      "UKREP01190000211",
-      "HRDA approval status of Haridwar Greens",
-      "Freehold hai ya leasehold?",
-      "Registry hoti hai kya Haridwar Greens me?"
-    ],
-    "answer": "हाँ जी, Haridwar Greens RERA registered (RERA No: UKREP01190000211) और HRDA approved है। यह Hero Homes की 100% Freehold township है और direct buyer registry होती है।",
-    "spoken_answer": "हाँ जी, Haridwar Greens RERA रजिस्टर्ड है जिसका नंबर UKREP01190000211 है, और यह 100% फ्रीहोल्ड टाउनशिप है।"
-  },
-  {
-    "id": "greens_amenities",
-    "topic": "Amenities & Shivalik Views",
-    "canonical_question": "Haridwar Greens में कौन-कौन सी amenities उपलब्ध हैं?",
-    "variations": [
-      "Swimming pool gym in Haridwar Greens",
-      "Clubhouse and power backup in Haridwar Greens",
-      "Shivalik hills view from Haridwar Greens"
-    ],
-    "answer": "Haridwar Greens में Club House, Swimming Pool, Gym, 100% Power Backup, 24 घंटे पानी, 2-Tier Gated Security, BML Munjal School, 75% Green Areas और Shivalik Hills के सुंदर views उपलब्ध हैं।",
-    "spoken_answer": "यहाँ क्लब हाउस, स्विमिंग पूल, जिम, स्कूल, 100% पावर बैकअप, 2-टियर सिक्योरिटी और शिवालिक हिल्स के सुंदर व्यूज मिलते हैं।"
-  },
-  {
-    "id": "greens_plots_utkarsh",
-    "topic": "Utkarsh Premium Plots in Haridwar Greens",
-    "canonical_question": "क्या Haridwar Greens में plots भी available हैं?",
-    "variations": [
-      "Plots in Haridwar Greens",
-      "Utkarsh plots Hero Homes",
-      "Plotted development in Haridwar Greens"
-    ],
-    "answer": "हाँ जी, Hero Homes की Haridwar Greens township में Utkarsh premium residential plots का भी development है। Current availability के लिए टीम से संपर्क कर सकते हैं।",
-    "spoken_answer": "हाँ जी, Haridwar Greens में फ्लैट्स के अलावा Hero Homes के Utkarsh रेजिडेंशियल प्लॉट्स भी उपलब्ध हैं।"
-  },
-  {
-    "id": "greens_bank_loan",
-    "topic": "Bank Loan Eligibility",
-    "canonical_question": "Haridwar Greens में flat खरीदने पर bank loan कितना मिल सकता है?",
-    "variations": [
-      "Haridwar Greens me loan kitna milega?",
-      "Bank finance in Haridwar Greens",
-      "Home loan available in Haridwar Greens"
-    ],
-    "answer": "Haridwar Greens सभी प्रमुख बैंकों से approved है, और eligible buyers को property value का लगभग 80% से 90% तक bank loan मिल जाता है।",
-    "spoken_answer": "हाँ जी, Haridwar Greens में एलिजिबल बायर्स को 80 से 90 प्रतिशत तक बैंक लोन आसानी से मिल जाता है।"
-  },
-  {
-    "id": "greens_policy_docs_price",
-    "topic": "Price & Document Policies",
-    "canonical_question": "Haridwar Greens में latest price और maintenance की क्या policy है?",
-    "variations": [
-      "Exact current price of Haridwar Greens",
-      "Maintenance charges in Haridwar Greens",
-      "Documents online available"
-    ],
-    "answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से।",
-    "spoken_answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से।"
+    "spoken_answer": "हरिद्वार ग्रीन्स के 1075 स्क्वायर फीट 2 BHK का कारपेट एरिया 697 स्क्वायर फीट है।",
+    "content": "Q: हरिद्वार ग्रीन्स के 1075 स्क्वायर फीट 2 BHK का कारपेट एरिया कितना है?\nA: हरिद्वार ग्रीन्स के 1075 स्क्वायर फीट 2 BHK का कारपेट एरिया 697 स्क्वायर फीट है।",
+    "project_name": "Haridwar Greens"
   }
 ]
