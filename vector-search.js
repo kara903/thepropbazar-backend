@@ -17,6 +17,7 @@ let deepGangaQA = [];
 let antrikshNRICityQA = [];
 let myHomeLandQA = [];
 let shreeHariDarshanQA = [];
+let generalPoliciesQA = [];
 
 try {
     const jursPath = path.join(__dirname, 'jurs-country-qa.json');
@@ -53,6 +54,11 @@ try {
     if (fs.existsSync(hariPath)) {
         shreeHariDarshanQA = JSON.parse(fs.readFileSync(hariPath, 'utf8'));
         console.log(`✓ Loaded ${shreeHariDarshanQA.length} Shree Hari Darshan City Q&A pairs.`);
+    }
+    const generalPath = path.join(__dirname, 'general-policies-qa.json');
+    if (fs.existsSync(generalPath)) {
+        generalPoliciesQA = JSON.parse(fs.readFileSync(generalPath, 'utf8'));
+        console.log(`✓ Loaded ${generalPoliciesQA.length} General Policies Q&A pairs.`);
     }
 } catch (err) {
     console.warn("Notice: Error loading Q&A datasets:", err.message);
@@ -346,10 +352,11 @@ function searchLocalQA(query, options = {}) {
         'Deep Ganga': deepGangaQA,
         'Antriksh NRI City': antrikshNRICityQA,
         'My Home Land': myHomeLandQA,
-        'Shree Hari Darshan City': shreeHariDarshanQA
+        'Shree Hari Darshan City': shreeHariDarshanQA,
+        'General Policies': generalPoliciesQA
     })) {
         if (!Array.isArray(dataset) || !dataset.length) continue;
-        if (project && projectName !== project) continue;
+        if (project && projectName !== project && projectName !== 'General Policies') continue;
 
         for (const item of dataset) {
             const score = scoreQA(item, query, projectName);
