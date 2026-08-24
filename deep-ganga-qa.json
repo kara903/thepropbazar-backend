@@ -1,236 +1,338 @@
 [
   {
-    "id": "deep_ganga_overview",
-    "topic": "General Overview & Configurations (No unprompted price)",
-    "canonical_question": "Deep Ganga के बारे में बताइए",
+    "id": "train_002",
+    "topic": "Deep Ganga Location",
+    "canonical_question": "दीप गंगा कहाँ पर स्थित है?",
     "variations": [
-      "Deep Ganga ke baare me batao",
-      "Deep Ganga ke baare me batao kuch jyada",
-      "डीप गंगा के बारे में बताओ कुछ ज्यादा",
-      "deep ganga kaisa hai",
-      "tell me about deep ganga",
-      "deep ganga me kya milta hai"
+      "दीप गंगा कहाँ पर स्थित है?",
+      "दीप गंगा कहाँ पर स्थित है?",
+      "दीप गंगा कहाँ पर स्थित है"
     ],
-    "answer": "दीप गंगा में 1 BHK फ्लैट का साइज 740 स्क्वायर फीट है और इसका रेट लगभग 26 लाख रुपये से शुरू हो जाता है।",
-    "spoken_answer": "Deep Ganga में 1 BHK, 2 BHK और 3 BHK फ्लैट्स उपलब्ध हैं।",
-    "content": "Q: भैया दीप गंगा में 1 BHK का क्या रेट चल रहा है?\nA: दीप गंगा में 1 BHK फ्लैट का साइज 740 स्क्वायर फीट है और इसका रेट लगभग 26 लाख रुपये से शुरू हो जाता है।"
+    "answer": "दीप गंगा हरिद्वार सेक्टर 5A में पड़ता है। शिवालिक नगर और पेंटागन मॉल के थोड़ा सा 2 से 3 किलोमीटर आगे पर पड़ता है।",
+    "spoken_answer": "दीप गंगा हरिद्वार सेक्टर 5A में पड़ता है। शिवालिक नगर और पेंटागन मॉल के थोड़ा सा 2 से 3 किलोमीटर आगे पर पड़ता है।",
+    "content": "Q: दीप गंगा कहाँ पर स्थित है?\nA: दीप गंगा हरिद्वार सेक्टर 5A में पड़ता है। शिवालिक नगर और पेंटागन मॉल के थोड़ा सा 2 से 3 किलोमीटर आगे पर पड़ता है।",
+    "project_name": "Deep Ganga"
   },
   {
-    "id": "deep_ganga_loc_1",
-    "topic": "Location & Address",
-    "canonical_question": "Deep Ganga कहाँ पर है?",
+    "id": "train_036",
+    "topic": "Immediate Registry vs Leasehold Transfer Policy",
+    "canonical_question": "भैया क्या इन सभी फ्लैट्स की तुरंत पक्की रजिस्ट्री हो जाएगी या किसी प्रोजेक्ट में कोई कानूनी विवाद या देरी है?",
     "variations": [
-      "Deep Ganga kahan par hai?",
-      "Where is Deep Ganga located in Haridwar?",
-      "Deep Ganga ki location kya hai?",
-      "Sector 5-A Sidcul me konsi society hai?",
-      "Deep Ganga kis area me hai?"
+      "भैया क्या इन सभी फ्लैट्स की तुरंत पक्की रजिस्ट्री हो जाएगी या किसी प्रोजेक्ट में कोई कानूनी विवाद या देरी है?",
+      "क्या इन सभी फ्लैट्स की तुरंत पक्की रजिस्ट्री हो जाएगी या किसी प्रोजेक्ट में कोई कानूनी विवाद या देरी है?",
+      "भैया क्या इन सभी फ्लैट्स की तुरंत पक्की रजिस्ट्री हो जाएगी या किसी प्रोजेक्ट में कोई कानूनी विवाद या देरी है"
     ],
-    "answer": "Deep Ganga Sector 5-A, SIDCUL, Haridwar में स्थित है। यह BHEL, SIDCUL Industrial Hub और Shivalik Nagar के नजदीक है।",
-    "spoken_answer": "Deep Ganga Haridwar में सिडकुल के Sector 5-A में स्थित है, जो BHEL और Shivalik Nagar के बिल्कुल पास है।"
+    "answer": "दीप गंगा और अंतरिक्ष एनआरआई सिटी को छोड़कर बाकी सब में तुरंत पक्की रजिस्ट्री हो जाएगी।",
+    "spoken_answer": "दीप गंगा और अंतरिक्ष एनआरआई सिटी को छोड़कर बाकी सब में तुरंत पक्की रजिस्ट्री हो जाएगी।",
+    "content": "Q: भैया क्या इन सभी फ्लैट्स की तुरंत पक्की रजिस्ट्री हो जाएगी या किसी प्रोजेक्ट में कोई कानूनी विवाद या देरी है?\nA: दीप गंगा और अंतरिक्ष एनआरआई सिटी को छोड़कर बाकी सब में तुरंत पक्की रजिस्ट्री हो जाएगी।",
+    "project_name": "Deep Ganga"
   },
   {
-    "id": "deep_ganga_dist_haridwar",
-    "topic": "Distance from Haridwar City",
-    "canonical_question": "Deep Ganga Haridwar से कितनी दूर है?",
+    "id": "train_065",
+    "topic": "Deep Ganga Delivery Year",
+    "canonical_question": "दीप गंगा कब डिलीवर हुई थी?",
     "variations": [
-      "Haridwar se kitna door hai Deep Ganga?",
-      "Haridwar city to Deep Ganga distance"
+      "दीप गंगा कब डिलीवर हुई थी?",
+      "दीप गंगा कब डिलीवर हुई थी?",
+      "दीप गंगा कब डिलीवर हुई थी"
     ],
-    "answer": "Deep Ganga Haridwar city से लगभग 12 से 13 किलोमीटर दूर है।",
-    "spoken_answer": "Deep Ganga Haridwar शहर से लगभग 12 से 13 किलोमीटर की दूरी पर है।"
+    "answer": "दीप गंगा 2015 में डिलीवर हुई थी।",
+    "spoken_answer": "दीप गंगा 2015 में डिलीवर हुई थी।",
+    "content": "Q: दीप गंगा कब डिलीवर हुई थी?\nA: दीप गंगा 2015 में डिलीवर हुई थी।",
+    "project_name": "Deep Ganga"
   },
   {
-    "id": "deep_ganga_dist_shivalik_mall",
-    "topic": "Distance from Shivalik Nagar & Pentagon Mall",
-    "canonical_question": "Deep Ganga Shivalik Nagar और Pentagon Mall से कितनी दूर है?",
+    "id": "train_075",
+    "topic": "Registry & Freehold vs Leasehold",
+    "canonical_question": "क्या इन सभी फ्लैट्स की पक्की रजिस्ट्री हो जाती है या कोई लीजहोल्ड भी है?",
     "variations": [
-      "Shivalik Nagar se kitni door hai Deep Ganga?",
-      "Pentagon Mall to Deep Ganga distance",
-      "Mall se kitna distance hai Deep Ganga ka?"
+      "क्या इन सभी फ्लैट्स की पक्की रजिस्ट्री हो जाती है या कोई लीजहोल्ड भी है?",
+      "क्या इन सभी फ्लैट्स की पक्की रजिस्ट्री हो जाती है या कोई लीजहोल्ड भी है?",
+      "क्या इन सभी फ्लैट्स की पक्की रजिस्ट्री हो जाती है या कोई लीजहोल्ड भी है"
     ],
-    "answer": "Deep Ganga Pentagon Mall से लगभग 2.5 किलोमीटर और Shivalik Nagar से लगभग 2.5 से 3 किलोमीटर की दूरी पर है।",
-    "spoken_answer": "Deep Ganga Pentagon Mall और Shivalik Nagar से लगभग ढाई से 3 किलोमीटर दूर है।"
+    "answer": "दीप गंगा और अंतरिक्ष एनआरआई सिटी को छोड़कर बाकी सब में तुरंत पक्की रजिस्ट्री हो जाएगी। वो दोनों 90 साल की लीजहोल्ड हैं और बाकी सब 100% फ्रीहोल्ड हैं।",
+    "spoken_answer": "दीप गंगा और अंतरिक्ष एनआरआई सिटी को छोड़कर बाकी सब में तुरंत पक्की रजिस्ट्री हो जाएगी। वो दोनों 90 साल की लीजहोल्ड हैं और बाकी सब 100% फ्रीहोल्ड हैं।",
+    "content": "Q: क्या इन सभी फ्लैट्स की पक्की रजिस्ट्री हो जाती है या कोई लीजहोल्ड भी है?\nA: दीप गंगा और अंतरिक्ष एनआरआई सिटी को छोड़कर बाकी सब में तुरंत पक्की रजिस्ट्री हो जाएगी। वो दोनों 90 साल की लीजहोल्ड हैं और बाकी सब 100% फ्रीहोल्ड हैं।",
+    "project_name": "Deep Ganga"
   },
   {
-    "id": "deep_ganga_dist_bhel_sidcul",
-    "topic": "Distance from BHEL & SIDCUL",
-    "canonical_question": "Deep Ganga SIDCUL और BHEL से कितनी दूर है?",
+    "id": "train_081",
+    "topic": "Deep Ganga Amenities & Mall",
+    "canonical_question": "दीप गंगा में क्या-क्या सुविधाएं हैं और क्या अंदर मार्केट या मॉल है?",
     "variations": [
-      "BHEL se kitna distance hai Deep Ganga ka?",
-      "Sidcul se kitni door hai Deep Ganga?"
+      "दीप गंगा में क्या-क्या सुविधाएं हैं और क्या अंदर मार्केट या मॉल है?",
+      "दीप गंगा में क्या-क्या सुविधाएं हैं और क्या अंदर मार्केट या मॉल है?",
+      "दीप गंगा में क्या-क्या सुविधाएं हैं और क्या अंदर मार्केट या मॉल है"
     ],
-    "answer": "Deep Ganga SIDCUL के Sector 5-A में ही स्थित है और BHEL से लगभग 4 किलोमीटर की दूरी पर है।",
-    "spoken_answer": "Deep Ganga SIDCUL के सेक्टर 5-A में स्थित है और BHEL से लगभग 4 किलोमीटर दूर है।"
+    "answer": "हाँ जी, दीप गंगा कैंपस के अंदर ही शॉपिंग मॉल और कमर्शियल दुकानें उपलब्ध हैं, और सुविधाओं में हाई-स्पीड लिफ्ट्स, कार पार्किंग, 24 घंटे सिक्योरिटी, पावर बैकअप, गेटेड कैंपस और पार्क्स मिल जाते हैं।",
+    "spoken_answer": "हाँ जी, दीप गंगा कैंपस के अंदर ही शॉपिंग मॉल और कमर्शियल दुकानें उपलब्ध हैं, और सुविधाओं में हाई-स्पीड लिफ्ट्स, कार पार्किंग, 24 घंटे सिक्योरिटी, पावर बैकअप, गेटेड कैंपस और पार्क्स मिल जाते हैं।",
+    "content": "Q: दीप गंगा में क्या-क्या सुविधाएं हैं और क्या अंदर मार्केट या मॉल है?\nA: हाँ जी, दीप गंगा कैंपस के अंदर ही शॉपिंग मॉल और कमर्शियल दुकानें उपलब्ध हैं, और सुविधाओं में हाई-स्पीड लिफ्ट्स, कार पार्किंग, 24 घंटे सिक्योरिटी, पावर बैकअप, गेटेड कैंपस और पार्क्स मिल जाते हैं।",
+    "project_name": "Deep Ganga"
   },
   {
-    "id": "deep_ganga_dist_bhadrabad_greens",
-    "topic": "Distance from Bhadrabad & Haridwar Greens",
-    "canonical_question": "Deep Ganga से Haridwar Greens और Bhadrabad कितनी दूर है?",
+    "id": "train_084",
+    "topic": "Bank Loan on Leasehold Flats",
+    "canonical_question": "दीप गंगा या अंतरिक्ष में लीजहोल्ड फ्लैट लेने पर क्या बैंक लोन मिल जाता है?",
     "variations": [
-      "Haridwar Greens se kitna door hai Deep Ganga?",
-      "Bhadrabad to Deep Ganga distance"
+      "दीप गंगा या अंतरिक्ष में लीजहोल्ड फ्लैट लेने पर क्या बैंक लोन मिल जाता है?",
+      "दीप गंगा या अंतरिक्ष में लीजहोल्ड फ्लैट लेने पर क्या बैंक लोन मिल जाता है?",
+      "दीप गंगा या अंतरिक्ष में लीजहोल्ड फ्लैट लेने पर क्या बैंक लोन मिल जाता है"
     ],
-    "answer": "Deep Ganga से लगभग 1 किलोमीटर आगे Haridwar Greens है, और Bhadrabad से NH-58 के अंदर लगभग 8 किलोमीटर है।",
-    "spoken_answer": "Deep Ganga से मात्र 1 किलोमीटर आगे Haridwar Greens है और बहादराबाद से 8 किलोमीटर है।"
+    "answer": "हाँ जी, बैंक लोन मिल जाता है।",
+    "spoken_answer": "हाँ जी, बैंक लोन मिल जाता है।",
+    "content": "Q: दीप गंगा या अंतरिक्ष में लीजहोल्ड फ्लैट लेने पर क्या बैंक लोन मिल जाता है?\nA: हाँ जी, बैंक लोन मिल जाता है।",
+    "project_name": "Deep Ganga"
   },
   {
-    "id": "deep_ganga_developer_acres",
-    "topic": "Developer & 20-Acre Township",
-    "canonical_question": "Deep Ganga किस developer का project है और कितने एकड़ में है?",
+    "id": "train_106",
+    "topic": "Swimming Pool Status in Societies",
+    "canonical_question": "इनमें से कौन-कौन सी सोसाइटी में स्विमिंग पूल बना हुआ है और क्या वह चालू रहता है?",
     "variations": [
-      "Deep Ganga kisne banaya hai?",
-      "Deep Ganga developer name",
-      "Deep Ganga kitne acre me hai?",
-      "Delhi Apartments Pvt Ltd Deep Ganga"
+      "इनमें से कौन-कौन सी सोसाइटी में स्विमिंग पूल बना हुआ है और क्या वह चालू रहता है?",
+      "इनमें से कौन-कौन सी सोसाइटी में स्विमिंग पूल बना हुआ है और क्या वह चालू रहता है?",
+      "इनमें से कौन-कौन सी सोसाइटी में स्विमिंग पूल बना हुआ है और क्या वह चालू रहता है"
     ],
-    "answer": "Deep Ganga लगभग 20 एकड़ में फैला residential-cum-commercial township है, जिसे Deepak Group of Companies की Delhi Apartments Pvt. Ltd. द्वारा develop किया गया है।",
-    "spoken_answer": "Deep Ganga लगभग 20 एकड़ की टाउनशिप है जिसे दीपक ग्रुप की Delhi Apartments Private Limited ने बनाया है।"
+    "answer": "दीप गंगा को छोड़कर बाकी सारी सोसाइटीज में स्विमिंग पूल बना हुआ है और गर्मियों में चालू रहता है।",
+    "spoken_answer": "दीप गंगा को छोड़कर बाकी सारी सोसाइटीज में स्विमिंग पूल बना हुआ है और गर्मियों में चालू रहता है।",
+    "content": "Q: इनमें से कौन-कौन सी सोसाइटी में स्विमिंग पूल बना हुआ है और क्या वह चालू रहता है?\nA: दीप गंगा को छोड़कर बाकी सारी सोसाइटीज में स्विमिंग पूल बना हुआ है और गर्मियों में चालू रहता है।",
+    "project_name": "Deep Ganga"
   },
   {
-    "id": "deep_ganga_flats_overview",
-    "topic": "Flats Configurations Available",
-    "canonical_question": "Deep Ganga में कौन-कौन से flats available हैं?",
+    "id": "train_111",
+    "topic": "Deep Ganga 1 BHK Layout & Website Option",
+    "canonical_question": "दीप गंगा में 1 BHK फ्लैट का लेआउट कैसा है और क्या उसमें बालकनी है?",
     "variations": [
-      "Deep Ganga me kitne BHK flats hain?",
-      "1 BHK 2 BHK 3 BHK options in Deep Ganga",
-      "Flats in Deep Ganga Haridwar"
+      "दीप गंगा में 1 BHK फ्लैट का लेआउट कैसा है और क्या उसमें बालकनी है?",
+      "दीप गंगा में 1 BHK फ्लैट का लेआउट कैसा है और क्या उसमें बालकनी है?",
+      "दीप गंगा में 1 BHK फ्लैट का लेआउट कैसा है और क्या उसमें बालकनी है"
     ],
-    "answer": "Deep Ganga में 1 BHK (740 sq.ft), 2 BHK (1440 व 1480 sq.ft) और 3 BHK (1478 sq.ft) ready-to-move apartments available हैं।",
-    "spoken_answer": "Deep Ganga में 1 BHK (740 स्क्वायर फीट), 2 BHK और 3 BHK (1478 स्क्वायर फीट) के फ्लैट्स उपलब्ध हैं।"
+    "answer": "दीप गंगा के 1 BHK फ्लैट में आपको एक कमरा, किचन, बाथरूम और बालकनी मिल जाती है, और दीप गंगा वाले प्रोजेक्ट में जाइए नीचे आपको लेआउट वाले ऑप्शन में 1 BHK का लेआउट मिल जाएगा, आप देख सकते हैं।",
+    "spoken_answer": "दीप गंगा के 1 BHK फ्लैट में आपको एक कमरा, किचन, बाथरूम और बालकनी मिल जाती है, और दीप गंगा वाले प्रोजेक्ट में जाइए नीचे आपको लेआउट वाले ऑप्शन में 1 BHK का लेआउट मिल जाएगा, आप देख सकते हैं।",
+    "content": "Q: दीप गंगा में 1 BHK फ्लैट का लेआउट कैसा है और क्या उसमें बालकनी है?\nA: दीप गंगा के 1 BHK फ्लैट में आपको एक कमरा, किचन, बाथरूम और बालकनी मिल जाती है, और दीप गंगा वाले प्रोजेक्ट में जाइए नीचे आपको लेआउट वाले ऑप्शन में 1 BHK का लेआउट मिल जाएगा, आप देख सकते हैं।",
+    "project_name": "Deep Ganga"
   },
   {
-    "id": "deep_ganga_1bhk_price",
-    "topic": "1 BHK Size & Price",
-    "canonical_question": "Deep Ganga में 1 BHK कितने का है और उसका size क्या है?",
+    "id": "train_123",
+    "topic": "Deep Ganga Mall Public Access",
+    "canonical_question": "क्या दीप गंगा के अंदर बना शॉपिंग मॉल सिर्फ निवासियों के लिए है या बाहर के लोग भी आ सकते हैं?",
     "variations": [
-      "1 BHK price in Deep Ganga",
-      "1 BHK size in Deep Ganga",
-      "740 sq ft 1 BHK in Deep Ganga"
+      "क्या दीप गंगा के अंदर बना शॉपिंग मॉल सिर्फ निवासियों के लिए है या बाहर के लोग भी आ सकते हैं?",
+      "क्या दीप गंगा के अंदर बना शॉपिंग मॉल सिर्फ निवासियों के लिए है या बाहर के लोग भी आ सकते हैं?",
+      "क्या दीप गंगा के अंदर बना शॉपिंग मॉल सिर्फ निवासियों के लिए है या बाहर के लोग भी आ सकते हैं"
     ],
-    "answer": "Deep Ganga में 1 BHK flat का size लगभग 740 sq.ft है और इसकी starting price लगभग ₹26 लाख से है।",
-    "spoken_answer": "Deep Ganga में 1 BHK 740 स्क्वायर फीट का है और इसकी कीमत लगभग 26 लाख रुपये से शुरू है।"
+    "answer": "जी नहीं, दीप गंगा के अंदर बना शॉपिंग मॉल सिर्फ निवासियों के लिए नहीं है, वहाँ बाहर के लोग भी आ सकते हैं।",
+    "spoken_answer": "जी नहीं, दीप गंगा के अंदर बना शॉपिंग मॉल सिर्फ निवासियों के लिए नहीं है, वहाँ बाहर के लोग भी आ सकते हैं।",
+    "content": "Q: क्या दीप गंगा के अंदर बना शॉपिंग मॉल सिर्फ निवासियों के लिए है या बाहर के लोग भी आ सकते हैं?\nA: जी नहीं, दीप गंगा के अंदर बना शॉपिंग मॉल सिर्फ निवासियों के लिए नहीं है, वहाँ बाहर के लोग भी आ सकते हैं।",
+    "project_name": "Deep Ganga"
   },
   {
-    "id": "deep_ganga_2bhk_prices",
-    "topic": "2 BHK Sizes & Prices",
-    "canonical_question": "Deep Ganga में 2 BHK के कौन-कौन से sizes और prices available हैं?",
+    "id": "train_133",
+    "topic": "Deep Ganga Ready to Move Resale Flats",
+    "canonical_question": "क्या दीप गंगा में तुरंत शिफ्ट होने के लिए फ्लैट्स रेडी कंडीशन में मिल जाते हैं?",
     "variations": [
-      "2 BHK price in Deep Ganga",
-      "2 BHK sizes in Deep Ganga",
-      "1440 sq ft 2 BHK price",
-      "1480 sq ft 2 BHK price"
+      "क्या दीप गंगा में तुरंत शिफ्ट होने के लिए फ्लैट्स रेडी कंडीशन में मिल जाते हैं?",
+      "क्या दीप गंगा में तुरंत शिफ्ट होने के लिए फ्लैट्स रेडी कंडीशन में मिल जाते हैं?",
+      "क्या दीप गंगा में तुरंत शिफ्ट होने के लिए फ्लैट्स रेडी कंडीशन में मिल जाते हैं"
     ],
-    "answer": "Deep Ganga में 2 BHK के 1440 व 1480 sq.ft options हैं। इसकी कीमत लगभग ₹38 लाख से ₹45 लाख के बीच है (1440 sq.ft लगभग ₹45 लाख से शुरू)।",
-    "spoken_answer": "Deep Ganga में 2 BHK की कीमत 38 लाख से 45 लाख रुपये के बीच है।"
+    "answer": "हाँ जी, दीप गंगा में सारे फ्लैट्स पूरी तरह रेडी कंडीशन में मिल जाते हैं क्योंकि यह प्रोजेक्ट पहले ही डिलीवर हो चुका है, बस यहाँ आपको रीसेल वाले फ्लैट्स ही मिलेंगे।",
+    "spoken_answer": "हाँ जी, दीप गंगा में सारे फ्लैट्स पूरी तरह रेडी कंडीशन में मिल जाते हैं क्योंकि यह प्रोजेक्ट पहले ही डिलीवर हो चुका है, बस यहाँ आपको रीसेल वाले फ्लैट्स ही मिलेंगे।",
+    "content": "Q: क्या दीप गंगा में तुरंत शिफ्ट होने के लिए फ्लैट्स रेडी कंडीशन में मिल जाते हैं?\nA: हाँ जी, दीप गंगा में सारे फ्लैट्स पूरी तरह रेडी कंडीशन में मिल जाते हैं क्योंकि यह प्रोजेक्ट पहले ही डिलीवर हो चुका है, बस यहाँ आपको रीसेल वाले फ्लैट्स ही मिलेंगे।",
+    "project_name": "Deep Ganga"
   },
   {
-    "id": "deep_ganga_3bhk_price",
-    "topic": "3 BHK Size & Price",
-    "canonical_question": "Deep Ganga में 3 BHK का size और price कितना है?",
+    "id": "train_144",
+    "topic": "Deep Ganga 3 BHK Starting Price",
+    "canonical_question": "दीप गंगा में 3 BHK का क्या साइज है और वो कितने तक में मिल जाता है?",
     "variations": [
-      "3 BHK price in Deep Ganga",
-      "3 BHK size in Deep Ganga",
-      "1478 sq ft 3 BHK in Deep Ganga"
+      "दीप गंगा में 3 BHK का क्या साइज है और वो कितने तक में मिल जाता है?",
+      "दीप गंगा में 3 BHK का क्या साइज है और वो कितने तक में मिल जाता है?",
+      "दीप गंगा में 3 BHK का क्या साइज है और वो कितने तक में मिल जाता है"
     ],
-    "answer": "Deep Ganga में 3 BHK flat का size लगभग 1478 sq.ft है और इसकी starting price ₹55 लाख से है।",
-    "spoken_answer": "Deep Ganga में 3 BHK 1478 स्क्वायर फीट का है और इसकी कीमत 55 लाख रुपये से शुरू है।"
+    "answer": "दीप गंगा में 3 BHK का साइज लगभग 1478 स्क्वायर फीट है और इसकी शुरुआती कीमत लगभग 55 लाख रुपये से है।",
+    "spoken_answer": "दीप गंगा में 3 BHK का साइज लगभग 1478 स्क्वायर फीट है और इसकी शुरुआती कीमत लगभग 55 लाख रुपये से है।",
+    "content": "Q: दीप गंगा में 3 BHK का क्या साइज है और वो कितने तक में मिल जाता है?\nA: दीप गंगा में 3 BHK का साइज लगभग 1478 स्क्वायर फीट है और इसकी शुरुआती कीमत लगभग 55 लाख रुपये से है।",
+    "project_name": "Deep Ganga"
   },
   {
-    "id": "deep_ganga_leasehold_truth",
-    "topic": "Legal Status: 90 Years LEASEHOLD (Not Freehold)",
-    "canonical_question": "Deep Ganga freehold है या leasehold और कितने साल की lease है?",
+    "id": "train_158",
+    "topic": "Deep Ganga Distance to Pentagon Mall & BHEL",
+    "canonical_question": "दीप गंगा से पेंटागन मॉल और बीएचईएल कितनी दूरी पर है?",
     "variations": [
-      "Deep Ganga leasehold hai ya freehold?",
-      "Kya Deep Ganga leasehold property hai?",
-      "Freehold hai kya Deep Ganga?",
-      "Deep Ganga kitne saal ki lease par hai?",
-      "90 years lease Deep Ganga"
+      "दीप गंगा से पेंटागन मॉल और बीएचईएल कितनी दूरी पर है?",
+      "दीप गंगा से पेंटागन मॉल और बीएचईएल कितनी दूरी पर है?",
+      "दीप गंगा से पेंटागन मॉल और बीएचईएल कितनी दूरी पर है"
     ],
-    "answer": "Deep Ganga 90 साल की लीज़ (90-Year LEASEHOLD) पर आधारित प्रॉपर्टी है, freehold नहीं।",
-    "spoken_answer": "Deep Ganga 90 साल की लीज़होल्ड प्रॉपर्टी है, फ्रीहोल्ड नहीं।"
+    "answer": "दीप गंगा पेंटागन मॉल से लगभग ढाई किलोमीटर और बीएचईएल से लगभग 4 किलोमीटर की दूरी पर है।",
+    "spoken_answer": "दीप गंगा पेंटागन मॉल से लगभग ढाई किलोमीटर और बीएचईएल से लगभग 4 किलोमीटर की दूरी पर है।",
+    "content": "Q: दीप गंगा से पेंटागन मॉल और बीएचईएल कितनी दूरी पर है?\nA: दीप गंगा पेंटागन मॉल से लगभग ढाई किलोमीटर और बीएचईएल से लगभग 4 किलोमीटर की दूरी पर है।",
+    "project_name": "Deep Ganga"
   },
   {
-    "id": "deep_ganga_rera_legal",
-    "topic": "RERA Registration & Registry",
-    "canonical_question": "क्या Deep Ganga RERA approved है और इसका RERA number क्या है?",
+    "id": "train_177",
+    "topic": "Temple inside Deep Ganga Campus",
+    "canonical_question": "क्या दीप गंगा सोसाइटी के अंदर भी मंदिर बना हुआ है?",
     "variations": [
-      "Deep Ganga RERA number",
-      "RERA approved hai kya Deep Ganga?",
-      "Registry hoti hai kya Deep Ganga me?"
+      "क्या दीप गंगा सोसाइटी के अंदर भी मंदिर बना हुआ है?",
+      "क्या दीप गंगा सोसाइटी के अंदर भी मंदिर बना हुआ है?",
+      "क्या दीप गंगा सोसाइटी के अंदर भी मंदिर बना हुआ है"
     ],
-    "answer": "हाँ जी, Deep Ganga RERA registered project है और इसका RERA registration number UKREP12170000139 है। Applicable documentation के अनुसार registry होती है।",
-    "spoken_answer": "हाँ जी, Deep Ganga RERA रजिस्टर्ड है और इसका RERA नंबर UKREP12170000139 है।"
+    "answer": "हाँ जी, दीप गंगा सोसाइटी के अंदर भी मंदिर बना हुआ है।",
+    "spoken_answer": "हाँ जी, दीप गंगा सोसाइटी के अंदर भी मंदिर बना हुआ है।",
+    "content": "Q: क्या दीप गंगा सोसाइटी के अंदर भी मंदिर बना हुआ है?\nA: हाँ जी, दीप गंगा सोसाइटी के अंदर भी मंदिर बना हुआ है।",
+    "project_name": "Deep Ganga"
   },
   {
-    "id": "deep_ganga_amenities_truth",
-    "topic": "Amenities: NO Pool, NO Club House, NO Society Gym",
-    "canonical_question": "क्या Deep Ganga में Swimming Pool, Club House या Gym है?",
+    "id": "train_186",
+    "topic": "Deep Ganga 1 BHK Kitchen Resale Condition",
+    "canonical_question": "दीप गंगा में 1 BHK फ्लैट में क्या सेमी-मॉड्यूलर किचन बना हुआ मिलता है?",
     "variations": [
-      "Deep Ganga me swimming pool hai kya?",
-      "Club house hai kya Deep Ganga me?",
-      "Gym hai kya Deep Ganga society me?",
-      "Deep Ganga me swimming pool kyu nahi hai?"
+      "दीप गंगा में 1 BHK फ्लैट में क्या सेमी-मॉड्यूलर किचन बना हुआ मिलता है?",
+      "दीप गंगा में 1 BHK फ्लैट में क्या सेमी-मॉड्यूलर किचन बना हुआ मिलता है?",
+      "दीप गंगा में 1 BHK फ्लैट में क्या सेमी-मॉड्यूलर किचन बना हुआ मिलता है"
     ],
-    "answer": "नहीं जी, Deep Ganga में Swimming Pool, Club House और Society Gym उपलब्ध नहीं हैं। हालांकि society के shopping complex में private gym subscription लेकर join किया जा सकता है।",
-    "spoken_answer": "Deep Ganga में स्विमिंग पूल और क्लब हाउस उपलब्ध नहीं हैं, लेकिन कॉम्प्लेक्स में प्राइवेट जिम जॉइन किया जा सकता है।"
+    "answer": "जी, दीप गंगा में रीसेल के फ्लैट्स हैं, इसलिए किचन का काम पिछले ओनर पर डिपेंड करता है। कुछ फ्लैट्स में सेमी-मॉड्यूलर किचन बना हुआ मिल जाता है।",
+    "spoken_answer": "जी, दीप गंगा में रीसेल के फ्लैट्स हैं, इसलिए किचन का काम पिछले ओनर पर डिपेंड करता है। कुछ फ्लैट्स में सेमी-मॉड्यूलर किचन बना हुआ मिल जाता है।",
+    "content": "Q: दीप गंगा में 1 BHK फ्लैट में क्या सेमी-मॉड्यूलर किचन बना हुआ मिलता है?\nA: जी, दीप गंगा में रीसेल के फ्लैट्स हैं, इसलिए किचन का काम पिछले ओनर पर डिपेंड करता है। कुछ फ्लैट्स में सेमी-मॉड्यूलर किचन बना हुआ मिल जाता है।",
+    "project_name": "Deep Ganga"
   },
   {
-    "id": "deep_ganga_available_facilities",
-    "topic": "Available Amenities, Lift, Park, Power Backup & Security",
-    "canonical_question": "Deep Ganga में कौन-कौन सी सुविधाएं available हैं?",
+    "id": "train_197",
+    "topic": "Deep Ganga Flat Balcony Spacious Size",
+    "canonical_question": "दीप गंगा में 2 BHK फ्लैट्स में कितनी बालकनी मिलती हैं?",
     "variations": [
-      "Deep Ganga me lift parking hai kya?",
-      "Security and power backup in Deep Ganga",
-      "Facilities available in Deep Ganga"
+      "दीप गंगा में 2 BHK फ्लैट्स में कितनी बालकनी मिलती हैं?",
+      "दीप गंगा में 2 BHK फ्लैट्स में कितनी बालकनी मिलती हैं?",
+      "दीप गंगा में 2 BHK फ्लैट्स में कितनी बालकनी मिलती हैं"
     ],
-    "answer": "Deep Ganga में High-Speed Lifts, Car Parking, 24x7 Security, Power Backup, Gated Campus, Peaceful Parks और Deep Ganga Shopping Mall / Commercial facilities available हैं।",
-    "spoken_answer": "Deep Ganga में लिफ्ट, कार पार्किंग, 24 घंटे सिक्योरिटी, पावर बैकअप, पार्क और अंदर शॉपिंग मॉल की सुविधा उपलब्ध है।"
+    "answer": "जी, दीप गंगा के फ्लैट में एक अच्छे स्पेस के साथ बालकनी मिलती है।",
+    "spoken_answer": "जी, दीप गंगा के फ्लैट में एक अच्छे स्पेस के साथ बालकनी मिलती है।",
+    "content": "Q: दीप गंगा में 2 BHK फ्लैट्स में कितनी बालकनी मिलती हैं?\nA: जी, दीप गंगा के फ्लैट में एक अच्छे स्पेस के साथ बालकनी मिलती है।",
+    "project_name": "Deep Ganga"
   },
   {
-    "id": "deep_ganga_mall",
-    "topic": "Deep Ganga Shopping Mall & Commercial Complex",
-    "canonical_question": "क्या Deep Ganga में mall या commercial facilities हैं?",
+    "id": "train_200",
+    "topic": "Attached Washroom in Master Bedrooms",
+    "canonical_question": "दीप गंगा के 2 BHK और 3 BHK में क्या मास्टर बेडरूम के साथ अटैच्ड वॉशरूम मिलता है?",
     "variations": [
-      "Deep Ganga mall hai kya andar?",
-      "Commercial shops in Deep Ganga"
+      "दीप गंगा के 2 BHK और 3 BHK में क्या मास्टर बेडरूम के साथ अटैच्ड वॉशरूम मिलता है?",
+      "दीप गंगा के 2 BHK और 3 BHK में क्या मास्टर बेडरूम के साथ अटैच्ड वॉशरूम मिलता है?",
+      "दीप गंगा के 2 BHK और 3 BHK में क्या मास्टर बेडरूम के साथ अटैच्ड वॉशरूम मिलता है"
     ],
-    "answer": "हाँ जी, Deep Ganga gated society के अंदर ही Deep Ganga Mall स्थित है, जिसमें shopping, retail outlets, food joints और commercial facilities उपलब्ध हैं।",
-    "spoken_answer": "हाँ जी, Deep Ganga कैंपस के अंदर ही शॉपिंग मॉल और कमर्शियल दुकानें उपलब्ध हैं।"
+    "answer": "हाँ जी, दीप गंगा के 2 BHK और 3 BHK दोनों में ही मास्टर बेडरूम के साथ अटैच्ड वॉशरूम मिल जाता है।",
+    "spoken_answer": "हाँ जी, दीप गंगा के 2 BHK और 3 BHK दोनों में ही मास्टर बेडरूम के साथ अटैच्ड वॉशरूम मिल जाता है।",
+    "content": "Q: दीप गंगा के 2 BHK और 3 BHK में क्या मास्टर बेडरूम के साथ अटैच्ड वॉशरूम मिलता है?\nA: हाँ जी, दीप गंगा के 2 BHK और 3 BHK दोनों में ही मास्टर बेडरूम के साथ अटैच्ड वॉशरूम मिल जाता है।",
+    "project_name": "Deep Ganga"
   },
   {
-    "id": "deep_ganga_bank_loan",
-    "topic": "Bank Loan Eligibility",
-    "canonical_question": "Deep Ganga में flat खरीदने पर bank loan कितना मिल सकता है?",
+    "id": "train_208",
+    "topic": "Deep Ganga 24hr Power Backup (Lifts, Pumps, Common Area)",
+    "canonical_question": "दीप गंगा में पावर कट होने पर बैकअप की क्या व्यवस्था है?",
     "variations": [
-      "Deep Ganga me loan milta hai kya?",
-      "Bank loan in Deep Ganga Haridwar",
-      "Loan percentage in Deep Ganga"
+      "दीप गंगा में पावर कट होने पर बैकअप की क्या व्यवस्था है?",
+      "दीप गंगा में पावर कट होने पर बैकअप की क्या व्यवस्था है?",
+      "दीप गंगा में पावर कट होने पर बैकअप की क्या व्यवस्था है"
     ],
-    "answer": "हाँ जी, eligible buyers को buyer profile और bank approval के आधार पर property value का लगभग 80% से 90% तक bank loan मिल सकता है।",
-    "spoken_answer": "हाँ जी, Deep Ganga में एलिजिबल बायर्स को 80 से 90 प्रतिशत तक बैंक लोन मिल सकता है।"
+    "answer": "दीप गंगा में पावर कट होने पर लिफ्ट, पानी के पंप और कॉमन एरिया की लाइट्स के लिए 24 घंटे डीजी (DG) पावर बैकअप चालू रहता है।",
+    "spoken_answer": "दीप गंगा में पावर कट होने पर लिफ्ट, पानी के पंप और कॉमन एरिया की लाइट्स के लिए 24 घंटे डीजी (DG) पावर बैकअप चालू रहता है।",
+    "content": "Q: दीप गंगा में पावर कट होने पर बैकअप की क्या व्यवस्था है?\nA: दीप गंगा में पावर कट होने पर लिफ्ट, पानी के पंप और कॉमन एरिया की लाइट्स के लिए 24 घंटे डीजी (DG) पावर बैकअप चालू रहता है।",
+    "project_name": "Deep Ganga"
   },
   {
-    "id": "deep_ganga_site_visit",
-    "topic": "Site Visit & Contact Details",
-    "canonical_question": "Deep Ganga में site visit कैसे कर सकते हैं और किससे बात करनी होगी?",
+    "id": "train_220",
+    "topic": "Deep Ganga 1 BHK Detailed Layout (740 sqft)",
+    "canonical_question": "दीप गंगा के 1 BHK फ्लैट में क्या-क्या स्पेस मिलता है?",
     "variations": [
-      "Deep Ganga ki site visit karni hai",
-      "Rahul Dwivedi number for Deep Ganga",
-      "Site visit contact number"
+      "दीप गंगा के 1 BHK फ्लैट में क्या-क्या स्पेस मिलता है?",
+      "दीप गंगा के 1 BHK फ्लैट में क्या-क्या स्पेस मिलता है?",
+      "दीप गंगा के 1 BHK फ्लैट में क्या-क्या स्पेस मिलता है"
     ],
-    "answer": "Deep Ganga में site visit और authentic property purchase के लिए आप The Propbazar के Rahul Dwivedi जी से 9990004807 पर contact कर सकते हैं।",
-    "spoken_answer": "साइट विज़िट के लिए आप राहुल द्विवेदी जी से 9990004807 पर संपर्क कर सकते हैं।"
+    "answer": "दीप गंगा के 1 BHK (740 स्क्वायर फीट) में एक बड़ा लिविंग हॉल, एक बेडरूम, किचन, वॉशरूम और एक अच्छे स्पेस के साथ बालकनी मिलती है।",
+    "spoken_answer": "दीप गंगा के 1 BHK (740 स्क्वायर फीट) में एक बड़ा लिविंग हॉल, एक बेडरूम, किचन, वॉशरूम और एक अच्छे स्पेस के साथ बालकनी मिलती है।",
+    "content": "Q: दीप गंगा के 1 BHK फ्लैट में क्या-क्या स्पेस मिलता है?\nA: दीप गंगा के 1 BHK (740 स्क्वायर फीट) में एक बड़ा लिविंग हॉल, एक बेडरूम, किचन, वॉशरूम और एक अच्छे स्पेस के साथ बालकनी मिलती है।",
+    "project_name": "Deep Ganga"
   },
   {
-    "id": "deep_ganga_policy_docs_price",
-    "topic": "Policies: Maintenance & Legal Documents",
-    "canonical_question": "Deep Ganga में maintenance कितना है और क्या documents online मिल सकते हैं?",
+    "id": "train_227",
+    "topic": "Deep Ganga 3 BHK Balcony Mostly Opening to Park & Greenery",
+    "canonical_question": "दीप गंगा में 3 BHK फ्लैट में बालकनी किस तरफ खुलती है?",
     "variations": [
-      "Maintenance in Deep Ganga",
-      "Documents online available for Deep Ganga"
+      "दीप गंगा में 3 BHK फ्लैट में बालकनी किस तरफ खुलती है?",
+      "दीप गंगा में 3 BHK फ्लैट में बालकनी किस तरफ खुलती है?",
+      "दीप गंगा में 3 BHK फ्लैट में बालकनी किस तरफ खुलती है"
     ],
-    "answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से।",
-    "spoken_answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से।"
+    "answer": "जी, दीप गंगा के 3 BHK फ्लैट्स में ज्यादातर बालकनी पार्क, ओपन ग्रीन एरिया या सोसाइटी रोड की तरफ खुलती है, जिससे बेहतरीन वेंटिलेशन और व्यू मिलता है।",
+    "spoken_answer": "जी, दीप गंगा के 3 BHK फ्लैट्स में ज्यादातर बालकनी पार्क, ओपन ग्रीन एरिया या सोसाइटी रोड की तरफ खुलती है, जिससे बेहतरीन वेंटिलेशन और व्यू मिलता है।",
+    "content": "Q: दीप गंगा में 3 BHK फ्लैट में बालकनी किस तरफ खुलती है?\nA: जी, दीप गंगा के 3 BHK फ्लैट्स में ज्यादातर बालकनी पार्क, ओपन ग्रीन एरिया या सोसाइटी रोड की तरफ खुलती है, जिससे बेहतरीन वेंटिलेशन और व्यू मिलता है।",
+    "project_name": "Deep Ganga"
+  },
+  {
+    "id": "train_230",
+    "topic": "Deep Ganga 740 sqft 1 BHK Exact Room Dimensions",
+    "canonical_question": "दीप गंगा में 740 स्क्वायर फीट 1 BHK के हॉल, बेडरूम, किचन और बाथरूम का साइज क्या रहता है?",
+    "variations": [
+      "दीप गंगा में 740 स्क्वायर फीट 1 BHK के हॉल, बेडरूम, किचन और बाथरूम का साइज क्या रहता है?",
+      "दीप गंगा में 740 स्क्वायर फीट 1 BHK के हॉल, बेडरूम, किचन और बाथरूम का साइज क्या रहता है?",
+      "दीप गंगा में 740 स्क्वायर फीट 1 BHK के हॉल, बेडरूम, किचन और बाथरूम का साइज क्या रहता है"
+    ],
+    "answer": "दीप गंगा के 740 स्क्वायर फीट 1 BHK में लिविंग हॉल 22x11 फीट, बेडरूम 12x12.5 फीट, किचन 6x7 फीट, टॉयलेट 7.5x5.5 फीट और साथ में 2 बालकनी मिलती हैं।",
+    "spoken_answer": "दीप गंगा के 740 स्क्वायर फीट 1 BHK में लिविंग हॉल 22x11 फीट, बेडरूम 12x12.5 फीट, किचन 6x7 फीट, टॉयलेट 7.5x5.5 फीट और साथ में 2 बालकनी मिलती हैं।",
+    "content": "Q: दीप गंगा में 740 स्क्वायर फीट 1 BHK के हॉल, बेडरूम, किचन और बाथरूम का साइज क्या रहता है?\nA: दीप गंगा के 740 स्क्वायर फीट 1 BHK में लिविंग हॉल 22x11 फीट, बेडरूम 12x12.5 फीट, किचन 6x7 फीट, टॉयलेट 7.5x5.5 फीट और साथ में 2 बालकनी मिलती हैं।",
+    "project_name": "Deep Ganga"
+  },
+  {
+    "id": "train_233",
+    "topic": "Deep Ganga 2 BHK Sizes (1140 sqft & 1180 sqft) Room Dimensions",
+    "canonical_question": "दीप गंगा के 2 BHK में ड्राइंग रूम, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है?",
+    "variations": [
+      "दीप गंगा के 2 BHK में ड्राइंग रूम, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है?",
+      "दीप गंगा के 2 BHK में ड्राइंग रूम, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है?",
+      "दीप गंगा के 2 BHK में ड्राइंग रूम, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है"
+    ],
+    "answer": "दीप गंगा में 2 BHK के 2 साइज आते हैं—1140 स्क्वायर फीट और 1180 स्क्वायर फीट। 1140 स्क्वायर फीट 2 BHK में ड्राइंग हॉल 25x11.5 फीट, मास्टर बेडरूम 16x13.5 फीट, दूसरा बेडरूम 14x10 फीट, किचन 10x8 फीट, बाथरूम 5x9 फीट और बालकनी 5x10 फीट की मिलती है। वहीं 1180 स्क्वायर फीट 2 BHK में ड्राइंग हॉल 25x11.5 फीट, मास्टर बेडरूम 16.5x14 फीट, दूसरा बेडरूम 15x10 फीट, किचन 10x8 फीट, बाथरूम 5x9.5 फीट और बालकनी 5.5x10 फीट की मिलती है।",
+    "spoken_answer": "दीप गंगा में 2 BHK के 2 साइज आते हैं—1140 स्क्वायर फीट और 1180 स्क्वायर फीट। 1140 स्क्वायर फीट 2 BHK में ड्राइंग हॉल 25x11.5 फीट, मास्टर बेडरूम 16x13.5 फीट, दूसरा बेडरूम 14x10 फीट, किचन 10x8 फीट, बाथरूम 5x9 फीट और बालकनी 5x10 फीट की मिलती है। वहीं 1180 स्क्वायर फीट 2 BHK में ड्राइंग हॉल 25x11.5 फीट, मास्टर बेडरूम 16.5x14 फीट, दूसरा बेडरूम 15x10 फीट, किचन 10x8 फीट, बाथरूम 5x9.5 फीट और बालकनी 5.5x10 फीट की मिलती है।",
+    "content": "Q: दीप गंगा के 2 BHK में ड्राइंग रूम, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है?\nA: दीप गंगा में 2 BHK के 2 साइज आते हैं—1140 स्क्वायर फीट और 1180 स्क्वायर फीट। 1140 स्क्वायर फीट 2 BHK में ड्राइंग हॉल 25x11.5 फीट, मास्टर बेडरूम 16x13.5 फीट, दूसरा बेडरूम 14x10 फीट, किचन 10x8 फीट, बाथरूम 5x9 फीट और बालकनी 5x10 फीट की मिलती है। वहीं 1180 स्क्वायर फीट 2 BHK में ड्राइंग हॉल 25x11.5 फीट, मास्टर बेडरूम 16.5x14 फीट, दूसरा बेडरूम 15x10 फीट, किचन 10x8 फीट, बाथरूम 5x9.5 फीट और बालकनी 5.5x10 फीट की मिलती है।",
+    "project_name": "Deep Ganga"
+  },
+  {
+    "id": "train_234",
+    "topic": "Deep Ganga 1478 sqft 3 BHK Detailed Room Dimensions",
+    "canonical_question": "दीप गंगा के 1478 स्क्वायर फीट 3 BHK में ड्राइंग हॉल, तीनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है?",
+    "variations": [
+      "दीप गंगा के 1478 स्क्वायर फीट 3 BHK में ड्राइंग हॉल, तीनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है?",
+      "दीप गंगा के 1478 स्क्वायर फीट 3 BHK में ड्राइंग हॉल, तीनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है?",
+      "दीप गंगा के 1478 स्क्वायर फीट 3 BHK में ड्राइंग हॉल, तीनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है"
+    ],
+    "answer": "दीप गंगा के 1478 स्क्वायर फीट 3 BHK में ड्राइंग हॉल 23.5x11 फीट, दो बेडरूम 12x12.5 फीट, तीसरा बेडरूम 12.5x11 फीट, किचन 12.5x7 फीट, बाथरूम 7.6x5.6 फीट और साथ में 4 बालकनी मिलती हैं।",
+    "spoken_answer": "दीप गंगा के 1478 स्क्वायर फीट 3 BHK में ड्राइंग हॉल 23.5x11 फीट, दो बेडरूम 12x12.5 फीट, तीसरा बेडरूम 12.5x11 फीट, किचन 12.5x7 फीट, बाथरूम 7.6x5.6 फीट और साथ में 4 बालकनी मिलती हैं।",
+    "content": "Q: दीप गंगा के 1478 स्क्वायर फीट 3 BHK में ड्राइंग हॉल, तीनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है?\nA: दीप गंगा के 1478 स्क्वायर फीट 3 BHK में ड्राइंग हॉल 23.5x11 फीट, दो बेडरूम 12x12.5 फीट, तीसरा बेडरूम 12.5x11 फीट, किचन 12.5x7 फीट, बाथरूम 7.6x5.6 फीट और साथ में 4 बालकनी मिलती हैं।",
+    "project_name": "Deep Ganga"
+  },
+  {
+    "id": "train_253",
+    "topic": "Deep Ganga Carpet Area Inquiries Contact Rahul Dwivedi",
+    "canonical_question": "दीप गंगा के फ्लैट्स का कारपेट एरिया कितना है?",
+    "variations": [
+      "दीप गंगा के फ्लैट्स का कारपेट एरिया कितना है?",
+      "दीप गंगा के फ्लैट्स का कारपेट एरिया कितना है?",
+      "दीप गंगा के फ्लैट्स का कारपेट एरिया कितना है"
+    ],
+    "answer": "जी, दीप गंगा के फ्लैट्स का सुपर एरिया 740, 1140, 1180 और 1478 स्क्वायर फीट है, इसके सटीक कारपेट एरिया की जानकारी के लिए आप राहुल द्विवेदी जी से संपर्क कर सकते हैं।",
+    "spoken_answer": "जी, दीप गंगा के फ्लैट्स का सुपर एरिया 740, 1140, 1180 और 1478 स्क्वायर फीट है, इसके सटीक कारपेट एरिया की जानकारी के लिए आप राहुल द्विवेदी जी से संपर्क कर सकते हैं।",
+    "content": "Q: दीप गंगा के फ्लैट्स का कारपेट एरिया कितना है?\nA: जी, दीप गंगा के फ्लैट्स का सुपर एरिया 740, 1140, 1180 और 1478 स्क्वायर फीट है, इसके सटीक कारपेट एरिया की जानकारी के लिए आप राहुल द्विवेदी जी से संपर्क कर सकते हैं।",
+    "project_name": "Deep Ganga"
+  },
+  {
+    "id": "train_254",
+    "topic": "Deep Ganga 1140 sqft Master Bedroom and Bathroom Dimensions",
+    "canonical_question": "दीप गंगा के 1140 स्क्वायर फीट 2 BHK में मास्टर बेडरूम और बाथरूम का क्या साइज है?",
+    "variations": [
+      "दीप गंगा के 1140 स्क्वायर फीट 2 BHK में मास्टर बेडरूम और बाथरूम का क्या साइज है?",
+      "दीप गंगा के 1140 स्क्वायर फीट 2 BHK में मास्टर बेडरूम और बाथरूम का क्या साइज है?",
+      "दीप गंगा के 1140 स्क्वायर फीट 2 BHK में मास्टर बेडरूम और बाथरूम का क्या साइज है"
+    ],
+    "answer": "दीप गंगा के 1140 स्क्वायर फीट 2 BHK में मास्टर बेडरूम 16x13.5 फीट का और बाथरूम 5x9 फीट का मिलता है।",
+    "spoken_answer": "दीप गंगा के 1140 स्क्वायर फीट 2 BHK में मास्टर बेडरूम 16x13.5 फीट का और बाथरूम 5x9 फीट का मिलता है।",
+    "content": "Q: दीप गंगा के 1140 स्क्वायर फीट 2 BHK में मास्टर बेडरूम और बाथरूम का क्या साइज है?\nA: दीप गंगा के 1140 स्क्वायर फीट 2 BHK में मास्टर बेडरूम 16x13.5 फीट का और बाथरूम 5x9 फीट का मिलता है।",
+    "project_name": "Deep Ganga"
   }
 ]
