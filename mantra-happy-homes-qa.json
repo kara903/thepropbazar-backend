@@ -1,318 +1,534 @@
 [
   {
-    "id": "mantra_overview",
-    "topic": "General Overview & Configurations (No unprompted price)",
-    "canonical_question": "Mantra Happy Homes के बारे में बताइए",
+    "id": "train_001",
+    "topic": "Mantra 2 BHK Price",
+    "canonical_question": "मंत्रा हैप्पी होम्स में 2 बीएचके का क्या रेट चल रहा है?",
     "variations": [
-      "Mantra Happy Homes ke baare me batao",
-      "aur ye mantra happy homes",
-      "mantra happy homes kaisa hai",
-      "tell me about mantra happy homes",
-      "mantra happy homes me kya milta hai",
-      "mantra happy homes ke baare me kuch batao"
+      "मंत्रा हैप्पी होम्स में 2 बीएचके का क्या रेट चल रहा है?",
+      "मंत्रा हैप्पी होम्स में 2 बीएचके का क्या रेट चल रहा है?",
+      "मंत्रा हैप्पी होम्स में 2 बीएचके का क्या रेट चल रहा है"
     ],
-    "answer": "नहीं जी, ये सोसाइटी काफी पहले डिलीवर हो चुकी है, इसलिए यहाँ पे कोई भी फ्रेश फ्लैट नहीं है। आपको यहाँ सारे रीसेल वाले फ्लैट ही मिलेंगे।",
-    "spoken_answer": "Mantra Happy Homes में 2 BHK फ्लैट्स (810, 950 और 1010 स्क्वायर फीट) और 950 स्क्वायर फीट के प्लॉट्स उपलब्ध हैं।",
-    "content": "Q: भैया क्या मंत्रा हैप्पी होम्स में कोई फ्रेश फ्लैट मिल जाएगा?\nA: नहीं जी, ये सोसाइटी काफी पहले डिलीवर हो चुकी है, इसलिए यहाँ पे कोई भी फ्रेश फ्लैट नहीं है। आपको यहाँ सारे रीसेल वाले फ्लैट ही मिलेंगे।"
+    "answer": "मंत्रा हैप्पी होम्स में 2 BHK के तीन साइज मिल जाते हैं—810 स्क्वायर फीट लगभग 27 से 28 लाख में, 950 स्क्वायर फीट 34 से 35 लाख में, और 1010 स्क्वायर फीट लगभग 38 लाख रुपये में।",
+    "spoken_answer": "मंत्रा हैप्पी होम्स में 2 BHK के तीन साइज मिल जाते हैं—810 स्क्वायर फीट लगभग 27 से 28 लाख में, 950 स्क्वायर फीट 34 से 35 लाख में, और 1010 स्क्वायर फीट लगभग 38 लाख रुपये में।",
+    "content": "Q: मंत्रा हैप्पी होम्स में 2 बीएचके का क्या रेट चल रहा है?\nA: मंत्रा हैप्पी होम्स में 2 BHK के तीन साइज मिल जाते हैं—810 स्क्वायर फीट लगभग 27 से 28 लाख में, 950 स्क्वायर फीट 34 से 35 लाख में, और 1010 स्क्वायर फीट लगभग 38 लाख रुपये में।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_loc_1",
-    "topic": "Location & Landmark",
-    "canonical_question": "Mantra Happy Homes कहाँ पर है?",
+    "id": "train_008",
+    "topic": "Freehold vs Leasehold Comparison",
+    "canonical_question": "भैया, क्या ये फ्लैट्स फ्रीहोल्ड हैं या फिर लीज़ पर हैं?",
     "variations": [
-      "Mantra Happy Homes kahan par hai?",
-      "Where is Mantra Happy Homes located in Haridwar?",
-      "Mantra Happy Homes ki location kya hai?",
-      "Raja Biscuit Chowk ke pass konsi society hai?",
-      "Pentagon mall ke pass Mantra Happy Homes hai kya?"
+      "भैया, क्या ये फ्लैट्स फ्रीहोल्ड हैं या फिर लीज़ पर हैं?",
+      "क्या ये फ्लैट्स फ्रीहोल्ड हैं या फिर लीज़ पर हैं?",
+      "भैया, क्या ये फ्लैट्स फ्रीहोल्ड हैं या फिर लीज़ पर हैं"
     ],
-    "answer": "Mantra Happy Homes Haridwar के New Haridwar region में, Raja Biscuit Chowk के opposite स्थित है। यह Shivalik Nagar और Pentagon Mall के बिल्कुल नजदीक है।",
-    "spoken_answer": "Mantra Happy Homes Haridwar में Raja Biscuit Chowk के सामने स्थित है, जो Pentagon Mall और Shivalik Nagar के बिल्कुल पास है।"
+    "answer": "हमारे अलग-अलग प्रोजेक्ट के हिसाब से अलग-अलग है—जैसे Haridwar Greens, Mantra Happy Homes और Jurs Country 100% फ्रीहोल्ड हैं, जबकि Deep Ganga और Antriksh NRI City 90 साल की लीज़होल्ड हैं।",
+    "spoken_answer": "हमारे अलग-अलग प्रोजेक्ट के हिसाब से अलग-अलग है—जैसे Haridwar Greens, Mantra Happy Homes और Jurs Country 100% फ्रीहोल्ड हैं, जबकि Deep Ganga और Antriksh NRI City 90 साल की लीज़होल्ड हैं।",
+    "content": "Q: भैया, क्या ये फ्लैट्स फ्रीहोल्ड हैं या फिर लीज़ पर हैं?\nA: हमारे अलग-अलग प्रोजेक्ट के हिसाब से अलग-अलग है—जैसे Haridwar Greens, Mantra Happy Homes और Jurs Country 100% फ्रीहोल्ड हैं, जबकि Deep Ganga और Antriksh NRI City 90 साल की लीज़होल्ड हैं।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_dist_haridwar",
-    "topic": "Distance from Haridwar City",
-    "canonical_question": "Mantra Happy Homes Haridwar से कितनी दूर है?",
+    "id": "train_017",
+    "topic": "Rental Yield and Income",
+    "canonical_question": "भैया अगर मैं हरिद्वार में 2 BHK फ्लैट लेकर किराये पर चढ़ाऊँ, तो महीने का कितना रेंट मिल जाएगा?",
     "variations": [
-      "Haridwar se kitni door hai Mantra Happy Homes?",
-      "Haridwar main city to Mantra Happy Homes distance"
+      "भैया अगर मैं हरिद्वार में 2 BHK फ्लैट लेकर किराये पर चढ़ाऊँ, तो महीने का कितना रेंट मिल जाएगा?",
+      "अगर मैं हरिद्वार में 2 BHK फ्लैट लेकर किराये पर चढ़ाऊँ, तो महीने का कितना रेंट मिल जाएगा?",
+      "भैया अगर मैं हरिद्वार में 2 BHK फ्लैट लेकर किराये पर चढ़ाऊँ, तो महीने का कितना रेंट मिल जाएगा"
     ],
-    "answer": "Mantra Happy Homes Haridwar city से लगभग 9 किलोमीटर दूर है।",
-    "spoken_answer": "Mantra Happy Homes Haridwar शहर से लगभग 9 किलोमीटर की दूरी पर है।"
+    "answer": "वो तो फ्लैट साइज और फर्नीचर की क्वालिटी वगैरह पे डिपेंड करता है। मगर फॉर एग्ज़ाम्पल, अगर आप मंत्रा हैप्पी होम्स में 2 BHK 950 स्क्वायर फीट वाला भी अच्छे से फर्निश्ड कर देते हो, तो आपको 18 से 20 हज़ार रेंट मिल जाएगा आराम से।",
+    "spoken_answer": "वो तो फ्लैट साइज और फर्नीचर की क्वालिटी वगैरह पे डिपेंड करता है। मगर फॉर एग्ज़ाम्पल, अगर आप मंत्रा हैप्पी होम्स में 2 BHK 950 स्क्वायर फीट वाला भी अच्छे से फर्निश्ड कर देते हो, तो आपको 18 से 20 हज़ार रेंट मिल जाएगा आराम से।",
+    "content": "Q: भैया अगर मैं हरिद्वार में 2 BHK फ्लैट लेकर किराये पर चढ़ाऊँ, तो महीने का कितना रेंट मिल जाएगा?\nA: वो तो फ्लैट साइज और फर्नीचर की क्वालिटी वगैरह पे डिपेंड करता है। मगर फॉर एग्ज़ाम्पल, अगर आप मंत्रा हैप्पी होम्स में 2 BHK 950 स्क्वायर फीट वाला भी अच्छे से फर्निश्ड कर देते हो, तो आपको 18 से 20 हज़ार रेंट मिल जाएगा आराम से।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_dist_mall",
-    "topic": "Distance from Pentagon Mall",
-    "canonical_question": "Mantra Happy Homes Pentagon Mall से कितनी दूर है?",
+    "id": "train_018",
+    "topic": "Mantra vs Haridwar Greens Family Comparison",
+    "canonical_question": "भैया मंत्रा हैप्पी होम्स और हरिद्वार ग्रीन्स में से फैमिली के रहने के लिए कौन सा ज्यादा बढ़िया है?",
     "variations": [
-      "Pentagon Mall se kitna door hai?",
-      "Mall pass me hai kya Mantra Happy Homes ke?",
-      "Distance from Pentagon Mall to Mantra Happy Homes"
+      "भैया मंत्रा हैप्पी होम्स और हरिद्वार ग्रीन्स में से फैमिली के रहने के लिए कौन सा ज्यादा बढ़िया है?",
+      "मंत्रा हैप्पी होम्स और हरिद्वार ग्रीन्स में से फैमिली के रहने के लिए कौन सा ज्यादा बढ़िया है?",
+      "भैया मंत्रा हैप्पी होम्स और हरिद्वार ग्रीन्स में से फैमिली के रहने के लिए कौन सा ज्यादा बढ़िया है"
     ],
-    "answer": "Pentagon Mall Mantra Happy Homes से मात्र लगभग 1 किलोमीटर दूर है। इसके अलावा Shivalik Nagar मार्केट 2.5 किलोमीटर पर है।",
-    "spoken_answer": "Pentagon Mall Mantra Happy Homes से मात्र 1 किलोमीटर दूर है, और शिवालिक नगर मार्केट ढाई किलोमीटर है।"
+    "answer": "फैमिली के लिए रहने लायक दोनों में से मंत्रा हैप्पी होम्स सही रहेगा, क्योंकि ये सिर्फ 6 एकड़ में बनी हुई सोसाइटी है, यहाँ लगभग सब कुछ फैसिलिटी अवेलेबल है जो फैमिली के लिए होनी चाहिए। प्राइस भी और सोसाइटीज से अच्छे हैं और यहाँ रहने वाले लोगों के भी अच्छे रिव्यू हैं। तो मुझे लगता है मंत्रा हैप्पी होम्स अच्छा ऑप्शन रहेगा।",
+    "spoken_answer": "फैमिली के लिए रहने लायक दोनों में से मंत्रा हैप्पी होम्स सही रहेगा, क्योंकि ये सिर्फ 6 एकड़ में बनी हुई सोसाइटी है, यहाँ लगभग सब कुछ फैसिलिटी अवेलेबल है जो फैमिली के लिए होनी चाहिए। प्राइस भी और सोसाइटीज से अच्छे हैं और यहाँ रहने वाले लोगों के भी अच्छे रिव्यू हैं। तो मुझे लगता है मंत्रा हैप्पी होम्स अच्छा ऑप्शन रहेगा।",
+    "content": "Q: भैया मंत्रा हैप्पी होम्स और हरिद्वार ग्रीन्स में से फैमिली के रहने के लिए कौन सा ज्यादा बढ़िया है?\nA: फैमिली के लिए रहने लायक दोनों में से मंत्रा हैप्पी होम्स सही रहेगा, क्योंकि ये सिर्फ 6 एकड़ में बनी हुई सोसाइटी है, यहाँ लगभग सब कुछ फैसिलिटी अवेलेबल है जो फैमिली के लिए होनी चाहिए। प्राइस भी और सोसाइटीज से अच्छे हैं और यहाँ रहने वाले लोगों के भी अच्छे रिव्यू हैं। तो मुझे लगता है मंत्रा हैप्पी होम्स अच्छा ऑप्शन रहेगा।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_dist_shivalik",
-    "topic": "Distance from Shivalik Nagar",
-    "canonical_question": "Mantra Happy Homes Shivalik Nagar से कितनी दूर है?",
+    "id": "train_022",
+    "topic": "SIDCUL Job Nearest Society Recommendation",
+    "canonical_question": "भैया मेरा सिडकुल में जॉब है, तो सिडकुल की कंपनियों के सबसे नजदीक कौन सी सोसाइटी पड़ेगी?",
     "variations": [
-      "Shivalik Nagar se kitna distance hai?",
-      "Shivalik nagar pass me hai kya?"
+      "भैया मेरा सिडकुल में जॉब है, तो सिडकुल की कंपनियों के सबसे नजदीक कौन सी सोसाइटी पड़ेगी?",
+      "मेरा सिडकुल में जॉब है, तो सिडकुल की कंपनियों के सबसे नजदीक कौन सी सोसाइटी पड़ेगी?",
+      "भैया मेरा सिडकुल में जॉब है, तो सिडकुल की कंपनियों के सबसे नजदीक कौन सी सोसाइटी पड़ेगी"
     ],
-    "answer": "Shivalik Nagar Mantra Happy Homes से लगभग 2 से 2.5 किलोमीटर दूर है।",
-    "spoken_answer": "Shivalik Nagar Mantra Happy Homes से लगभग 2 किलोमीटर की दूरी पर है।"
+    "answer": "सिडकुल की कंपनियों के सबसे नजदीक मंत्रा हैप्पी होम्स पड़ेगी, जो राजा बिस्किट चौक और पेंटागन मॉल के बिल्कुल पास है।",
+    "spoken_answer": "सिडकुल की कंपनियों के सबसे नजदीक मंत्रा हैप्पी होम्स पड़ेगी, जो राजा बिस्किट चौक और पेंटागन मॉल के बिल्कुल पास है।",
+    "content": "Q: भैया मेरा सिडकुल में जॉब है, तो सिडकुल की कंपनियों के सबसे नजदीक कौन सी सोसाइटी पड़ेगी?\nA: सिडकुल की कंपनियों के सबसे नजदीक मंत्रा हैप्पी होम्स पड़ेगी, जो राजा बिस्किट चौक और पेंटागन मॉल के बिल्कुल पास है।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_dist_highway",
-    "topic": "Distance from National Highway",
-    "canonical_question": "Mantra Happy Homes National Highway से कितनी दूर है?",
+    "id": "train_027",
+    "topic": "Senior Citizen & Parents Peaceful Living Recommendation",
+    "canonical_question": "भैया मेरे मम्मी-पापा सीनियर सिटीजन हैं, रिटायरमेंट के बाद रहने के लिए कौन सी सोसाइटी सबसे सेफ और शांत रहेगी?",
     "variations": [
-      "National Highway 58 se kitni door hai Mantra Happy Homes?",
-      "NH-58 distance from Mantra Happy Homes"
+      "भैया मेरे मम्मी-पापा सीनियर सिटीजन हैं, रिटायरमेंट के बाद रहने के लिए कौन सी सोसाइटी सबसे सेफ और शांत रहेगी?",
+      "मेरे मम्मी-पापा सीनियर सिटीजन हैं, रिटायरमेंट के बाद रहने के लिए कौन सी सोसाइटी सबसे सेफ और शांत रहेगी?",
+      "भैया मेरे मम्मी-पापा सीनियर सिटीजन हैं, रिटायरमेंट के बाद रहने के लिए कौन सी सोसाइटी सबसे सेफ और शांत रहेगी"
     ],
-    "answer": "National Highway 58 Mantra Happy Homes से लगभग 3.5 किलोमीटर दूर है।",
-    "spoken_answer": "National Highway 58 Mantra Happy Homes से लगभग साढ़े 3 किलोमीटर दूर है।"
+    "answer": "आपके पेरेंट्स को रहने के लिए मंत्रा हैप्पी होम्स काफी अच्छा रहेगा, क्योंकि छोटी सोसाइटी है, एंट्री करते ही मंदिर है जहाँ पे एज्ड वाले लोग ज्यादातर टाइम स्पेंड करते हैं। लोग भी काफी फ्रेंडली स्वभाव के हैं। तो ये अच्छा ऑप्शन हो सकता है।",
+    "spoken_answer": "आपके पेरेंट्स को रहने के लिए मंत्रा हैप्पी होम्स काफी अच्छा रहेगा, क्योंकि छोटी सोसाइटी है, एंट्री करते ही मंदिर है जहाँ पे एज्ड वाले लोग ज्यादातर टाइम स्पेंड करते हैं। लोग भी काफी फ्रेंडली स्वभाव के हैं। तो ये अच्छा ऑप्शन हो सकता है।",
+    "content": "Q: भैया मेरे मम्मी-पापा सीनियर सिटीजन हैं, रिटायरमेंट के बाद रहने के लिए कौन सी सोसाइटी सबसे सेफ और शांत रहेगी?\nA: आपके पेरेंट्स को रहने के लिए मंत्रा हैप्पी होम्स काफी अच्छा रहेगा, क्योंकि छोटी सोसाइटी है, एंट्री करते ही मंदिर है जहाँ पे एज्ड वाले लोग ज्यादातर टाइम स्पेंड करते हैं। लोग भी काफी फ्रेंडली स्वभाव के हैं। तो ये अच्छा ऑप्शन हो सकता है।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_dist_jwalapur",
-    "topic": "Distance from Jwalapur",
-    "canonical_question": "Mantra Happy Homes Jwalapur से कितनी दूर है?",
+    "id": "train_051",
+    "topic": "Mantra Happy Homes 2 BHK Primary Sales Pitch Strategy",
+    "canonical_question": "भैया 2 BHK में सबसे अच्छा फ्लैट कौन सी सोसाइटी में मिल जाएगा?",
     "variations": [
-      "Jwalapur se kitni door hai Mantra Happy Homes?",
-      "Jwalapur to Mantra Happy Homes distance"
+      "भैया 2 BHK में सबसे अच्छा फ्लैट कौन सी सोसाइटी में मिल जाएगा?",
+      "2 BHK में सबसे अच्छा फ्लैट कौन सी सोसाइटी में मिल जाएगा?",
+      "भैया 2 BHK में सबसे अच्छा फ्लैट कौन सी सोसाइटी में मिल जाएगा"
     ],
-    "answer": "Jwalapur Mantra Happy Homes से लगभग 6 किलोमीटर दूर है।",
-    "spoken_answer": "Jwalapur Mantra Happy Homes से लगभग 6 किलोमीटर दूर है।"
+    "answer": "2 BHK के लिए सबसे बेस्ट ऑप्शन आपके लिए मंत्रा हैप्पी होम्स रहेगा। यह सिर्फ 6 एकड़ में बनी बहुत ही वेल-मेंटेंड और शांत सोसाइटी है। यहाँ 2 BHK के 3 साइज मिल जाते हैं—810 स्क्वायर फीट 27 से 28 लाख में, 950 स्क्वायर फीट 34 से 35 लाख में, और 1010 स्क्वायर फीट लगभग 38 लाख में। पेंटागन मॉल और सिडकुल के बिल्कुल पास है और यहाँ रहने वाले लोगों के भी बहुत अच्छे रिव्यू हैं।",
+    "spoken_answer": "2 BHK के लिए सबसे बेस्ट ऑप्शन आपके लिए मंत्रा हैप्पी होम्स रहेगा। यह सिर्फ 6 एकड़ में बनी बहुत ही वेल-मेंटेंड और शांत सोसाइटी है। यहाँ 2 BHK के 3 साइज मिल जाते हैं—810 स्क्वायर फीट 27 से 28 लाख में, 950 स्क्वायर फीट 34 से 35 लाख में, और 1010 स्क्वायर फीट लगभग 38 लाख में। पेंटागन मॉल और सिडकुल के बिल्कुल पास है और यहाँ रहने वाले लोगों के भी बहुत अच्छे रिव्यू हैं।",
+    "content": "Q: भैया 2 BHK में सबसे अच्छा फ्लैट कौन सी सोसाइटी में मिल जाएगा?\nA: 2 BHK के लिए सबसे बेस्ट ऑप्शन आपके लिए मंत्रा हैप्पी होम्स रहेगा। यह सिर्फ 6 एकड़ में बनी बहुत ही वेल-मेंटेंड और शांत सोसाइटी है। यहाँ 2 BHK के 3 साइज मिल जाते हैं—810 स्क्वायर फीट 27 से 28 लाख में, 950 स्क्वायर फीट 34 से 35 लाख में, और 1010 स्क्वायर फीट लगभग 38 लाख में। पेंटागन मॉल और सिडकुल के बिल्कुल पास है और यहाँ रहने वाले लोगों के भी बहुत अच्छे रिव्यू हैं।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_dist_patanjali",
-    "topic": "Distance from Patanjali Yogpeeth",
-    "canonical_question": "Mantra Happy Homes Patanjali Yogpeeth से कितनी दूर है?",
+    "id": "train_052",
+    "topic": "Mantra Location",
+    "canonical_question": "मंत्रा हैप्पी होम्स कहाँ पड़ेगा?",
     "variations": [
-      "Patanjali se kitna distance hai?",
-      "Patanjali Yogpeeth to Mantra Happy Homes distance"
+      "मंत्रा हैप्पी होम्स कहाँ पड़ेगा?",
+      "मंत्रा हैप्पी होम्स कहाँ पड़ेगा?",
+      "मंत्रा हैप्पी होम्स कहाँ पड़ेगा"
     ],
-    "answer": "Patanjali Yogpeeth Mantra Happy Homes से लगभग 8.6 किलोमीटर दूर है।",
-    "spoken_answer": "Patanjali Yogpeeth Mantra Happy Homes से लगभग साढ़े 8 किलोमीटर दूर है।"
+    "answer": "मंत्रा हैप्पी होम्स राजा बिस्कुट चौक के सामने और शिवालिक नगर व पेंटागन मॉल से 1 से 2 किलोमीटर आगे पर है।",
+    "spoken_answer": "मंत्रा हैप्पी होम्स राजा बिस्कुट चौक के सामने और शिवालिक नगर व पेंटागन मॉल से 1 से 2 किलोमीटर आगे पर है।",
+    "content": "Q: मंत्रा हैप्पी होम्स कहाँ पड़ेगा?\nA: मंत्रा हैप्पी होम्स राजा बिस्कुट चौक के सामने और शिवालिक नगर व पेंटागन मॉल से 1 से 2 किलोमीटर आगे पर है।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_dist_har_ki_pauri",
-    "topic": "Distance from Har Ki Pauri",
-    "canonical_question": "Mantra Happy Homes Har Ki Pauri से कितनी दूर है?",
+    "id": "train_054",
+    "topic": "Best Society Overall",
+    "canonical_question": "इनमें से सबसे अच्छी सोसाइटी कौन सी है?",
     "variations": [
-      "Har Ki Pauri se kitna door hai Mantra Happy Homes?",
-      "Ganga ghat to Mantra Happy Homes distance"
+      "इनमें से सबसे अच्छी सोसाइटी कौन सी है?",
+      "इनमें से सबसे अच्छी सोसाइटी कौन सी है?",
+      "इनमें से सबसे अच्छी सोसाइटी कौन सी है"
     ],
-    "answer": "Har Ki Pauri Mantra Happy Homes से लगभग 12 किलोमीटर दूर है।",
-    "spoken_answer": "Har Ki Pauri Mantra Happy Homes से लगभग 12 किलोमीटर की दूरी पर है।"
+    "answer": "देखिए, सारी ही सोसाइटीज अच्छी हैं, ये आपकी जरूरत पर डिपेंड करता है। अगर आप फिर भी मेरे से जानना चाहते हैं, तो मंत्रा हैप्पी होम्स सोसाइटी काफी अच्छी है। यह 6 एकड़ में बनी हुई छोटी सी टाउनशिप है जो कि फैमिली के लिए बेस्ट रहेगी। अगर इन्वेस्टमेंट के पर्पस से देखा जाए तो भी यह सोसाइटी परफेक्ट रहेगी। इस सोसाइटी के प्राइस और सोसायटियों से काफी फ्रेंडली हैं और यहाँ अब एंड-यूजर्स ज्यादा आने लगे हैं, जिससे यहाँ की डिमांड कुछ सालों में काफी बढ़ने वाली है और प्राइस भी काफी बढ़ने वाले हैं।",
+    "spoken_answer": "देखिए, सारी ही सोसाइटीज अच्छी हैं, ये आपकी जरूरत पर डिपेंड करता है। अगर आप फिर भी मेरे से जानना चाहते हैं, तो मंत्रा हैप्पी होम्स सोसाइटी काफी अच्छी है। यह 6 एकड़ में बनी हुई छोटी सी टाउनशिप है जो कि फैमिली के लिए बेस्ट रहेगी। अगर इन्वेस्टमेंट के पर्पस से देखा जाए तो भी यह सोसाइटी परफेक्ट रहेगी। इस सोसाइटी के प्राइस और सोसायटियों से काफी फ्रेंडली हैं और यहाँ अब एंड-यूजर्स ज्यादा आने लगे हैं, जिससे यहाँ की डिमांड कुछ सालों में काफी बढ़ने वाली है और प्राइस भी काफी बढ़ने वाले हैं।",
+    "content": "Q: इनमें से सबसे अच्छी सोसाइटी कौन सी है?\nA: देखिए, सारी ही सोसाइटीज अच्छी हैं, ये आपकी जरूरत पर डिपेंड करता है। अगर आप फिर भी मेरे से जानना चाहते हैं, तो मंत्रा हैप्पी होम्स सोसाइटी काफी अच्छी है। यह 6 एकड़ में बनी हुई छोटी सी टाउनशिप है जो कि फैमिली के लिए बेस्ट रहेगी। अगर इन्वेस्टमेंट के पर्पस से देखा जाए तो भी यह सोसाइटी परफेक्ट रहेगी। इस सोसाइटी के प्राइस और सोसायटियों से काफी फ्रेंडली हैं और यहाँ अब एंड-यूजर्स ज्यादा आने लगे हैं, जिससे यहाँ की डिमांड कुछ सालों में काफी बढ़ने वाली है और प्राइस भी काफी बढ़ने वाले हैं।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_dist_station",
-    "topic": "Distance from Railway & Bus Station",
-    "canonical_question": "Mantra Happy Homes Railway Station और Bus Station से कितनी दूर है?",
+    "id": "train_055",
+    "topic": "Best Society for Investment",
+    "canonical_question": "इन्वेस्टमेंट के पर्पस से कौन सी सोसाइटी सही रहेगी?",
     "variations": [
-      "Haridwar Railway Station se kitna door hai?",
-      "Bus stand se kitna distance hai?",
-      "Station to Mantra Happy Homes"
+      "इन्वेस्टमेंट के पर्पस से कौन सी सोसाइटी सही रहेगी?",
+      "इन्वेस्टमेंट के पर्पस से कौन सी सोसाइटी सही रहेगी?",
+      "इन्वेस्टमेंट के पर्पस से कौन सी सोसाइटी सही रहेगी"
     ],
-    "answer": "Haridwar Railway Station और Bus Station दोनों Mantra Happy Homes से लगभग 9 किलोमीटर दूर हैं।",
-    "spoken_answer": "Haridwar Railway Station और Bus Stand दोनों Mantra Happy Homes से लगभग 9 किलोमीटर दूर हैं।"
+    "answer": "अगर इन्वेस्टमेंट के पर्पस से देखा जाए तो मंत्रा हैप्पी होम्स सोसाइटी बिल्कुल परफेक्ट रहेगी। इस सोसाइटी के प्राइस और सोसायटियों से काफी फ्रेंडली हैं और यहाँ अब एंड-यूजर्स ज्यादा आने लगे हैं, जिससे यहाँ की डिमांड कुछ सालों में काफी बढ़ने वाली है और प्राइस भी काफी बढ़ने वाले हैं।",
+    "spoken_answer": "अगर इन्वेस्टमेंट के पर्पस से देखा जाए तो मंत्रा हैप्पी होम्स सोसाइटी बिल्कुल परफेक्ट रहेगी। इस सोसाइटी के प्राइस और सोसायटियों से काफी फ्रेंडली हैं और यहाँ अब एंड-यूजर्स ज्यादा आने लगे हैं, जिससे यहाँ की डिमांड कुछ सालों में काफी बढ़ने वाली है और प्राइस भी काफी बढ़ने वाले हैं।",
+    "content": "Q: इन्वेस्टमेंट के पर्पस से कौन सी सोसाइटी सही रहेगी?\nA: अगर इन्वेस्टमेंट के पर्पस से देखा जाए तो मंत्रा हैप्पी होम्स सोसाइटी बिल्कुल परफेक्ट रहेगी। इस सोसाइटी के प्राइस और सोसायटियों से काफी फ्रेंडली हैं और यहाँ अब एंड-यूजर्स ज्यादा आने लगे हैं, जिससे यहाँ की डिमांड कुछ सालों में काफी बढ़ने वाली है और प्राइस भी काफी बढ़ने वाले हैं।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_surroundings",
-    "topic": "Hotels, Hospital & Industrial Hub",
-    "canonical_question": "Mantra Happy Homes के आसपास कौन-कौन से hotels, hospital और companies हैं?",
+    "id": "train_062",
+    "topic": "Society Age (Mantra vs Others)",
+    "canonical_question": "ये सोसाइटीज कितनी पुरानी हैं?",
     "variations": [
-      "Mantra Happy Homes ke pass hospital konsa hai?",
-      "Hotels near Mantra Happy Homes",
-      "Companies near Mantra Happy Homes Sidcul"
+      "ये सोसाइटीज कितनी पुरानी हैं?",
+      "ये सोसाइटीज कितनी पुरानी हैं?",
+      "ये सोसाइटीज कितनी पुरानी हैं"
     ],
-    "answer": "Mantra Happy Homes के 1 किमी के अंदर Hotel Radisson Blu, Hotel Hyphen, Hotel Gardania और Metro Hospital स्थित हैं। पास में Havells, ITC, Hero Group और HUL जैसी A-grade companies हैं।",
-    "spoken_answer": "1 किलोमीटर के अंदर रेडिसन ब्लू होटल और मेट्रो हॉस्पिटल स्थित हैं, और पास में हीरो व आईटीसी जैसी बड़ी कंपनियाँ हैं।"
+    "answer": "मंत्रा हैप्पी होम्स को छोड़कर बाकी सारी सोसाइटीज लगभग 10 से 12 साल पुरानी हैं, और मंत्रा हैप्पी होम्स को अभी सिर्फ 7 से 8 साल हुए हैं।",
+    "spoken_answer": "मंत्रा हैप्पी होम्स को छोड़कर बाकी सारी सोसाइटीज लगभग 10 से 12 साल पुरानी हैं, और मंत्रा हैप्पी होम्स को अभी सिर्फ 7 से 8 साल हुए हैं।",
+    "content": "Q: ये सोसाइटीज कितनी पुरानी हैं?\nA: मंत्रा हैप्पी होम्स को छोड़कर बाकी सारी सोसाइटीज लगभग 10 से 12 साल पुरानी हैं, और मंत्रा हैप्पी होम्स को अभी सिर्फ 7 से 8 साल हुए हैं।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_developer",
-    "topic": "Developer Details",
-    "canonical_question": "Mantra Happy Homes का developer कौन है?",
+    "id": "train_063",
+    "topic": "Mantra Happy Homes Delivery Year",
+    "canonical_question": "मंत्रा हैप्पी होम्स कब डिलीवर हुई थी / कितनी पुरानी है?",
     "variations": [
-      "Mantra Happy Homes kis builder ka project hai?",
-      "CRC group project Mantra Happy Homes"
+      "मंत्रा हैप्पी होम्स कब डिलीवर हुई थी / कितनी पुरानी है?",
+      "मंत्रा हैप्पी होम्स कब डिलीवर हुई थी / कितनी पुरानी है?",
+      "मंत्रा हैप्पी होम्स कब डिलीवर हुई थी / कितनी पुरानी है"
     ],
-    "answer": "Mantra Happy Homes CRC Group (Chandgi Ram Real Estate) का पहला और प्रतिष्ठित residential project है।",
-    "spoken_answer": "Mantra Happy Homes CRC Group का पहला और प्रतिष्ठित रेजिडेंशियल प्रोजेक्ट है।"
+    "answer": "मंत्रा हैप्पी होम्स 2019 में डिलीवर हुई थी, इसको अभी लगभग 7 से 8 साल हुए हैं।",
+    "spoken_answer": "मंत्रा हैप्पी होम्स 2019 में डिलीवर हुई थी, इसको अभी लगभग 7 से 8 साल हुए हैं।",
+    "content": "Q: मंत्रा हैप्पी होम्स कब डिलीवर हुई थी / कितनी पुरानी है?\nA: मंत्रा हैप्पी होम्स 2019 में डिलीवर हुई थी, इसको अभी लगभग 7 से 8 साल हुए हैं।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_towers_flats",
-    "topic": "6-Acre Township, 5 Towers & 272 Flats",
-    "canonical_question": "Mantra Happy Homes कितने एकड़ में फैला है, कितने towers और flats हैं?",
+    "id": "train_069",
+    "topic": "27-28 Lakh 2 BHK Location (Mantra)",
+    "canonical_question": "ये 27-28 लाख में कहाँ पे मिल जाएगा?",
     "variations": [
-      "Mantra Happy Homes kitne acre me hai?",
-      "Mantra Happy Homes me kitne tower hain?",
-      "Total flats in Mantra Happy Homes",
-      "Kitne acre ki township hai Mantra Happy Homes?",
-      "Kitne flats hain Mantra Happy Homes me?"
+      "ये 27-28 लाख में कहाँ पे मिल जाएगा?",
+      "ये 27-28 लाख में कहाँ पे मिल जाएगा?",
+      "ये 27-28 लाख में कहाँ पे मिल जाएगा"
     ],
-    "answer": "Mantra Happy Homes 6 एकड़ में फैली हुई residential township है, जिसमें कुल 5 towers और कुल 272 flats हैं।",
-    "spoken_answer": "Mantra Happy Homes 6 एकड़ में बनी टाउनशिप है जिसमें 5 टावर्स और 272 फ्लैट्स हैं।"
+    "answer": "मंत्रा हैप्पी होम्स नाम से 2019 में डिलीवर्ड एक प्रोजेक्ट है जो कि हरिद्वार मेन सिडकुल में पड़ता है। 6 एकड़ की छोटी सी टाउनशिप है, वहाँ आपको अफोर्डेबल प्राइस में बहुत ही अच्छे ऑप्शंस मिल जाएंगे।",
+    "spoken_answer": "मंत्रा हैप्पी होम्स नाम से 2019 में डिलीवर्ड एक प्रोजेक्ट है जो कि हरिद्वार मेन सिडकुल में पड़ता है। 6 एकड़ की छोटी सी टाउनशिप है, वहाँ आपको अफोर्डेबल प्राइस में बहुत ही अच्छे ऑप्शंस मिल जाएंगे।",
+    "content": "Q: ये 27-28 लाख में कहाँ पे मिल जाएगा?\nA: मंत्रा हैप्पी होम्स नाम से 2019 में डिलीवर्ड एक प्रोजेक्ट है जो कि हरिद्वार मेन सिडकुल में पड़ता है। 6 एकड़ की छोटी सी टाउनशिप है, वहाँ आपको अफोर्डेबल प्राइस में बहुत ही अच्छे ऑप्शंस मिल जाएंगे।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_property_types",
-    "topic": "Property Types & Plots Detail",
-    "canonical_question": "Mantra Happy Homes में कौन-कौन सी properties available हैं और plot का rate क्या है?",
+    "id": "train_070",
+    "topic": "Mantra Sales Office & Visit (Rahul Dwivedi ji)",
+    "canonical_question": "मंत्रा हैप्पी होम्स में विजिट करने या ऑफिस आने के लिए कहाँ आना होगा?",
     "variations": [
-      "Mantra Happy Homes me kya kya milta hai?",
-      "Flat ke alawa plots hain kya Mantra Happy Homes me?",
-      "Plots rate in Mantra Happy Homes",
-      "950 sq ft plot in Mantra Happy Homes"
+      "मंत्रा हैप्पी होम्स में विजिट करने या ऑफिस आने के लिए कहाँ आना होगा?",
+      "मंत्रा हैप्पी होम्स में विजिट करने या ऑफिस आने के लिए कहाँ आना होगा?",
+      "मंत्रा हैप्पी होम्स में विजिट करने या ऑफिस आने के लिए कहाँ आना होगा"
     ],
-    "answer": "Mantra Happy Homes में 2 BHK flats (810, 950, 1010 sq.ft) और 950 sq.ft के independent residential plots available हैं, जिनका asking rate ₹8,000 per sq.ft है।",
-    "spoken_answer": "Mantra Happy Homes में 2 BHK फ्लैट्स के साथ 950 स्क्वायर फीट के प्लॉट्स भी हैं, जिनका आस्किंग रेट 8000 रुपये प्रति स्क्वायर फीट है।"
+    "answer": "मंत्रा का सेल्स ऑफिस सोसाइटी के बाहर ही है, जिसको राहुल द्विवेदी जी संभालते हैं।",
+    "spoken_answer": "मंत्रा का सेल्स ऑफिस सोसाइटी के बाहर ही है, जिसको राहुल द्विवेदी जी संभालते हैं।",
+    "content": "Q: मंत्रा हैप्पी होम्स में विजिट करने या ऑफिस आने के लिए कहाँ आना होगा?\nA: मंत्रा का सेल्स ऑफिस सोसाइटी के बाहर ही है, जिसको राहुल द्विवेदी जी संभालते हैं।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_2bhk_all_prices",
-    "topic": "2 BHK Sizes & Prices Overview",
-    "canonical_question": "Mantra Happy Homes में 2 BHK के कौन-कौन से sizes और prices available हैं?",
+    "id": "train_072",
+    "topic": "Bank Loan on Properties",
+    "canonical_question": "क्या इन सभी फ्लैट्स और प्लॉट्स पर बैंक लोन आसानी से हो जाता है?",
     "variations": [
-      "Mantra Happy Homes me 2 BHK kitne ka hai?",
-      "2 BHK price in Mantra Happy Homes",
-      "Mantra Happy Homes flats rate",
-      "2 BHK size in Mantra Happy Homes"
+      "क्या इन सभी फ्लैट्स और प्लॉट्स पर बैंक लोन आसानी से हो जाता है?",
+      "क्या इन सभी फ्लैट्स और प्लॉट्स पर बैंक लोन आसानी से हो जाता है?",
+      "क्या इन सभी फ्लैट्स और प्लॉट्स पर बैंक लोन आसानी से हो जाता है"
     ],
-    "answer": "Mantra Happy Homes में 2 BHK के तीन sizes हैं: 810 sq.ft (₹27 से 28 लाख), 950 sq.ft (₹34 से 35 लाख) और 1010 sq.ft (लगभग ₹38 लाख)।",
-    "spoken_answer": "Mantra Happy Homes में 2 BHK 810 स्क्वायर फीट 27 से 28 लाख, 950 स्क्वायर फीट 34 से 35 लाख और 1010 स्क्वायर फीट 38 लाख से शुरू है।"
+    "answer": "हाँ जी, मंत्रा हैप्पी होम्स, हरिद्वार ग्रीन्स, और हमारे सभी रेरा और HRDA अप्रूव्ड प्लॉट्स पर एलिजिबल बायर्स को प्रॉपर्टी वैल्यू का लगभग 80% से 90% तक बैंक लोन आसानी से मिल जाता है।",
+    "spoken_answer": "हाँ जी, मंत्रा हैप्पी होम्स, हरिद्वार ग्रीन्स, और हमारे सभी रेरा और HRDA अप्रूव्ड प्लॉट्स पर एलिजिबल बायर्स को प्रॉपर्टी वैल्यू का लगभग 80% से 90% तक बैंक लोन आसानी से मिल जाता है।",
+    "content": "Q: क्या इन सभी फ्लैट्स और प्लॉट्स पर बैंक लोन आसानी से हो जाता है?\nA: हाँ जी, मंत्रा हैप्पी होम्स, हरिद्वार ग्रीन्स, और हमारे सभी रेरा और HRDA अप्रूव्ड प्लॉट्स पर एलिजिबल बायर्स को प्रॉपर्टी वैल्यू का लगभग 80% से 90% तक बैंक लोन आसानी से मिल जाता है।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_810_details",
-    "topic": "810 sq.ft 2 BHK Breakup",
-    "canonical_question": "Mantra Happy Homes में 810 sq.ft 2 BHK का price, built-up और carpet area कितना है?",
+    "id": "train_073",
+    "topic": "Best Flat for 15-20k Rental Income",
+    "canonical_question": "अगर मुझे महीने का 15 से 20 हज़ार किराया कमाना हो, तो कौन सा फ्लैट लेना सही रहेगा?",
     "variations": [
-      "810 sq ft 2 BHK price in Mantra Happy Homes",
-      "810 sq ft carpet area and builtup area",
-      "810 square feet flat details"
+      "अगर मुझे महीने का 15 से 20 हज़ार किराया कमाना हो, तो कौन सा फ्लैट लेना सही रहेगा?",
+      "अगर मुझे महीने का 15 से 20 हज़ार किराया कमाना हो, तो कौन सा फ्लैट लेना सही रहेगा?",
+      "अगर मुझे महीने का 15 से 20 हज़ार किराया कमाना हो, तो कौन सा फ्लैट लेना सही रहेगा"
     ],
-    "answer": "810 sq.ft 2 BHK की कीमत ₹27 से 28 लाख से शुरू है। इसका built-up area लगभग 679 sq.ft है और carpet area 518 sq.ft है (131 sq.ft common circulation).",
-    "spoken_answer": "810 स्क्वायर फीट 2 BHK की कीमत 27 से 28 लाख है, जिसका बिल्ट-अप एरिया 679 और कारपेट एरिया 518 स्क्वायर फीट है।"
+    "answer": "मंत्रा हैप्पी होम्स में 950 स्क्वायर फीट का फर्निश्ड 2 BHK फ्लैट ले लीजिए, इससे महीने का लगभग 18,000 से 20,000 रुपये तक का किराया आसानी से मिल जाता है।",
+    "spoken_answer": "मंत्रा हैप्पी होम्स में 950 स्क्वायर फीट का फर्निश्ड 2 BHK फ्लैट ले लीजिए, इससे महीने का लगभग 18,000 से 20,000 रुपये तक का किराया आसानी से मिल जाता है।",
+    "content": "Q: अगर मुझे महीने का 15 से 20 हज़ार किराया कमाना हो, तो कौन सा फ्लैट लेना सही रहेगा?\nA: मंत्रा हैप्पी होम्स में 950 स्क्वायर फीट का फर्निश्ड 2 BHK फ्लैट ले लीजिए, इससे महीने का लगभग 18,000 से 20,000 रुपये तक का किराया आसानी से मिल जाता है।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_950_details",
-    "topic": "950 sq.ft 2 BHK Breakup",
-    "canonical_question": "Mantra Happy Homes में 950 sq.ft 2 BHK का price, built-up और carpet area कितना है?",
+    "id": "train_076",
+    "topic": "30-35 Lakh Budget Flat vs Plot",
+    "canonical_question": "भैया 30-35 लाख का बजट है, फ्लैट लेना ज्यादा अच्छा रहेगा या प्लॉट में लगाना चाहिए?",
     "variations": [
-      "950 sq ft 2 BHK price in Mantra Happy Homes",
-      "950 sq ft carpet area and builtup area",
-      "950 square feet flat details"
+      "भैया 30-35 लाख का बजट है, फ्लैट लेना ज्यादा अच्छा रहेगा या प्लॉट में लगाना चाहिए?",
+      "30-35 लाख का बजट है, फ्लैट लेना ज्यादा अच्छा रहेगा या प्लॉट में लगाना चाहिए?",
+      "भैया 30-35 लाख का बजट है, फ्लैट लेना ज्यादा अच्छा रहेगा या प्लॉट में लगाना चाहिए"
     ],
-    "answer": "950 sq.ft 2 BHK की कीमत ₹34 से 35 लाख से शुरू है। इसका built-up area लगभग 796 sq.ft है और carpet area 616 sq.ft है (154 sq.ft common circulation).",
-    "spoken_answer": "950 स्क्वायर फीट 2 BHK की कीमत 34 से 35 लाख है, जिसका बिल्ट-अप एरिया 796 और कारपेट एरिया 616 स्क्वायर फीट है।"
+    "answer": "30 से 35 लाख के बजट में आपके लिए मंत्रा हैप्पी होम्स में 950 स्क्वायर फीट का 2 BHK फ्लैट लेना ज्यादा अच्छा रहेगा, जो कि 34 से 35 लाख रुपये में मिल जाता है।",
+    "spoken_answer": "30 से 35 लाख के बजट में आपके लिए मंत्रा हैप्पी होम्स में 950 स्क्वायर फीट का 2 BHK फ्लैट लेना ज्यादा अच्छा रहेगा, जो कि 34 से 35 लाख रुपये में मिल जाता है।",
+    "content": "Q: भैया 30-35 लाख का बजट है, फ्लैट लेना ज्यादा अच्छा रहेगा या प्लॉट में लगाना चाहिए?\nA: 30 से 35 लाख के बजट में आपके लिए मंत्रा हैप्पी होम्स में 950 स्क्वायर फीट का 2 BHK फ्लैट लेना ज्यादा अच्छा रहेगा, जो कि 34 से 35 लाख रुपये में मिल जाता है।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_1010_details",
-    "topic": "1010 sq.ft 2 BHK Details",
-    "canonical_question": "Mantra Happy Homes में 1010 sq.ft 2 BHK का price कितना है?",
+    "id": "train_080",
+    "topic": "Mantra Maintenance and Power Backup",
+    "canonical_question": "मंत्रा हैप्पी होम्स में मेंटेनेंस चार्ज कितना है और पावर बैकअप की क्या सुविधा है?",
     "variations": [
-      "1010 sq ft 2 BHK price in Mantra Happy Homes",
-      "1010 square feet flat rate"
+      "मंत्रा हैप्पी होम्स में मेंटेनेंस चार्ज कितना है और पावर बैकअप की क्या सुविधा है?",
+      "मंत्रा हैप्पी होम्स में मेंटेनेंस चार्ज कितना है और पावर बैकअप की क्या सुविधा है?",
+      "मंत्रा हैप्पी होम्स में मेंटेनेंस चार्ज कितना है और पावर बैकअप की क्या सुविधा है"
     ],
-    "answer": "1010 sq.ft 2 BHK का price लगभग ₹38 लाख से शुरू है। इसका built-up area 846 sq.ft और carpet area 655 sq.ft है।",
-    "spoken_answer": "1010 स्क्वायर फीट का बड़ा 2 BHK लगभग 38 लाख रुपये से शुरू है।"
+    "answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से। और मंत्रा में 24/7 पावर बैकअप की सुविधा मिलती है।",
+    "spoken_answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से। और मंत्रा में 24/7 पावर बैकअप की सुविधा मिलती है।",
+    "content": "Q: मंत्रा हैप्पी होम्स में मेंटेनेंस चार्ज कितना है और पावर बैकअप की क्या सुविधा है?\nA: मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से। और मंत्रा में 24/7 पावर बैकअप की सुविधा मिलती है।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_legal_rera_hrda",
-    "topic": "Legal, RERA & HRDA Approval",
-    "canonical_question": "क्या Mantra Happy Homes RERA और HRDA approved है?",
+    "id": "train_097",
+    "topic": "Distance from Pentagon Mall to Mantra Happy Homes",
+    "canonical_question": "पेंटागन मॉल से मंत्रा हैप्पी होम्स कितनी दूरी पर पड़ता है?",
     "variations": [
-      "Mantra Happy Homes RERA registered hai kya?",
-      "RERA number of Mantra Happy Homes",
-      "HRDA approved hai kya?",
-      "Freehold hai ya leasehold?",
-      "Registry hoti hai kya?"
+      "पेंटागन मॉल से मंत्रा हैप्पी होम्स कितनी दूरी पर पड़ता है?",
+      "पेंटागन मॉल से मंत्रा हैप्पी होम्स कितनी दूरी पर पड़ता है?",
+      "पेंटागन मॉल से मंत्रा हैप्पी होम्स कितनी दूरी पर पड़ता है"
     ],
-    "answer": "हाँ जी, Mantra Happy Homes RERA registered (RERA No: UKREP10170000059) और HRDA approved है। यह 100% Freehold property है और direct registry होती है।",
-    "spoken_answer": "हाँ जी, यह HRDA अप्रूव्ड और RERA रजिस्टर्ड है जिसका नंबर UKREP10170000059 है, और ज़मीन 100% फ्रीहोल्ड है।"
+    "answer": "पेंटागन मॉल मंत्रा हैप्पी होम्स से मात्र लगभग 1 किलोमीटर दूर है।",
+    "spoken_answer": "पेंटागन मॉल मंत्रा हैप्पी होम्स से मात्र लगभग 1 किलोमीटर दूर है।",
+    "content": "Q: पेंटागन मॉल से मंत्रा हैप्पी होम्स कितनी दूरी पर पड़ता है?\nA: पेंटागन मॉल मंत्रा हैप्पी होम्स से मात्र लगभग 1 किलोमीटर दूर है।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_amenities",
-    "topic": "Amenities & Lifestyle",
-    "canonical_question": "Mantra Happy Homes में कौन-कौन सी amenities available हैं?",
+    "id": "train_102",
+    "topic": "Power & Water Backup in Societies",
+    "canonical_question": "मंत्रा, दीप गंगा और हरिद्वार ग्रीन्स में पानी और बिजली की क्या व्यवस्था है?",
     "variations": [
-      "Mantra Happy Homes me swimming pool gym hai kya?",
-      "Club house and temple in Mantra Happy Homes",
-      "Facilities in Mantra Happy Homes Haridwar"
+      "मंत्रा, दीप गंगा और हरिद्वार ग्रीन्स में पानी और बिजली की क्या व्यवस्था है?",
+      "मंत्रा, दीप गंगा और हरिद्वार ग्रीन्स में पानी और बिजली की क्या व्यवस्था है?",
+      "मंत्रा, दीप गंगा और हरिद्वार ग्रीन्स में पानी और बिजली की क्या व्यवस्था है"
     ],
-    "answer": "Mantra Happy Homes में Club House, Swimming Pool, Gym, Party Hall, Table Tennis, Badminton Court, Jogging Track, Kids Play Area, 2 Landscape Gardens, Mandir (Temple), Gazebo और Commercial Shops available हैं।",
-    "spoken_answer": "यहाँ क्लब हाउस, स्विमिंग पूल, जिम, पार्टी हॉल, बैडमिंटन कोर्ट, मंदिर, बच्चों का पार्क और डेली नीड्स की दुकानें उपलब्ध हैं।"
+    "answer": "इन सभी गेटेड सोसायटियों में 24 घंटे पानी की सप्लाई और पावर बैकअप की पूरी व्यवस्था रहती है।",
+    "spoken_answer": "इन सभी गेटेड सोसायटियों में 24 घंटे पानी की सप्लाई और पावर बैकअप की पूरी व्यवस्था रहती है।",
+    "content": "Q: मंत्रा, दीप गंगा और हरिद्वार ग्रीन्स में पानी और बिजली की क्या व्यवस्था है?\nA: इन सभी गेटेड सोसायटियों में 24 घंटे पानी की सप्लाई और पावर बैकअप की पूरी व्यवस्था रहती है।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_utilities_security",
-    "topic": "Security & Utilities",
-    "canonical_question": "Mantra Happy Homes में security और utilities कैसी हैं?",
+    "id": "train_103",
+    "topic": "Temple inside Jurs Country and Mantra",
+    "canonical_question": "क्या जर्स कंट्री या मंत्रा हैप्पी होम्स के अंदर मंदिर बना हुआ है?",
     "variations": [
-      "Power backup and water supply in Mantra Happy Homes",
-      "Security system in Mantra Happy Homes",
-      "Rainwater harvesting and parking"
+      "क्या जर्स कंट्री या मंत्रा हैप्पी होम्स के अंदर मंदिर बना हुआ है?",
+      "क्या जर्स कंट्री या मंत्रा हैप्पी होम्स के अंदर मंदिर बना हुआ है?",
+      "क्या जर्स कंट्री या मंत्रा हैप्पी होम्स के अंदर मंदिर बना हुआ है"
     ],
-    "answer": "Mantra Happy Homes एक 24x7 secure gated campus है, जिसमें 100% power backup, underground electricity & water, sewerage system, rainwater harvesting, Vastu compliance, parking और drop-off area उपलब्ध हैं।",
-    "spoken_answer": "यहाँ 24 घंटे सुरक्षा, 100% पावर बैकअप, अंडरग्राउंड बिजली-पानी, पार्किंग और ड्रॉप-ऑफ एरिया उपलब्ध है।"
+    "answer": "हाँ जी, जर्स कंट्री और मंत्रा हैप्पी होम्स दोनों के अंदर मंदिर बना हुआ है।",
+    "spoken_answer": "हाँ जी, जर्स कंट्री और मंत्रा हैप्पी होम्स दोनों के अंदर मंदिर बना हुआ है।",
+    "content": "Q: क्या जर्स कंट्री या मंत्रा हैप्पी होम्स के अंदर मंदिर बना हुआ है?\nA: हाँ जी, जर्स कंट्री और मंत्रा हैप्पी होम्स दोनों के अंदर मंदिर बना हुआ है।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_outsider_land_rule",
-    "topic": "Uttarakhand Outside Buyer Land & Flat Rule",
-    "canonical_question": "अगर हम Uttarakhand के बाहर के हैं, तो Uttarakhand में कितनी जमीन या फ्लैट खरीद सकते हैं?",
+    "id": "train_104",
+    "topic": "Mantra Balcony and Open View",
+    "canonical_question": "क्या मंत्रा हैप्पी होम्स के 2 BHK फ्लैट्स में बालकनी और ओपन व्यू मिलता है?",
     "variations": [
-      "Uttarakhand ke bahar wale kitni zameen khareed sakte hain?",
-      "Outside buyer land limit in Uttarakhand",
-      "Can outsiders buy flats in Haridwar?",
-      "250 sq m limit in Uttarakhand"
+      "क्या मंत्रा हैप्पी होम्स के 2 BHK फ्लैट्स में बालकनी और ओपन व्यू मिलता है?",
+      "क्या मंत्रा हैप्पी होम्स के 2 BHK फ्लैट्स में बालकनी और ओपन व्यू मिलता है?",
+      "क्या मंत्रा हैप्पी होम्स के 2 BHK फ्लैट्स में बालकनी और ओपन व्यू मिलता है"
     ],
-    "answer": "Uttarakhand के बाहर के लोग अधिकतम 2696 sq.ft (250 sq.m / 299 sq.yards) तक जमीन/प्लॉट खरीद सकते हैं। लेकिन FLATS खरीदने पर कोई सीमा नहीं है, आप unlimited flats खरीद सकते हैं।",
-    "spoken_answer": "उत्तराखंड के बाहर के लोग 2696 स्क्वायर फीट तक ज़मीन खरीद सकते हैं, लेकिन फ्लैट्स खरीदने पर कोई लिमिट नहीं है — आप कितने भी फ्लैट्स खरीद सकते हैं।"
+    "answer": "हाँ जी, मंत्रा हैप्पी होम्स के 2 BHK फ्लैट्स में बालकनी और बढ़िया ओपन व्यू मिल जाता है।",
+    "spoken_answer": "हाँ जी, मंत्रा हैप्पी होम्स के 2 BHK फ्लैट्स में बालकनी और बढ़िया ओपन व्यू मिल जाता है।",
+    "content": "Q: क्या मंत्रा हैप्पी होम्स के 2 BHK फ्लैट्स में बालकनी और ओपन व्यू मिलता है?\nA: हाँ जी, मंत्रा हैप्पी होम्स के 2 BHK फ्लैट्स में बालकनी और बढ़िया ओपन व्यू मिल जाता है।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_broker_commission",
-    "topic": "Brokerage / Commission Policy",
-    "canonical_question": "The Propbazar में broker का कितना commission रहता है?",
+    "id": "train_113",
+    "topic": "Rental Income & Conditioning (Furnished)",
+    "canonical_question": "हरिद्वार में फ्लैट्स पर औसतन कितना रेंट मिल जाता है?",
     "variations": [
-      "Brokerage kitna lete ho?",
-      "Commission charges on flat purchase",
-      "Broker commission kitna hai?"
+      "हरिद्वार में फ्लैट्स पर औसतन कितना रेंट मिल जाता है?",
+      "हरिद्वार में फ्लैट्स पर औसतन कितना रेंट मिल जाता है?",
+      "हरिद्वार में फ्लैट्स पर औसतन कितना रेंट मिल जाता है"
     ],
-    "answer": "40 लाख से नीचे की property पर 2% और 40 लाख से ऊपर की property पर 1% commission रहता है। यह fixed नहीं है और टेबल पर बैठकर बात की जा सकती है।",
-    "spoken_answer": "40 लाख से नीचे 2 प्रतिशत और 40 लाख से ऊपर 1 प्रतिशत रहता है, जिस पर बैठकर बात की जा सकती है।"
+    "answer": "जी, फ्लैट का रेंट ज्यादातर फ्लैट की कंडीशनिंग पर डिपेंड करता है, बट फिर भी अगर आप मंत्रा हैप्पी होम्स में 2 BHK बाय करते हो और उसको फर्निश्ड करने के बाद रेंट में चढ़ा देते हो तो आपको 18 से 20 हज़ार आराम से मिल जाएंगे।",
+    "spoken_answer": "जी, फ्लैट का रेंट ज्यादातर फ्लैट की कंडीशनिंग पर डिपेंड करता है, बट फिर भी अगर आप मंत्रा हैप्पी होम्स में 2 BHK बाय करते हो और उसको फर्निश्ड करने के बाद रेंट में चढ़ा देते हो तो आपको 18 से 20 हज़ार आराम से मिल जाएंगे।",
+    "content": "Q: हरिद्वार में फ्लैट्स पर औसतन कितना रेंट मिल जाता है?\nA: जी, फ्लैट का रेंट ज्यादातर फ्लैट की कंडीशनिंग पर डिपेंड करता है, बट फिर भी अगर आप मंत्रा हैप्पी होम्स में 2 BHK बाय करते हो और उसको फर्निश्ड करने के बाद रेंट में चढ़ा देते हो तो आपको 18 से 20 हज़ार आराम से मिल जाएंगे।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_registry_charges",
-    "topic": "Registry & Govt Charges",
-    "canonical_question": "Mantra Happy Homes में registry charges कितने लगते हैं?",
+    "id": "train_114",
+    "topic": "Unfurnished Flat Rent (Mantra)",
+    "canonical_question": "अगर फ्लैट खाली या अनफर्निश्ड हो तो कितने में रेंट पर चढ़ेगा?",
     "variations": [
-      "Registry charges kitne hain?",
-      "Govt stamp duty and registry fees"
+      "अगर फ्लैट खाली या अनफर्निश्ड हो तो कितने में रेंट पर चढ़ेगा?",
+      "अगर फ्लैट खाली या अनफर्निश्ड हो तो कितने में रेंट पर चढ़ेगा?",
+      "अगर फ्लैट खाली या अनफर्निश्ड हो तो कितने में रेंट पर चढ़ेगा"
     ],
-    "answer": "Registry में मुख्य रूप से government charges लगते हैं, जो सामान्यतः 3% से 5% तक होते हैं। इसके साथ government slip charge लागू होता है जो नियमानुसार बदलता रहता है।",
-    "spoken_answer": "रजिस्ट्री में सामान्यतः 3 से 5 प्रतिशत सरकारी चार्ज लगता है, जो नियमों के अनुसार तय होता है।"
+    "answer": "अगर फ्लैट खाली या अनफर्निश्ड रहता है तो वो 10 से 14 हज़ार तक रेंट पर चढ़ जाएगा।",
+    "spoken_answer": "अगर फ्लैट खाली या अनफर्निश्ड रहता है तो वो 10 से 14 हज़ार तक रेंट पर चढ़ जाएगा।",
+    "content": "Q: अगर फ्लैट खाली या अनफर्निश्ड हो तो कितने में रेंट पर चढ़ेगा?\nA: अगर फ्लैट खाली या अनफर्निश्ड रहता है तो वो 10 से 14 हज़ार तक रेंट पर चढ़ जाएगा।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_bank_loan",
-    "topic": "Bank Loan Eligibility",
-    "canonical_question": "Mantra Happy Homes में flat खरीदने पर bank loan कितना मिल सकता है?",
+    "id": "train_136",
+    "topic": "Mantra Happy Homes 1 BHK Non-Existence Fact",
+    "canonical_question": "मंत्रा हैप्पी होम्स में 1 BHK का साइज और क्या प्राइस ब्रैकेट रहता है?",
     "variations": [
-      "Mantra Happy Homes me loan kitna milega?",
-      "Bank loan available in Mantra Happy Homes?",
-      "SBI PNB loan percent"
+      "मंत्रा हैप्पी होम्स में 1 BHK का साइज और क्या प्राइस ब्रैकेट रहता है?",
+      "मंत्रा हैप्पी होम्स में 1 BHK का साइज और क्या प्राइस ब्रैकेट रहता है?",
+      "मंत्रा हैप्पी होम्स में 1 BHK का साइज और क्या प्राइस ब्रैकेट रहता है"
     ],
-    "answer": "Mantra Happy Homes में eligible buyers को property value का लगभग 80% से 90% तक bank loan आसानी से मिल जाता है।",
-    "spoken_answer": "हाँ जी, Mantra Happy Homes में एलिजिबल बायर्स को 80 से 90 प्रतिशत तक बैंक लोन मिल जाता है।"
+    "answer": "मंत्रा हैप्पी होम्स में 1 BHK या 3 BHK नहीं आते हैं, यहाँ केवल 2 BHK फ्लैट्स ही मिलते हैं।",
+    "spoken_answer": "मंत्रा हैप्पी होम्स में 1 BHK या 3 BHK नहीं आते हैं, यहाँ केवल 2 BHK फ्लैट्स ही मिलते हैं।",
+    "content": "Q: मंत्रा हैप्पी होम्स में 1 BHK का साइज और क्या प्राइस ब्रैकेट रहता है?\nA: मंत्रा हैप्पी होम्स में 1 BHK या 3 BHK नहीं आते हैं, यहाँ केवल 2 BHK फ्लैट्स ही मिलते हैं।",
+    "project_name": "Mantra Happy Homes"
   },
   {
-    "id": "mantra_policies_docs_maint",
-    "topic": "Maintenance & Document Policy",
-    "canonical_question": "Mantra Happy Homes में maintenance कितना है और क्या documents online मिल सकते हैं?",
+    "id": "train_138",
+    "topic": "Mantra 27-28L vs Haridwar Greens 38L Difference & Resale Interior",
+    "canonical_question": "मंत्रा में 2 BHK 27-28 लाख में मिल जाता है और हरिद्वार ग्रीन्स में 38 लाख से शुरू होता है, दोनों में क्या फर्क है?",
     "variations": [
-      "Maintenance kitna hai Mantra Happy Homes me?",
-      "Documents online bhej sakte ho kya?",
-      "Registry papers photo video online"
+      "मंत्रा में 2 BHK 27-28 लाख में मिल जाता है और हरिद्वार ग्रीन्स में 38 लाख से शुरू होता है, दोनों में क्या फर्क है?",
+      "मंत्रा में 2 BHK 27-28 लाख में मिल जाता है और हरिद्वार ग्रीन्स में 38 लाख से शुरू होता है, दोनों में क्या फर्क है?",
+      "मंत्रा में 2 BHK 27-28 लाख में मिल जाता है और हरिद्वार ग्रीन्स में 38 लाख से शुरू होता है, दोनों में क्या फर्क है"
     ],
-    "answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से।",
-    "spoken_answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से।"
+    "answer": "मंत्रा हैप्पी होम्स राजा बिस्कुट चौक के पास 6 एकड़ की छोटी, कॉम्पैक्ट सोसाइटी है और 2019 में डिलीवर हुई है, जहाँ 810 स्क्वायर फीट का 2 BHK 27 से 28 लाख रुपये में मिलता है। वहीं हरिद्वार ग्रीन्स रोशनाबाद में 50 एकड़ की बहुत बड़ी ओपन टाउनशिप है, जो 2017 में डिलीवर हुई थी, और वहाँ 1075 स्क्वायर फीट का 2 BHK लगभग 38 लाख रुपये से शुरू होता है। बाकी अगर फर्क की बात करें तो फर्क साइज और इंटीरियर के काम पर है। ये सारे रीसेल के फ्लैट्स हैं तो हर एक फ्लैट ओनर ने अलग-अलग काम करवा रखा होता है फ्लैट्स में, इंटीरियर के काम पे और फर्क यही होता है।",
+    "spoken_answer": "मंत्रा हैप्पी होम्स राजा बिस्कुट चौक के पास 6 एकड़ की छोटी, कॉम्पैक्ट सोसाइटी है और 2019 में डिलीवर हुई है, जहाँ 810 स्क्वायर फीट का 2 BHK 27 से 28 लाख रुपये में मिलता है। वहीं हरिद्वार ग्रीन्स रोशनाबाद में 50 एकड़ की बहुत बड़ी ओपन टाउनशिप है, जो 2017 में डिलीवर हुई थी, और वहाँ 1075 स्क्वायर फीट का 2 BHK लगभग 38 लाख रुपये से शुरू होता है। बाकी अगर फर्क की बात करें तो फर्क साइज और इंटीरियर के काम पर है। ये सारे रीसेल के फ्लैट्स हैं तो हर एक फ्लैट ओनर ने अलग-अलग काम करवा रखा होता है फ्लैट्स में, इंटीरियर के काम पे और फर्क यही होता है।",
+    "content": "Q: मंत्रा में 2 BHK 27-28 लाख में मिल जाता है और हरिद्वार ग्रीन्स में 38 लाख से शुरू होता है, दोनों में क्या फर्क है?\nA: मंत्रा हैप्पी होम्स राजा बिस्कुट चौक के पास 6 एकड़ की छोटी, कॉम्पैक्ट सोसाइटी है और 2019 में डिलीवर हुई है, जहाँ 810 स्क्वायर फीट का 2 BHK 27 से 28 लाख रुपये में मिलता है। वहीं हरिद्वार ग्रीन्स रोशनाबाद में 50 एकड़ की बहुत बड़ी ओपन टाउनशिप है, जो 2017 में डिलीवर हुई थी, और वहाँ 1075 स्क्वायर फीट का 2 BHK लगभग 38 लाख रुपये से शुरू होता है। बाकी अगर फर्क की बात करें तो फर्क साइज और इंटीरियर के काम पर है। ये सारे रीसेल के फ्लैट्स हैं तो हर एक फ्लैट ओनर ने अलग-अलग काम करवा रखा होता है फ्लैट्स में, इंटीरियर के काम पे और फर्क यही होता है।",
+    "project_name": "Mantra Happy Homes"
+  },
+  {
+    "id": "train_156",
+    "topic": "Mantra Park Facing & Corner 2 BHK Premium High Demand",
+    "canonical_question": "मंत्रा हैप्पी होम्स में क्या पार्क फेसिंग या कॉर्नर वाले 2 BHK फ्लैट्स भी मिल जाते हैं?",
+    "variations": [
+      "मंत्रा हैप्पी होम्स में क्या पार्क फेसिंग या कॉर्नर वाले 2 BHK फ्लैट्स भी मिल जाते हैं?",
+      "मंत्रा हैप्पी होम्स में क्या पार्क फेसिंग या कॉर्नर वाले 2 BHK फ्लैट्स भी मिल जाते हैं?",
+      "मंत्रा हैप्पी होम्स में क्या पार्क फेसिंग या कॉर्नर वाले 2 BHK फ्लैट्स भी मिल जाते हैं"
+    ],
+    "answer": "हाँ जी, मंत्रा हैप्पी होम्स में पार्क फेसिंग और कॉर्नर वाले 2 BHK फ्लैट्स भी मिल जाते हैं। मगर ये प्रीमियम फ्लैट्स रहते हैं, ये आने के बहुत ही जल्दी सेल हो जाते हैं। इसकी डिमांड बहुत ज्यादा रहती है और सेल में ये कम आते हैं। बाकी करंट अवेलेबिलिटी आप ऑफिस टीम से पता कर सकते हो।",
+    "spoken_answer": "हाँ जी, मंत्रा हैप्पी होम्स में पार्क फेसिंग और कॉर्नर वाले 2 BHK फ्लैट्स भी मिल जाते हैं। मगर ये प्रीमियम फ्लैट्स रहते हैं, ये आने के बहुत ही जल्दी सेल हो जाते हैं। इसकी डिमांड बहुत ज्यादा रहती है और सेल में ये कम आते हैं। बाकी करंट अवेलेबिलिटी आप ऑफिस टीम से पता कर सकते हो।",
+    "content": "Q: मंत्रा हैप्पी होम्स में क्या पार्क फेसिंग या कॉर्नर वाले 2 BHK फ्लैट्स भी मिल जाते हैं?\nA: हाँ जी, मंत्रा हैप्पी होम्स में पार्क फेसिंग और कॉर्नर वाले 2 BHK फ्लैट्स भी मिल जाते हैं। मगर ये प्रीमियम फ्लैट्स रहते हैं, ये आने के बहुत ही जल्दी सेल हो जाते हैं। इसकी डिमांड बहुत ज्यादा रहती है और सेल में ये कम आते हैं। बाकी करंट अवेलेबिलिटी आप ऑफिस टीम से पता कर सकते हो।",
+    "project_name": "Mantra Happy Homes"
+  },
+  {
+    "id": "train_159",
+    "topic": "Mantra Ground Floor vs Top Floor Price Difference",
+    "canonical_question": "मंत्रा हैप्पी होम्स में क्या ग्राउंड फ्लोर और टॉप फ्लोर के रेट में कोई फर्क रहता है?",
+    "variations": [
+      "मंत्रा हैप्पी होम्स में क्या ग्राउंड फ्लोर और टॉप फ्लोर के रेट में कोई फर्क रहता है?",
+      "मंत्रा हैप्पी होम्स में क्या ग्राउंड फ्लोर और टॉप फ्लोर के रेट में कोई फर्क रहता है?",
+      "मंत्रा हैप्पी होम्स में क्या ग्राउंड फ्लोर और टॉप फ्लोर के रेट में कोई फर्क रहता है"
+    ],
+    "answer": "हाँ जी, ग्राउंड फ्लोर और टॉप फ्लोर के रेट में थोड़ा फर्क रहता है। सामान्यतः ग्राउंड फ्लोर थोड़ा प्रीमियम रहता है और टॉप फ्लोर पर प्राइस थोड़ा कम मिल जाता है।",
+    "spoken_answer": "हाँ जी, ग्राउंड फ्लोर और टॉप फ्लोर के रेट में थोड़ा फर्क रहता है। सामान्यतः ग्राउंड फ्लोर थोड़ा प्रीमियम रहता है और टॉप फ्लोर पर प्राइस थोड़ा कम मिल जाता है।",
+    "content": "Q: मंत्रा हैप्पी होम्स में क्या ग्राउंड फ्लोर और टॉप फ्लोर के रेट में कोई फर्क रहता है?\nA: हाँ जी, ग्राउंड फ्लोर और टॉप फ्लोर के रेट में थोड़ा फर्क रहता है। सामान्यतः ग्राउंड फ्लोर थोड़ा प्रीमियम रहता है और टॉप फ्लोर पर प्राइस थोड़ा कम मिल जाता है।",
+    "project_name": "Mantra Happy Homes"
+  },
+  {
+    "id": "train_169",
+    "topic": "Deep Ganga vs Mantra Delivery Year Comparison",
+    "canonical_question": "दीप गंगा और मंत्रा हैप्पी होम्स में से कौन सी सोसाइटी ज्यादा नई है और कब बनी थी?",
+    "variations": [
+      "दीप गंगा और मंत्रा हैप्पी होम्स में से कौन सी सोसाइटी ज्यादा नई है और कब बनी थी?",
+      "दीप गंगा और मंत्रा हैप्पी होम्स में से कौन सी सोसाइटी ज्यादा नई है और कब बनी थी?",
+      "दीप गंगा और मंत्रा हैप्पी होम्स में से कौन सी सोसाइटी ज्यादा नई है और कब बनी थी"
+    ],
+    "answer": "मंत्रा हैप्पी होम्स 2019 में डिलीवर हुई थी, इसको लगभग 7 से 8 साल हुए हैं। वहीं दीप गंगा 2015 में डिलीवर हुई थी। इस हिसाब से मंत्रा हैप्पी होम्स ज्यादा नई सोसाइटी है।",
+    "spoken_answer": "मंत्रा हैप्पी होम्स 2019 में डिलीवर हुई थी, इसको लगभग 7 से 8 साल हुए हैं। वहीं दीप गंगा 2015 में डिलीवर हुई थी। इस हिसाब से मंत्रा हैप्पी होम्स ज्यादा नई सोसाइटी है।",
+    "content": "Q: दीप गंगा और मंत्रा हैप्पी होम्स में से कौन सी सोसाइटी ज्यादा नई है और कब बनी थी?\nA: मंत्रा हैप्पी होम्स 2019 में डिलीवर हुई थी, इसको लगभग 7 से 8 साल हुए हैं। वहीं दीप गंगा 2015 में डिलीवर हुई थी। इस हिसाब से मंत्रा हैप्पी होम्स ज्यादा नई सोसाइटी है।",
+    "project_name": "Mantra Happy Homes"
+  },
+  {
+    "id": "train_183",
+    "topic": "Mantra 1010 sqft Popularity and Premium Facing View",
+    "canonical_question": "मंत्रा में 950 स्क्वायर फीट का 2 BHK इतना पॉपुलर क्यों है?",
+    "variations": [
+      "मंत्रा में 950 स्क्वायर फीट का 2 BHK इतना पॉपुलर क्यों है?",
+      "मंत्रा में 950 स्क्वायर फीट का 2 BHK इतना पॉपुलर क्यों है?",
+      "मंत्रा में 950 स्क्वायर फीट का 2 BHK इतना पॉपुलर क्यों है"
+    ],
+    "answer": "नहीं जी, 950 स्क्वायर फीट से ज्यादा 1010 स्क्वायर फीट पॉपुलर है मंत्रा में, क्योंकि इसके ज्यादातर फ्लैट्स प्रीमियम फेसिंग पर ही हैं और साइज भी काफी अच्छा-खासा है जहाँ से व्यू भी बहुत ही खूबसूरत आता है।",
+    "spoken_answer": "नहीं जी, 950 स्क्वायर फीट से ज्यादा 1010 स्क्वायर फीट पॉपुलर है मंत्रा में, क्योंकि इसके ज्यादातर फ्लैट्स प्रीमियम फेसिंग पर ही हैं और साइज भी काफी अच्छा-खासा है जहाँ से व्यू भी बहुत ही खूबसूरत आता है।",
+    "content": "Q: मंत्रा में 950 स्क्वायर फीट का 2 BHK इतना पॉपुलर क्यों है?\nA: नहीं जी, 950 स्क्वायर फीट से ज्यादा 1010 स्क्वायर फीट पॉपुलर है मंत्रा में, क्योंकि इसके ज्यादातर फ्लैट्स प्रीमियम फेसिंग पर ही हैं और साइज भी काफी अच्छा-खासा है जहाँ से व्यू भी बहुत ही खूबसूरत आता है।",
+    "project_name": "Mantra Happy Homes"
+  },
+  {
+    "id": "train_198",
+    "topic": "Mantra Happy Homes 5 Towers & 8 Floors Structure",
+    "canonical_question": "मंत्रा हैप्पी होम्स में टोटल कितने टावर हैं और हर टावर में कितने फ्लोर बने हुए हैं?",
+    "variations": [
+      "मंत्रा हैप्पी होम्स में टोटल कितने टावर हैं और हर टावर में कितने फ्लोर बने हुए हैं?",
+      "मंत्रा हैप्पी होम्स में टोटल कितने टावर हैं और हर टावर में कितने फ्लोर बने हुए हैं?",
+      "मंत्रा हैप्पी होम्स में टोटल कितने टावर हैं और हर टावर में कितने फ्लोर बने हुए हैं"
+    ],
+    "answer": "मंत्रा हैप्पी होम्स में कुल 5 टावर हैं और हर टावर में 8 फ्लोर बने हुए हैं।",
+    "spoken_answer": "मंत्रा हैप्पी होम्स में कुल 5 टावर हैं और हर टावर में 8 फ्लोर बने हुए हैं।",
+    "content": "Q: मंत्रा हैप्पी होम्स में टोटल कितने टावर हैं और हर टावर में कितने फ्लोर बने हुए हैं?\nA: मंत्रा हैप्पी होम्स में कुल 5 टावर हैं और हर टावर में 8 फ्लोर बने हुए हैं।",
+    "project_name": "Mantra Happy Homes"
+  },
+  {
+    "id": "train_209",
+    "topic": "Mantra 2 BHK Wardrobe Provided by Past Owner",
+    "canonical_question": "मंत्रा के 2 BHK में क्या दोनों बेडरूम में अलमारी के लिए स्पेस बना हुआ है?",
+    "variations": [
+      "मंत्रा के 2 BHK में क्या दोनों बेडरूम में अलमारी के लिए स्पेस बना हुआ है?",
+      "मंत्रा के 2 BHK में क्या दोनों बेडरूम में अलमारी के लिए स्पेस बना हुआ है?",
+      "मंत्रा के 2 BHK में क्या दोनों बेडरूम में अलमारी के लिए स्पेस बना हुआ है"
+    ],
+    "answer": "जी हाँ, मंत्रा हैप्पी होम्स के 2 BHK फ्लैट्स में दोनों बेडरूम में अलमारी के लिए स्पेस बना हुआ है और अलमारी ऑलरेडी होती है पास्ट ओनर के थ्रू।",
+    "spoken_answer": "जी हाँ, मंत्रा हैप्पी होम्स के 2 BHK फ्लैट्स में दोनों बेडरूम में अलमारी के लिए स्पेस बना हुआ है और अलमारी ऑलरेडी होती है पास्ट ओनर के थ्रू।",
+    "content": "Q: मंत्रा के 2 BHK में क्या दोनों बेडरूम में अलमारी के लिए स्पेस बना हुआ है?\nA: जी हाँ, मंत्रा हैप्पी होम्स के 2 BHK फ्लैट्स में दोनों बेडरूम में अलमारी के लिए स्पेस बना हुआ है और अलमारी ऑलरेडी होती है पास्ट ओनर के थ्रू।",
+    "project_name": "Mantra Happy Homes"
+  },
+  {
+    "id": "train_214",
+    "topic": "Mantra Exclusively 2 BHK (810, 950, 1010 sqft)",
+    "canonical_question": "मंत्रा हैप्पी होम्स में 3 BHK का क्या साइज है और इसमें कितनी बालकनी मिलती हैं?",
+    "variations": [
+      "मंत्रा हैप्पी होम्स में 3 BHK का क्या साइज है और इसमें कितनी बालकनी मिलती हैं?",
+      "मंत्रा हैप्पी होम्स में 3 BHK का क्या साइज है और इसमें कितनी बालकनी मिलती हैं?",
+      "मंत्रा हैप्पी होम्स में 3 BHK का क्या साइज है और इसमें कितनी बालकनी मिलती हैं"
+    ],
+    "answer": "मंत्रा हैप्पी होम्स में 1 BHK या 3 BHK नहीं आते हैं, यहाँ केवल 2 BHK फ्लैट्स (810 स्क्वायर फीट, 950 स्क्वायर फीट, 1010 स्क्वायर फीट) ही मिलते हैं।",
+    "spoken_answer": "मंत्रा हैप्पी होम्स में 1 BHK या 3 BHK नहीं आते हैं, यहाँ केवल 2 BHK फ्लैट्स (810 स्क्वायर फीट, 950 स्क्वायर फीट, 1010 स्क्वायर फीट) ही मिलते हैं।",
+    "content": "Q: मंत्रा हैप्पी होम्स में 3 BHK का क्या साइज है और इसमें कितनी बालकनी मिलती हैं?\nA: मंत्रा हैप्पी होम्स में 1 BHK या 3 BHK नहीं आते हैं, यहाँ केवल 2 BHK फ्लैट्स (810 स्क्वायर फीट, 950 स्क्वायर फीट, 1010 स्क्वायर फीट) ही मिलते हैं।",
+    "project_name": "Mantra Happy Homes"
+  },
+  {
+    "id": "train_222",
+    "topic": "Mantra 11-12 Feet High Ceiling and Electrical Points",
+    "canonical_question": "मंत्रा में कमरों की सीलिंग हाइट कितनी है और क्या पंखों और लाइट्स के पर्याप्त पॉइंट्स हैं?",
+    "variations": [
+      "मंत्रा में कमरों की सीलिंग हाइट कितनी है और क्या पंखों और लाइट्स के पर्याप्त पॉइंट्स हैं?",
+      "मंत्रा में कमरों की सीलिंग हाइट कितनी है और क्या पंखों और लाइट्स के पर्याप्त पॉइंट्स हैं?",
+      "मंत्रा में कमरों की सीलिंग हाइट कितनी है और क्या पंखों और लाइट्स के पर्याप्त पॉइंट्स हैं"
+    ],
+    "answer": "जी, मंत्रा में स्टैंडर्ड 11, 12 फीट की सीलिंग हाइट है और सभी कमरों में पंखों, लाइट्स और एसी के लिए पर्याप्त पॉइंट्स दिए गए हैं।",
+    "spoken_answer": "जी, मंत्रा में स्टैंडर्ड 11, 12 फीट की सीलिंग हाइट है और सभी कमरों में पंखों, लाइट्स और एसी के लिए पर्याप्त पॉइंट्स दिए गए हैं।",
+    "content": "Q: मंत्रा में कमरों की सीलिंग हाइट कितनी है और क्या पंखों और लाइट्स के पर्याप्त पॉइंट्स हैं?\nA: जी, मंत्रा में स्टैंडर्ड 11, 12 फीट की सीलिंग हाइट है और सभी कमरों में पंखों, लाइट्स और एसी के लिए पर्याप्त पॉइंट्स दिए गए हैं।",
+    "project_name": "Mantra Happy Homes"
+  },
+  {
+    "id": "train_229",
+    "topic": "Mantra Happy Homes 950 sqft 2 BHK Exact Room Dimensions",
+    "canonical_question": "मंत्रा के 950 स्क्वायर फीट 2 BHK में दोनों बेडरूम और लिविंग रूम का क्या साइज मिलता है?",
+    "variations": [
+      "मंत्रा के 950 स्क्वायर फीट 2 BHK में दोनों बेडरूम और लिविंग रूम का क्या साइज मिलता है?",
+      "मंत्रा के 950 स्क्वायर फीट 2 BHK में दोनों बेडरूम और लिविंग रूम का क्या साइज मिलता है?",
+      "मंत्रा के 950 स्क्वायर फीट 2 BHK में दोनों बेडरूम और लिविंग रूम का क्या साइज मिलता है"
+    ],
+    "answer": "मंत्रा हैप्पी होम्स के 950 स्क्वायर फीट 2 BHK में मास्टर बेडरूम लगभग 10.5x13.5 फीट, दूसरा बेडरूम 11x10 फीट, और ड्राइंग रूम लगभग 10x13 फीट का मिल जाता है।",
+    "spoken_answer": "मंत्रा हैप्पी होम्स के 950 स्क्वायर फीट 2 BHK में मास्टर बेडरूम लगभग 10.5x13.5 फीट, दूसरा बेडरूम 11x10 फीट, और ड्राइंग रूम लगभग 10x13 फीट का मिल जाता है।",
+    "content": "Q: मंत्रा के 950 स्क्वायर फीट 2 BHK में दोनों बेडरूम और लिविंग रूम का क्या साइज मिलता है?\nA: मंत्रा हैप्पी होम्स के 950 स्क्वायर फीट 2 BHK में मास्टर बेडरूम लगभग 10.5x13.5 फीट, दूसरा बेडरूम 11x10 फीट, और ड्राइंग रूम लगभग 10x13 फीट का मिल जाता है।",
+    "project_name": "Mantra Happy Homes"
+  },
+  {
+    "id": "train_231",
+    "topic": "Mantra Happy Homes 810 sqft 2 BHK Room Dimensions",
+    "canonical_question": "मंत्रा हैप्पी होम्स के 810 स्क्वायर फीट 2 BHK में ड्राइंग रूम, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है?",
+    "variations": [
+      "मंत्रा हैप्पी होम्स के 810 स्क्वायर फीट 2 BHK में ड्राइंग रूम, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है?",
+      "मंत्रा हैप्पी होम्स के 810 स्क्वायर फीट 2 BHK में ड्राइंग रूम, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है?",
+      "मंत्रा हैप्पी होम्स के 810 स्क्वायर फीट 2 BHK में ड्राइंग रूम, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है"
+    ],
+    "answer": "मंत्रा हैप्पी होम्स के 810 स्क्वायर फीट 2 BHK में ड्राइंग हॉल 15.5x12 फीट, मास्टर बेडरूम 10x12.5 फीट, दूसरा बेडरूम 10x9 फीट, किचन 7.5x6.1 फीट, बाथरूम 7x4.5 फीट और बालकनी 12x5 फीट की मिलती है।",
+    "spoken_answer": "मंत्रा हैप्पी होम्स के 810 स्क्वायर फीट 2 BHK में ड्राइंग हॉल 15.5x12 फीट, मास्टर बेडरूम 10x12.5 फीट, दूसरा बेडरूम 10x9 फीट, किचन 7.5x6.1 फीट, बाथरूम 7x4.5 फीट और बालकनी 12x5 फीट की मिलती है।",
+    "content": "Q: मंत्रा हैप्पी होम्स के 810 स्क्वायर फीट 2 BHK में ड्राइंग रूम, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है?\nA: मंत्रा हैप्पी होम्स के 810 स्क्वायर फीट 2 BHK में ड्राइंग हॉल 15.5x12 फीट, मास्टर बेडरूम 10x12.5 फीट, दूसरा बेडरूम 10x9 फीट, किचन 7.5x6.1 फीट, बाथरूम 7x4.5 फीट और बालकनी 12x5 फीट की मिलती है।",
+    "project_name": "Mantra Happy Homes"
+  },
+  {
+    "id": "train_232",
+    "topic": "Mantra Happy Homes 1010 sqft 2 BHK Room Dimensions",
+    "canonical_question": "मंत्रा हैप्पी होम्स के 1010 स्क्वायर फीट 2 BHK में ड्राइंग रूम, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है?",
+    "variations": [
+      "मंत्रा हैप्पी होम्स के 1010 स्क्वायर फीट 2 BHK में ड्राइंग रूम, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है?",
+      "मंत्रा हैप्पी होम्स के 1010 स्क्वायर फीट 2 BHK में ड्राइंग रूम, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है?",
+      "मंत्रा हैप्पी होम्स के 1010 स्क्वायर फीट 2 BHK में ड्राइंग रूम, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है"
+    ],
+    "answer": "मंत्रा हैप्पी होम्स के 1010 स्क्वायर फीट 2 BHK में ड्राइंग हॉल 17.5x14.5 फीट, मास्टर बेडरूम 11x14 फीट, दूसरा बेडरूम 11x10 फीट, किचन 9.5x6.5 फीट, बाथरूम 7.5x5 फीट और बालकनी 14x5 फीट की मिलती है।",
+    "spoken_answer": "मंत्रा हैप्पी होम्स के 1010 स्क्वायर फीट 2 BHK में ड्राइंग हॉल 17.5x14.5 फीट, मास्टर बेडरूम 11x14 फीट, दूसरा बेडरूम 11x10 फीट, किचन 9.5x6.5 फीट, बाथरूम 7.5x5 फीट और बालकनी 14x5 फीट की मिलती है।",
+    "content": "Q: मंत्रा हैप्पी होम्स के 1010 स्क्वायर फीट 2 BHK में ड्राइंग रूम, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या साइज मिलता है?\nA: मंत्रा हैप्पी होम्स के 1010 स्क्वायर फीट 2 BHK में ड्राइंग हॉल 17.5x14.5 फीट, मास्टर बेडरूम 11x14 फीट, दूसरा बेडरूम 11x10 फीट, किचन 9.5x6.5 फीट, बाथरूम 7.5x5 फीट और बालकनी 14x5 फीट की मिलती है।",
+    "project_name": "Mantra Happy Homes"
+  },
+  {
+    "id": "train_249",
+    "topic": "Mantra Happy Homes All Carpet Areas (810=518, 950=616, 1010=716 sqft)",
+    "canonical_question": "मंत्रा हैप्पी होम्स में 810, 950 और 1010 स्क्वायर फीट फ्लैट्स का कारपेट एरिया कितना है?",
+    "variations": [
+      "मंत्रा हैप्पी होम्स में 810, 950 और 1010 स्क्वायर फीट फ्लैट्स का कारपेट एरिया कितना है?",
+      "मंत्रा हैप्पी होम्स में 810, 950 और 1010 स्क्वायर फीट फ्लैट्स का कारपेट एरिया कितना है?",
+      "मंत्रा हैप्पी होम्स में 810, 950 और 1010 स्क्वायर फीट फ्लैट्स का कारपेट एरिया कितना है"
+    ],
+    "answer": "मंत्रा हैप्पी होम्स में 810 स्क्वायर फीट का कारपेट एरिया 518 स्क्वायर फीट, 950 स्क्वायर फीट का कारपेट एरिया 616 स्क्वायर फीट, और 1010 स्क्वायर फीट का कारपेट एरिया 716 स्क्वायर फीट है।",
+    "spoken_answer": "मंत्रा हैप्पी होम्स में 810 स्क्वायर फीट का कारपेट एरिया 518 स्क्वायर फीट, 950 स्क्वायर फीट का कारपेट एरिया 616 स्क्वायर फीट, और 1010 स्क्वायर फीट का कारपेट एरिया 716 स्क्वायर फीट है।",
+    "content": "Q: मंत्रा हैप्पी होम्स में 810, 950 और 1010 स्क्वायर फीट फ्लैट्स का कारपेट एरिया कितना है?\nA: मंत्रा हैप्पी होम्स में 810 स्क्वायर फीट का कारपेट एरिया 518 स्क्वायर फीट, 950 स्क्वायर फीट का कारपेट एरिया 616 स्क्वायर फीट, और 1010 स्क्वायर फीट का कारपेट एरिया 716 स्क्वायर फीट है।",
+    "project_name": "Mantra Happy Homes"
   }
 ]
