@@ -3,8 +3,15 @@ const path = require('path');
 const { GoogleAuth } = require('google-auth-library');
 
 let googleAuthClient = null;
+let cachedToken = null;
+let tokenExpiresAt = 0;
 
 async function getGoogleToken() {
+    const now = Date.now();
+    if (cachedToken && now < tokenExpiresAt - 60000) {
+        return cachedToken;
+    }
+
     if (!googleAuthClient) {
         let keyFilePath = path.join(__dirname, '..', 'google-service-key.json');
         if (process.env.GOOGLE_APPLICATION_CREDENTIALS) {
@@ -32,7 +39,9 @@ async function getGoogleToken() {
     }
     const client = await googleAuthClient.getClient();
     const tokenResponse = await client.getAccessToken();
-    return tokenResponse.token;
+    cachedToken = tokenResponse.token;
+    tokenExpiresAt = Date.now() + 3500 * 1000; // valid for ~1 hour
+    return cachedToken;
 }
 
 async function synthesizeSpeech(text, voiceGender = 'MALE') {
