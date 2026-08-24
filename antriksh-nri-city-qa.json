@@ -1,166 +1,142 @@
 [
   {
-    "id": "antriksh_overview",
-    "topic": "General Overview & Configurations (No unprompted price)",
-    "canonical_question": "Antriksh NRI City के बारे में बताइए",
+    "id": "train_066",
+    "topic": "Antriksh NRI City Delivery Year",
+    "canonical_question": "अंतरिक्ष एनआरआई सिटी कब डिलीवर हुई थी?",
     "variations": [
-      "Antriksh NRI City ke baare me batao",
-      "antriksh nri city kaisa hai",
-      "tell me about antriksh nri city",
-      "antriksh nri city me kya milta hai",
-      "antriksh nri city ke baare me kuch batao"
+      "अंतरिक्ष एनआरआई सिटी कब डिलीवर हुई थी?",
+      "अंतरिक्ष एनआरआई सिटी कब डिलीवर हुई थी?",
+      "अंतरिक्ष एनआरआई सिटी कब डिलीवर हुई थी"
+    ],
+    "answer": "अंतरिक्ष एनआरआई सिटी 2014 में डिलीवर हुई थी।",
+    "spoken_answer": "अंतरिक्ष एनआरआई सिटी 2014 में डिलीवर हुई थी।",
+    "content": "Q: अंतरिक्ष एनआरआई सिटी कब डिलीवर हुई थी?\nA: अंतरिक्ष एनआरआई सिटी 2014 में डिलीवर हुई थी।",
+    "project_name": "Antriksh NRI City"
+  },
+  {
+    "id": "train_089",
+    "topic": "Antriksh NRI City Sizes & Pentagon Mall",
+    "canonical_question": "अंतरिक्ष एनआरआई सिटी में 2 BHK और 3 BHK के कौन-कौन से साइज आते हैं और क्या पेंटागन मॉल सामने ही है?",
+    "variations": [
+      "अंतरिक्ष एनआरआई सिटी में 2 BHK और 3 BHK के कौन-कौन से साइज आते हैं और क्या पेंटागन मॉल सामने ही है?",
+      "अंतरिक्ष एनआरआई सिटी में 2 BHK और 3 BHK के कौन-कौन से साइज आते हैं और क्या पेंटागन मॉल सामने ही है?",
+      "अंतरिक्ष एनआरआई सिटी में 2 BHK और 3 BHK के कौन-कौन से साइज आते हैं और क्या पेंटागन मॉल सामने ही है"
+    ],
+    "answer": "अंतरिक्ष एनआरआई सिटी में 2 BHK के साइज 915 और 1016 स्क्वायर फीट आते हैं, और 3 BHK का साइज 1315 स्क्वायर फीट आता है। हाँ, पेंटागन मॉल बिल्कुल इसके सामने ही है।",
+    "spoken_answer": "अंतरिक्ष एनआरआई सिटी में 2 BHK के साइज 915 और 1016 स्क्वायर फीट आते हैं, और 3 BHK का साइज 1315 स्क्वायर फीट आता है। हाँ, पेंटागन मॉल बिल्कुल इसके सामने ही है।",
+    "content": "Q: अंतरिक्ष एनआरआई सिटी में 2 BHK और 3 BHK के कौन-कौन से साइज आते हैं और क्या पेंटागन मॉल सामने ही है?\nA: अंतरिक्ष एनआरआई सिटी में 2 BHK के साइज 915 और 1016 स्क्वायर फीट आते हैं, और 3 BHK का साइज 1315 स्क्वायर फीट आता है। हाँ, पेंटागन मॉल बिल्कुल इसके सामने ही है।",
+    "project_name": "Antriksh NRI City"
+  },
+  {
+    "id": "train_109",
+    "topic": "Antriksh NRI City Walking Distance to Pentagon Mall",
+    "canonical_question": "क्या अंतरिक्ष एनआरआई सिटी से पेंटागन मॉल पैदल जा सकते हैं?",
+    "variations": [
+      "क्या अंतरिक्ष एनआरआई सिटी से पेंटागन मॉल पैदल जा सकते हैं?",
+      "क्या अंतरिक्ष एनआरआई सिटी से पेंटागन मॉल पैदल जा सकते हैं?",
+      "क्या अंतरिक्ष एनआरआई सिटी से पेंटागन मॉल पैदल जा सकते हैं"
+    ],
+    "answer": "हाँ जी बिल्कुल, अंतरिक्ष एनआरआई सिटी पेंटागन मॉल के बिल्कुल वॉकिंग डिस्टेंस में ही बनी हुई है। आप बिल्कुल पैदल जा सकते हैं।",
+    "spoken_answer": "हाँ जी बिल्कुल, अंतरिक्ष एनआरआई सिटी पेंटागन मॉल के बिल्कुल वॉकिंग डिस्टेंस में ही बनी हुई है। आप बिल्कुल पैदल जा सकते हैं।",
+    "content": "Q: क्या अंतरिक्ष एनआरआई सिटी से पेंटागन मॉल पैदल जा सकते हैं?\nA: हाँ जी बिल्कुल, अंतरिक्ष एनआरआई सिटी पेंटागन मॉल के बिल्कुल वॉकिंग डिस्टेंस में ही बनी हुई है। आप बिल्कुल पैदल जा सकते हैं।",
+    "project_name": "Antriksh NRI City"
+  },
+  {
+    "id": "train_130",
+    "topic": "Leasehold Remaining Tenure Record Transparency",
+    "canonical_question": "अंतरिक्ष एनआरआई सिटी में 90 साल की लीज में से अभी कितने साल बाकी हैं?",
+    "variations": [
+      "अंतरिक्ष एनआरआई सिटी में 90 साल की लीज में से अभी कितने साल बाकी हैं?",
+      "अंतरिक्ष एनआरआई सिटी में 90 साल की लीज में से अभी कितने साल बाकी हैं?",
+      "अंतरिक्ष एनआरआई सिटी में 90 साल की लीज में से अभी कितने साल बाकी हैं"
+    ],
+    "answer": "जी, लीज के बाकी बचे हुए एग्जैक्ट साल का रिकॉर्ड ओनर के ओरिजिनल अलॉटमेंट लेटर और ट्रांसफर डीड के पेपर देखकर ही पता चलता है। बाकी लाइव रिकॉर्ड तो मेरे पास नहीं है अभी वेबसाइट में अवेलेबल।",
+    "spoken_answer": "जी, लीज के बाकी बचे हुए एग्जैक्ट साल का रिकॉर्ड ओनर के ओरिजिनल अलॉटमेंट लेटर और ट्रांसफर डीड के पेपर देखकर ही पता चलता है। बाकी लाइव रिकॉर्ड तो मेरे पास नहीं है अभी वेबसाइट में अवेलेबल।",
+    "content": "Q: अंतरिक्ष एनआरआई सिटी में 90 साल की लीज में से अभी कितने साल बाकी हैं?\nA: जी, लीज के बाकी बचे हुए एग्जैक्ट साल का रिकॉर्ड ओनर के ओरिजिनल अलॉटमेंट लेटर और ट्रांसफर डीड के पेपर देखकर ही पता चलता है। बाकी लाइव रिकॉर्ड तो मेरे पास नहीं है अभी वेबसाइट में अवेलेबल।",
+    "project_name": "Antriksh NRI City"
+  },
+  {
+    "id": "train_164",
+    "topic": "Antriksh NRI City 2 BHK Sizes & Bathrooms",
+    "canonical_question": "अंतरिक्ष एनआरआई सिटी में 2 BHK के कौन से साइज आते हैं और क्या दोनों में 2 बाथरूम मिलते हैं?",
+    "variations": [
+      "अंतरिक्ष एनआरआई सिटी में 2 BHK के कौन से साइज आते हैं और क्या दोनों में 2 बाथरूम मिलते हैं?",
+      "अंतरिक्ष एनआरआई सिटी में 2 BHK के कौन से साइज आते हैं और क्या दोनों में 2 बाथरूम मिलते हैं?",
+      "अंतरिक्ष एनआरआई सिटी में 2 BHK के कौन से साइज आते हैं और क्या दोनों में 2 बाथरूम मिलते हैं"
+    ],
+    "answer": "अंतरिक्ष एनआरआई सिटी में 2 BHK के 915 स्क्वायर फीट और 1016 स्क्वायर फीट के साइज आते हैं और दोनों में 2 वॉशरूम मिल जाते हैं।",
+    "spoken_answer": "अंतरिक्ष एनआरआई सिटी में 2 BHK के 915 स्क्वायर फीट और 1016 स्क्वायर फीट के साइज आते हैं और दोनों में 2 वॉशरूम मिल जाते हैं।",
+    "content": "Q: अंतरिक्ष एनआरआई सिटी में 2 BHK के कौन से साइज आते हैं और क्या दोनों में 2 बाथरूम मिलते हैं?\nA: अंतरिक्ष एनआरआई सिटी में 2 BHK के 915 स्क्वायर फीट और 1016 स्क्वायर फीट के साइज आते हैं और दोनों में 2 वॉशरूम मिल जाते हैं।",
+    "project_name": "Antriksh NRI City"
+  },
+  {
+    "id": "train_188",
+    "topic": "Antriksh NRI City 24hr Gated Security & Boundary Wall",
+    "canonical_question": "क्या अंतरिक्ष एनआरआई सिटी में 24 घंटे गेटेड सिक्योरिटी और पक्की बाउंड्री वॉल है?",
+    "variations": [
+      "क्या अंतरिक्ष एनआरआई सिटी में 24 घंटे गेटेड सिक्योरिटी और पक्की बाउंड्री वॉल है?",
+      "क्या अंतरिक्ष एनआरआई सिटी में 24 घंटे गेटेड सिक्योरिटी और पक्की बाउंड्री वॉल है?",
+      "क्या अंतरिक्ष एनआरआई सिटी में 24 घंटे गेटेड सिक्योरिटी और पक्की बाउंड्री वॉल है"
+    ],
+    "answer": "हाँ जी, अंतरिक्ष एनआरआई सिटी में 24 घंटे गेटेड सिक्योरिटी और पक्की बाउंड्री वॉल पूरी तरह से मिलती है।",
+    "spoken_answer": "हाँ जी, अंतरिक्ष एनआरआई सिटी में 24 घंटे गेटेड सिक्योरिटी और पक्की बाउंड्री वॉल पूरी तरह से मिलती है।",
+    "content": "Q: क्या अंतरिक्ष एनआरआई सिटी में 24 घंटे गेटेड सिक्योरिटी और पक्की बाउंड्री वॉल है?\nA: हाँ जी, अंतरिक्ष एनआरआई सिटी में 24 घंटे गेटेड सिक्योरिटी और पक्की बाउंड्री वॉल पूरी तरह से मिलती है।",
+    "project_name": "Antriksh NRI City"
+  },
+  {
+    "id": "train_239",
+    "topic": "Antriksh NRI City 2 BHK Sizes (915 sqft & 1016 sqft) Room Dimensions",
+    "canonical_question": "अंतरिक्ष एनआरआई सिटी के 915 स्क्वायर फीट और 1016 स्क्वायर फीट 2 BHK में ड्राइंग हॉल, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है?",
+    "variations": [
+      "अंतरिक्ष एनआरआई सिटी के 915 स्क्वायर फीट और 1016 स्क्वायर फीट 2 BHK में ड्राइंग हॉल, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है?",
+      "अंतरिक्ष एनआरआई सिटी के 915 स्क्वायर फीट और 1016 स्क्वायर फीट 2 BHK में ड्राइंग हॉल, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है?",
+      "अंतरिक्ष एनआरआई सिटी के 915 स्क्वायर फीट और 1016 स्क्वायर फीट 2 BHK में ड्राइंग हॉल, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है"
+    ],
+    "answer": "अंतरिक्ष एनआरआई सिटी में 2 BHK के 2 साइज आते हैं—915 स्क्वायर फीट और 1016 स्क्वायर फीट। 915 स्क्वायर फीट 2 BHK (बिल्ट-अप 730 sqft, कारपेट 556 sqft) में ड्राइंग हॉल 17x10 फीट, मास्टर बेडरूम 10x11 फीट, दूसरा बेडरूम 10x10 फीट, किचन 6x8 फीट, बाथरूम 5x7 फीट और 2 बालकनी मिलती हैं। वहीं 1016 स्क्वायर फीट 2 BHK में ड्राइंग हॉल 17x10 फीट, मास्टर बेडरूम 13x10 फीट, दूसरा बेडरूम 12x10 फीट, किचन 9x6 फीट, बाथरूम 5x7 फीट और 2 बालकनी मिलती हैं।",
+    "spoken_answer": "अंतरिक्ष एनआरआई सिटी में 2 BHK के 2 साइज आते हैं—915 स्क्वायर फीट और 1016 स्क्वायर फीट। 915 स्क्वायर फीट 2 BHK (बिल्ट-अप 730 sqft, कारपेट 556 sqft) में ड्राइंग हॉल 17x10 फीट, मास्टर बेडरूम 10x11 फीट, दूसरा बेडरूम 10x10 फीट, किचन 6x8 फीट, बाथरूम 5x7 फीट और 2 बालकनी मिलती हैं। वहीं 1016 स्क्वायर फीट 2 BHK में ड्राइंग हॉल 17x10 फीट, मास्टर बेडरूम 13x10 फीट, दूसरा बेडरूम 12x10 फीट, किचन 9x6 फीट, बाथरूम 5x7 फीट और 2 बालकनी मिलती हैं।",
+    "content": "Q: अंतरिक्ष एनआरआई सिटी के 915 स्क्वायर फीट और 1016 स्क्वायर फीट 2 BHK में ड्राइंग हॉल, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है?\nA: अंतरिक्ष एनआरआई सिटी में 2 BHK के 2 साइज आते हैं—915 स्क्वायर फीट और 1016 स्क्वायर फीट। 915 स्क्वायर फीट 2 BHK (बिल्ट-अप 730 sqft, कारपेट 556 sqft) में ड्राइंग हॉल 17x10 फीट, मास्टर बेडरूम 10x11 फीट, दूसरा बेडरूम 10x10 फीट, किचन 6x8 फीट, बाथरूम 5x7 फीट और 2 बालकनी मिलती हैं। वहीं 1016 स्क्वायर फीट 2 BHK में ड्राइंग हॉल 17x10 फीट, मास्टर बेडरूम 13x10 फीट, दूसरा बेडरूम 12x10 फीट, किचन 9x6 फीट, बाथरूम 5x7 फीट और 2 बालकनी मिलती हैं।",
+    "project_name": "Antriksh NRI City"
+  },
+  {
+    "id": "train_241",
+    "topic": "Antriksh NRI City 3 BHK 1315 sqft Detailed Room Dimensions",
+    "canonical_question": "अंतरिक्ष एनआरआई सिटी में 3 BHK का क्या साइज आता है और उसमें कमरों व किचन का क्या साइज मिलता है?",
+    "variations": [
+      "अंतरिक्ष एनआरआई सिटी में 3 BHK का क्या साइज आता है और उसमें कमरों व किचन का क्या साइज मिलता है?",
+      "अंतरिक्ष एनआरआई सिटी में 3 BHK का क्या साइज आता है और उसमें कमरों व किचन का क्या साइज मिलता है?",
+      "अंतरिक्ष एनआरआई सिटी में 3 BHK का क्या साइज आता है और उसमें कमरों व किचन का क्या साइज मिलता है"
     ],
     "answer": "अंतरिक्ष एनआरआई सिटी में 3 BHK का साइज 1315 स्क्वायर फीट आता है (कवर्ड एरिया 967 sqft, कारपेट एरिया 750 sqft)। इसमें ड्राइंग हॉल 18x11 फीट, पहला बेडरूम 13.4x11 फीट, दूसरा और तीसरा बेडरूम 10x11 फीट, किचन 6x9 फीट, बाथरूम 5x7 फीट और 5 फीट चौड़ी 2 बालकनी मिलती हैं।",
-    "spoken_answer": "Antriksh NRI City में 2 BHK और 3 BHK फ्लैट्स उपलब्ध हैं।",
-    "content": "Q: भैया अंतरिक्ष एनआरआई सिटी के 3 BHK में कमरों का क्या साइज मिलता है?\nA: अंतरिक्ष एनआरआई सिटी में 3 BHK का साइज 1315 स्क्वायर फीट आता है (कवर्ड एरिया 967 sqft, कारपेट एरिया 750 sqft)। इसमें ड्राइंग हॉल 18x11 फीट, पहला बेडरूम 13.4x11 फीट, दूसरा और तीसरा बेडरूम 10x11 फीट, किचन 6x9 फीट, बाथरूम 5x7 फीट और 5 फीट चौड़ी 2 बालकनी मिलती हैं।"
+    "spoken_answer": "अंतरिक्ष एनआरआई सिटी में 3 BHK का साइज 1315 स्क्वायर फीट आता है (कवर्ड एरिया 967 sqft, कारपेट एरिया 750 sqft)। इसमें ड्राइंग हॉल 18x11 फीट, पहला बेडरूम 13.4x11 फीट, दूसरा और तीसरा बेडरूम 10x11 फीट, किचन 6x9 फीट, बाथरूम 5x7 फीट और 5 फीट चौड़ी 2 बालकनी मिलती हैं।",
+    "content": "Q: अंतरिक्ष एनआरआई सिटी में 3 BHK का क्या साइज आता है और उसमें कमरों व किचन का क्या साइज मिलता है?\nA: अंतरिक्ष एनआरआई सिटी में 3 BHK का साइज 1315 स्क्वायर फीट आता है (कवर्ड एरिया 967 sqft, कारपेट एरिया 750 sqft)। इसमें ड्राइंग हॉल 18x11 फीट, पहला बेडरूम 13.4x11 फीट, दूसरा और तीसरा बेडरूम 10x11 फीट, किचन 6x9 फीट, बाथरूम 5x7 फीट और 5 फीट चौड़ी 2 बालकनी मिलती हैं।",
+    "project_name": "Antriksh NRI City"
   },
   {
-    "id": "antriksh_loc_1",
-    "topic": "Location & Landmark",
-    "canonical_question": "Antriksh NRI City कहाँ पर है?",
+    "id": "train_252",
+    "topic": "Antriksh NRI City 1016 sqft 2 BHK Carpet Area (597 sqft)",
+    "canonical_question": "अंतरिक्ष एनआरआई सिटी के 1016 स्क्वायर फीट 2 BHK का कारपेट एरिया कितना है?",
     "variations": [
-      "Antriksh NRI City kahan par hai?",
-      "Where is Antriksh NRI City located in Haridwar?",
-      "Antriksh NRI City ki location kya hai?",
-      "Pentagon Mall ke samne konsi society hai?",
-      "Sector 9 Sidcul me Antriksh NRI City hai kya?"
+      "अंतरिक्ष एनआरआई सिटी के 1016 स्क्वायर फीट 2 BHK का कारपेट एरिया कितना है?",
+      "अंतरिक्ष एनआरआई सिटी के 1016 स्क्वायर फीट 2 BHK का कारपेट एरिया कितना है?",
+      "अंतरिक्ष एनआरआई सिटी के 1016 स्क्वायर फीट 2 BHK का कारपेट एरिया कितना है"
     ],
-    "answer": "Antriksh NRI City Pentagon Mall के ठीक सामने, Sector 9, SIDCUL, Haridwar में स्थित है। यह Shivalik Nagar और BHEL के बिल्कुल नजदीक है।",
-    "spoken_answer": "Antriksh NRI City सिडकुल के Sector 9 में Pentagon Mall के ठीक सामने स्थित है।"
+    "answer": "अंतरिक्ष एनआरआई सिटी के 1016 स्क्वायर फीट 2 BHK का कारपेट एरिया 597 स्क्वायर फीट है।",
+    "spoken_answer": "अंतरिक्ष एनआरआई सिटी के 1016 स्क्वायर फीट 2 BHK का कारपेट एरिया 597 स्क्वायर फीट है।",
+    "content": "Q: अंतरिक्ष एनआरआई सिटी के 1016 स्क्वायर फीट 2 BHK का कारपेट एरिया कितना है?\nA: अंतरिक्ष एनआरआई सिटी के 1016 स्क्वायर फीट 2 BHK का कारपेट एरिया 597 स्क्वायर फीट है।",
+    "project_name": "Antriksh NRI City"
   },
   {
-    "id": "antriksh_dist_mall_shivalik",
-    "topic": "Distance from Pentagon Mall & Shivalik Nagar",
-    "canonical_question": "Antriksh NRI City Pentagon Mall और Shivalik Nagar से कितनी दूर है?",
+    "id": "train_256",
+    "topic": "Antriksh NRI City 915 sqft Both Bedrooms Dimensions",
+    "canonical_question": "अंतरिक्ष एनआरआई सिटी के 915 स्क्वायर फीट 2 BHK में दोनों बेडरूम का क्या साइज है?",
     "variations": [
-      "Pentagon Mall se kitna door hai Antriksh NRI City?",
-      "Shivalik Nagar pass me hai kya Antriksh NRI City ke?"
+      "अंतरिक्ष एनआरआई सिटी के 915 स्क्वायर फीट 2 BHK में दोनों बेडरूम का क्या साइज है?",
+      "अंतरिक्ष एनआरआई सिटी के 915 स्क्वायर फीट 2 BHK में दोनों बेडरूम का क्या साइज है?",
+      "अंतरिक्ष एनआरआई सिटी के 915 स्क्वायर फीट 2 BHK में दोनों बेडरूम का क्या साइज है"
     ],
-    "answer": "Antriksh NRI City Pentagon Mall के बिल्कुल ठीक सामने स्थित है, और Shivalik Nagar यहाँ से मात्र 1 से 1.5 किलोमीटर दूर है।",
-    "spoken_answer": "Antriksh NRI City पेंटागन मॉल के ठीक सामने है और शिवालिक नगर के बिल्कुल पास है।"
-  },
-  {
-    "id": "antriksh_developer",
-    "topic": "Developer Details",
-    "canonical_question": "Antriksh NRI City किस developer का project है?",
-    "variations": [
-      "Antriksh NRI City kisne banaya hai?",
-      "Antriksh Group Haridwar project"
-    ],
-    "answer": "Antriksh NRI City The Antriksh Group का प्रतिष्ठित residential project है।",
-    "spoken_answer": "Antriksh NRI City 'The Antriksh Group' का रेजिडेंशियल प्रोजेक्ट है।"
-  },
-  {
-    "id": "antriksh_flats_sizes",
-    "topic": "Flats Configurations & Sizes",
-    "canonical_question": "Antriksh NRI City में कौन-कौन से flats और sizes available हैं?",
-    "variations": [
-      "Antriksh NRI City me kitne BHK flats hain?",
-      "2 BHK and 3 BHK sizes in Antriksh NRI City",
-      "915 sq ft and 1016 sq ft flat in Antriksh NRI City",
-      "1315 sq ft 3 BHK in Antriksh NRI City"
-    ],
-    "answer": "Antriksh NRI City में 2 BHK (915 sq.ft व 1016 sq.ft) और 3 BHK (1315 sq.ft) configurations available हैं।",
-    "spoken_answer": "Antriksh NRI City में 2 BHK के 915 व 1016 स्क्वायर फीट और 3 BHK के 1315 स्क्वायर फीट फ्लैट्स उपलब्ध हैं।"
-  },
-  {
-    "id": "antriksh_pricing_policy",
-    "topic": "Current Resale Price (~₹4400/sq.ft)",
-    "canonical_question": "Antriksh NRI City में flats का rate और price क्या है?",
-    "variations": [
-      "Antriksh NRI City me flat kitne ka hai?",
-      "Antriksh NRI City 2 BHK price",
-      "Antriksh NRI City 3 BHK price",
-      "Current price of Antriksh NRI City",
-      "Rate per sq ft in Antriksh NRI City"
-    ],
-    "answer": "Antriksh NRI City में resale flats का average rate लगभग ₹4,400 per sq.ft के आसपास रहता है। रीसेल में फ्लैट की कंडीशन, फ्लोर और लोकेशन के हिसाब से रेट थोड़ा ऊपर-नीचे नेगोशिएट हो सकता है।",
-    "spoken_answer": "Antriksh NRI City में रीसेल फ्लैट्स का एवरेज रेट लगभग 4400 रुपये प्रति स्क्वायर फीट है, जो यूनिट और कंडीशन के हिसाब से थोड़ा नेगोशिएट हो सकता है।"
-  },
-  {
-    "id": "antriksh_leasehold_truth",
-    "topic": "Legal Status: 90 Years LEASEHOLD (Not Freehold)",
-    "canonical_question": "Antriksh NRI City freehold है या leasehold और कितने साल की lease है?",
-    "variations": [
-      "Antriksh NRI City leasehold hai ya freehold?",
-      "Kya Antriksh NRI City freehold hai?",
-      "Freehold status of Antriksh NRI City",
-      "Kitne saal ki lease hai Antriksh NRI City me?",
-      "90 years lease Antriksh"
-    ],
-    "answer": "Antriksh NRI City 90 साल की लीज़ (90-Year LEASEHOLD) पर आधारित सोसाइटी है, freehold नहीं।",
-    "spoken_answer": "Antriksh NRI City 90 साल की लीज़होल्ड सोसाइटी है, फ्रीहोल्ड नहीं।"
-  },
-  {
-    "id": "antriksh_legal_rera_hrda",
-    "topic": "Approvals: RERA Approved, Not HRDA Approved (SITCO/CIDCO Approved)",
-    "canonical_question": "क्या Antriksh NRI City RERA और HRDA approved है और इसका RERA number क्या है?",
-    "variations": [
-      "Antriksh NRI City RERA approved hai kya?",
-      "RERA number of Antriksh NRI City",
-      "UKREP11170000108",
-      "HRDA approved hai kya Antriksh NRI City?",
-      "Which authority approved Antriksh NRI City?"
-    ],
-    "answer": "Antriksh NRI City RERA registered (RERA No: UKREP11170000108) है, लेकिन HRDA approved नहीं है। यह SITCO/CIDCO industrial authority से approved प्रोजेक्ट है।",
-    "spoken_answer": "यह RERA रजिस्टर्ड है जिसका नंबर UKREP11170000108 है और SITCO अथॉरिटी से अप्रूव्ड है, लेकिन HRDA अप्रूव्ड नहीं है।"
-  },
-  {
-    "id": "antriksh_amenities",
-    "topic": "Amenities & Lifestyle Facilities",
-    "canonical_question": "Antriksh NRI City में कौन-कौन सी amenities उपलब्ध हैं?",
-    "variations": [
-      "Swimming pool gym in Antriksh NRI City",
-      "Club house and park in Antriksh NRI City",
-      "Facilities in Antriksh NRI City Haridwar"
-    ],
-    "answer": "Antriksh NRI City में Swimming Pool, Club House, Gym, Green Parks, Landscaped Gardens, High-Speed Lifts, 24/7 Power Backup, Rainwater Harvesting, Kids Play Area, Community Hall, Jogging Track और 24x7 Security उपलब्ध हैं।",
-    "spoken_answer": "यहाँ स्विमिंग पूल, क्लब हाउस, जिम, लिफ्ट, पार्क, कम्युनिटी हॉल, 24 घंटे पावर बैकअप और सुरक्षा उपलब्ध है।"
-  },
-  {
-    "id": "antriksh_surroundings_companies",
-    "topic": "Nearby Companies & Hub",
-    "canonical_question": "Antriksh NRI City के आसपास कौन-कौन सी companies और landmarks हैं?",
-    "variations": [
-      "Companies near Antriksh NRI City",
-      "Industrial hub near Antriksh NRI City"
-    ],
-    "answer": "Antriksh NRI City Pentagon Mall के सामने स्थित है। पास में Shivalik Nagar, BHEL और SIDCUL की बड़ी A-grade कंपनियां जैसे Havells India, Hero Group, HUL और Kirby स्थित हैं।",
-    "spoken_answer": "यह पेंटागन मॉल के सामने है और पास में हैवल्स, हीरो और एचयूएल जैसी बड़ी कंपनियाँ स्थित हैं।"
-  },
-  {
-    "id": "antriksh_bank_loan",
-    "topic": "Bank Loan Eligibility",
-    "canonical_question": "Antriksh NRI City में flat खरीदने पर bank loan कितना मिल सकता है?",
-    "variations": [
-      "Antriksh NRI City me loan milta hai kya?",
-      "Bank loan available in Antriksh NRI City",
-      "Home loan percentage in Antriksh NRI City"
-    ],
-    "answer": "हाँ जी, eligible buyers को profile और bank approval के आधार पर property value का लगभग 80% से 90% तक bank loan मिल सकता है।",
-    "spoken_answer": "हाँ जी, Antriksh NRI City में एलिजिबल बायर्स को 80 से 90 प्रतिशत तक बैंक लोन मिल सकता है।"
-  },
-  {
-    "id": "antriksh_site_visit",
-    "topic": "Site Visit & Contact Details",
-    "canonical_question": "Antriksh NRI City में site visit कैसे कर सकते हैं और किससे बात करें?",
-    "variations": [
-      "Antriksh NRI City site visit karni hai",
-      "Rahul Dwivedi number for Antriksh NRI City",
-      "Contact number for Antriksh NRI City"
-    ],
-    "answer": "Antriksh NRI City में site visit और current inventory की जानकारी के लिए आप The Propbazar के Rahul Dwivedi जी से 9990004807 पर contact कर सकते हैं।",
-    "spoken_answer": "साइट विज़िट और करंट इन्वेंट्री के लिए आप राहुल द्विवेदी जी से 9990004807 पर संपर्क कर सकते हैं।"
-  },
-  {
-    "id": "antriksh_policy_docs_maint",
-    "topic": "Maintenance & Document Policy",
-    "canonical_question": "Antriksh NRI City में maintenance कितना है और क्या documents online मिल सकते हैं?",
-    "variations": [
-      "Maintenance in Antriksh NRI City",
-      "Documents online available for Antriksh NRI City"
-    ],
-    "answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से।",
-    "spoken_answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से।"
+    "answer": "अंतरिक्ष एनआरआई सिटी के 915 स्क्वायर फीट 2 BHK में मास्टर बेडरूम 10x11 फीट और दूसरा बेडरूम 10x10 फीट का मिलता है।",
+    "spoken_answer": "अंतरिक्ष एनआरआई सिटी के 915 स्क्वायर फीट 2 BHK में मास्टर बेडरूम 10x11 फीट और दूसरा बेडरूम 10x10 फीट का मिलता है।",
+    "content": "Q: अंतरिक्ष एनआरआई सिटी के 915 स्क्वायर फीट 2 BHK में दोनों बेडरूम का क्या साइज है?\nA: अंतरिक्ष एनआरआई सिटी के 915 स्क्वायर फीट 2 BHK में मास्टर बेडरूम 10x11 फीट और दूसरा बेडरूम 10x10 फीट का मिलता है।",
+    "project_name": "Antriksh NRI City"
   }
 ]
