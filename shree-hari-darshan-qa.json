@@ -1,138 +1,128 @@
 [
   {
-    "id": "haridarshan_loc_1",
-    "topic": "Location & Landmark",
-    "canonical_question": "Shree Hari Darshan City कहाँ पर है?",
+    "id": "train_060",
+    "topic": "Shree Hari Darshan Location",
+    "canonical_question": "श्री हरिदर्शन सिटी कहाँ पर है?",
     "variations": [
-      "Shree Hari Darshan City kahan par hai?",
-      "Where is Shree Hari Darshan City located in Haridwar?",
-      "Shree Hari Darshan City ki location kya hai?",
-      "Patanjali Yogpeeth ke pass konsi plotted society hai?",
-      "Hari Darshan City Patanjali"
+      "श्री हरिदर्शन सिटी कहाँ पर है?",
+      "श्री हरिदर्शन सिटी कहाँ पर है?",
+      "श्री हरिदर्शन सिटी कहाँ पर है"
     ],
     "answer": "श्री हरिदर्शन हरिद्वार में बहादराबाद टोल टैक्स के ठीक सामने बना हुआ प्रोजेक्ट है।",
-    "spoken_answer": "Shree Hari Darshan City पतंजलि योगपीठ, हरिद्वार के पास स्थित एक गेटेड रेजिडेंशियल प्लॉट्स प्रोजेक्ट है।",
-    "content": "Q: भैया श्री हरिदर्शन सिटी कहाँ पर है?\nA: श्री हरिदर्शन हरिद्वार में बहादराबाद टोल टैक्स के ठीक सामने बना हुआ प्रोजेक्ट है।"
+    "spoken_answer": "श्री हरिदर्शन हरिद्वार में बहादराबाद टोल टैक्स के ठीक सामने बना हुआ प्रोजेक्ट है।",
+    "content": "Q: श्री हरिदर्शन सिटी कहाँ पर है?\nA: श्री हरिदर्शन हरिद्वार में बहादराबाद टोल टैक्स के ठीक सामने बना हुआ प्रोजेक्ट है।",
+    "project_name": "Shree Hari Darshan City"
   },
   {
-    "id": "haridarshan_developer",
-    "topic": "Developer Details",
-    "canonical_question": "Shree Hari Darshan City किस developer का project है?",
+    "id": "train_098",
+    "topic": "Shree Hari Darshan Distance to Patanjali & Highway",
+    "canonical_question": "श्री हरि दर्शन सिटी से पतंजलि योगपीठ और दिल्ली-देहरादून हाईवे की कितनी दूरी है?",
     "variations": [
-      "Shree Hari Darshan City kisne banaya hai?",
-      "Vedanta Buildcon Haridwar project",
-      "Builder of Shree Hari Darshan City"
+      "श्री हरि दर्शन सिटी से पतंजलि योगपीठ और दिल्ली-देहरादून हाईवे की कितनी दूरी है?",
+      "श्री हरि दर्शन सिटी से पतंजलि योगपीठ और दिल्ली-देहरादून हाईवे की कितनी दूरी है?",
+      "श्री हरि दर्शन सिटी से पतंजलि योगपीठ और दिल्ली-देहरादून हाईवे की कितनी दूरी है"
     ],
-    "answer": "Shree Hari Darshan City Vedanta Buildcon का प्रतिष्ठित residential plotting project है।",
-    "spoken_answer": "Shree Hari Darshan City 'Vedanta Buildcon' का रेजिडेंशियल प्लॉटिंग प्रोजेक्ट है।"
+    "answer": "श्री हरि दर्शन सिटी पतंजलि योगपीठ से लगभग 2 से 3 किलोमीटर की दूरी पर है और यह सीधा दिल्ली-देहरादून हाईवे पर ही बना हुआ है।",
+    "spoken_answer": "श्री हरि दर्शन सिटी पतंजलि योगपीठ से लगभग 2 से 3 किलोमीटर की दूरी पर है और यह सीधा दिल्ली-देहरादून हाईवे पर ही बना हुआ है।",
+    "content": "Q: श्री हरि दर्शन सिटी से पतंजलि योगपीठ और दिल्ली-देहरादून हाईवे की कितनी दूरी है?\nA: श्री हरि दर्शन सिटी पतंजलि योगपीठ से लगभग 2 से 3 किलोमीटर की दूरी पर है और यह सीधा दिल्ली-देहरादून हाईवे पर ही बना हुआ है।",
+    "project_name": "Shree Hari Darshan City"
   },
   {
-    "id": "haridarshan_plot_sizes",
-    "topic": "Plot Sizes & Configurations",
-    "canonical_question": "Shree Hari Darshan City में कौन-कौन से plot sizes available हैं?",
+    "id": "train_101",
+    "topic": "Shree Hari Darshan Possession & Registry Timeline",
+    "canonical_question": "श्री हरि दर्शन सिटी में प्लॉट लेने पर रजिस्ट्री और पजेशन कब तक मिल जाएगा?",
     "variations": [
-      "Shree Hari Darshan City me plot size kitna hai?",
-      "Plot sizes in Shree Hari Darshan City Patanjali",
-      "875 sq ft and 2217 sq ft plot in Shree Hari Darshan City",
-      "1000 sq ft plot in Shree Hari Darshan City"
+      "श्री हरि दर्शन सिटी में प्लॉट लेने पर रजिस्ट्री और पजेशन कब तक मिल जाएगा?",
+      "श्री हरि दर्शन सिटी में प्लॉट लेने पर रजिस्ट्री और पजेशन कब तक मिल जाएगा?",
+      "श्री हरि दर्शन सिटी में प्लॉट लेने पर रजिस्ट्री और पजेशन कब तक मिल जाएगा"
     ],
-    "answer": "Shree Hari Darshan City में 875 sq.ft से लेकर 2217 sq.ft तक के plots available हैं, जिनमें 875, 890, 1000, 1023, 1125, 1295, 1471, 1483 और 2217 sq.ft के प्रमुख साइज़ शामिल हैं।",
-    "spoken_answer": "यहाँ 875 स्क्वायर फीट से लेकर 2217 स्क्वायर फीट तक के प्लॉट्स उपलब्ध हैं, जैसे 1000, 1125 और 1471 स्क्वायर फीट।"
+    "answer": "श्री हरि दर्शन सिटी अभी अंडर कंस्ट्रक्शन प्रोजेक्ट है और इसकी डिलीवरी 2027 की शुरुआत तक मिलने की उम्मीद है, जिसके बाद ही पजेशन और रजिस्ट्री होगी।",
+    "spoken_answer": "श्री हरि दर्शन सिटी अभी अंडर कंस्ट्रक्शन प्रोजेक्ट है और इसकी डिलीवरी 2027 की शुरुआत तक मिलने की उम्मीद है, जिसके बाद ही पजेशन और रजिस्ट्री होगी।",
+    "content": "Q: श्री हरि दर्शन सिटी में प्लॉट लेने पर रजिस्ट्री और पजेशन कब तक मिल जाएगा?\nA: श्री हरि दर्शन सिटी अभी अंडर कंस्ट्रक्शन प्रोजेक्ट है और इसकी डिलीवरी 2027 की शुरुआत तक मिलने की उम्मीद है, जिसके बाद ही पजेशन और रजिस्ट्री होगी।",
+    "project_name": "Shree Hari Darshan City"
   },
   {
-    "id": "haridarshan_rera_legal",
-    "topic": "RERA Approval & Registration",
-    "canonical_question": "क्या Shree Hari Darshan City RERA approved है और इसका RERA number क्या है?",
+    "id": "train_128",
+    "topic": "Plots Utility Connection Timeline",
+    "canonical_question": "श्री हरि दर्शन सिटी में प्लॉट लेकर घर बनाने पर बिजली का कनेक्शन तुरंत मिल जाता है?",
     "variations": [
-      "Shree Hari Darshan City RERA approved hai kya?",
-      "RERA number of Shree Hari Darshan City",
-      "UKREP10230000522 RERA"
+      "श्री हरि दर्शन सिटी में प्लॉट लेकर घर बनाने पर बिजली का कनेक्शन तुरंत मिल जाता है?",
+      "श्री हरि दर्शन सिटी में प्लॉट लेकर घर बनाने पर बिजली का कनेक्शन तुरंत मिल जाता है?",
+      "श्री हरि दर्शन सिटी में प्लॉट लेकर घर बनाने पर बिजली का कनेक्शन तुरंत मिल जाता है"
     ],
-    "answer": "हाँ जी, Shree Hari Darshan City RERA registered project है और इसका RERA registration number UKREP10230000522 है।",
-    "spoken_answer": "हाँ जी, Shree Hari Darshan City RERA रजिस्टर्ड है और इसका RERA नंबर UKREP10230000522 है।"
+    "answer": "श्री हरि दर्शन सिटी अभी अंडर कंस्ट्रक्शन प्रोजेक्ट है, इसलिए यहाँ पर पक्के बिजली और पानी के कनेक्शन का काम प्रोजेक्ट डिलीवर होने के साथ ही पूरी तरह चालू होगा।",
+    "spoken_answer": "श्री हरि दर्शन सिटी अभी अंडर कंस्ट्रक्शन प्रोजेक्ट है, इसलिए यहाँ पर पक्के बिजली और पानी के कनेक्शन का काम प्रोजेक्ट डिलीवर होने के साथ ही पूरी तरह चालू होगा।",
+    "content": "Q: श्री हरि दर्शन सिटी में प्लॉट लेकर घर बनाने पर बिजली का कनेक्शन तुरंत मिल जाता है?\nA: श्री हरि दर्शन सिटी अभी अंडर कंस्ट्रक्शन प्रोजेक्ट है, इसलिए यहाँ पर पक्के बिजली और पानी के कनेक्शन का काम प्रोजेक्ट डिलीवर होने के साथ ही पूरी तरह चालू होगा।",
+    "project_name": "Shree Hari Darshan City"
   },
   {
-    "id": "haridarshan_amenities",
-    "topic": "Amenities & Infrastructure",
-    "canonical_question": "Shree Hari Darshan City में कौन-कौन सी सुविधाएं available हैं?",
+    "id": "train_134",
+    "topic": "Shree Hari Darshan City Gated Amenities",
+    "canonical_question": "श्री हरि दर्शन सिटी में प्लॉट्स के अलावा अंदर क्या-क्या सुविधाएं बन रही हैं?",
     "variations": [
-      "Club house and gym in Shree Hari Darshan City",
-      "Facilities in Shree Hari Darshan City Patanjali",
-      "Gated society CCTV in Shree Hari Darshan City"
+      "श्री हरि दर्शन सिटी में प्लॉट्स के अलावा अंदर क्या-क्या सुविधाएं बन रही हैं?",
+      "श्री हरि दर्शन सिटी में प्लॉट्स के अलावा अंदर क्या-क्या सुविधाएं बन रही हैं?",
+      "श्री हरि दर्शन सिटी में प्लॉट्स के अलावा अंदर क्या-क्या सुविधाएं बन रही हैं"
     ],
-    "answer": "Shree Hari Darshan City एक 24x7 secure gated township है, जिसमें Club House, Gymnasium, Kids Play Area, Jogging Track, Park, Cafeteria, Indoor Games, CCTV Cameras, Wide Internal Roads, Street Lighting और 24 घंटे पानी-बिजली की सुविधा है।",
-    "spoken_answer": "यहाँ क्लब हाउस, जिम, पार्क, बच्चों का प्ले एरिया, जॉगिंग ट्रैक, सीसीटीवी सिक्योरिटी, चौड़ी सड़कें और 24 घंटे बिजली-पानी की सुविधा है।"
+    "answer": "श्री हरि दर्शन सिटी में क्लब हाउस, जिम, बच्चों के खेलने की जगह, जॉगिंग ट्रैक, पार्क, कैफे, इंडोर गेम्स, सीसीटीवी कैमरे, चौड़ी इंटरनल सड़कें, स्ट्रीट लाइट्स और 24 घंटे पानी-बिजली की सुविधा बन रही है।",
+    "spoken_answer": "श्री हरि दर्शन सिटी में क्लब हाउस, जिम, बच्चों के खेलने की जगह, जॉगिंग ट्रैक, पार्क, कैफे, इंडोर गेम्स, सीसीटीवी कैमरे, चौड़ी इंटरनल सड़कें, स्ट्रीट लाइट्स और 24 घंटे पानी-बिजली की सुविधा बन रही है।",
+    "content": "Q: श्री हरि दर्शन सिटी में प्लॉट्स के अलावा अंदर क्या-क्या सुविधाएं बन रही हैं?\nA: श्री हरि दर्शन सिटी में क्लब हाउस, जिम, बच्चों के खेलने की जगह, जॉगिंग ट्रैक, पार्क, कैफे, इंडोर गेम्स, सीसीटीवी कैमरे, चौड़ी इंटरनल सड़कें, स्ट्रीट लाइट्स और 24 घंटे पानी-बिजली की सुविधा बन रही है।",
+    "project_name": "Shree Hari Darshan City"
   },
   {
-    "id": "haridarshan_freehold_status",
-    "topic": "Freehold Land Status",
-    "canonical_question": "क्या Shree Hari Darshan City Freehold है या Leasehold?",
+    "id": "train_140",
+    "topic": "Gated Plot Boundary Security (No Encroachment)",
+    "canonical_question": "क्या श्री हरि दर्शन सिटी में प्लॉट लेकर बाउंड्री करवा कर छोड़ सकते हैं, कोई कब्जा होने का डर तो नहीं रहेगा?",
     "variations": [
-      "Shree Hari Darshan City freehold hai ya leasehold?",
-      "Freehold plots in Shree Hari Darshan City Patanjali",
-      "Registry hoti hai kya Shree Hari Darshan City me?"
+      "क्या श्री हरि दर्शन सिटी में प्लॉट लेकर बाउंड्री करवा कर छोड़ सकते हैं, कोई कब्जा होने का डर तो नहीं रहेगा?",
+      "क्या श्री हरि दर्शन सिटी में प्लॉट लेकर बाउंड्री करवा कर छोड़ सकते हैं, कोई कब्जा होने का डर तो नहीं रहेगा?",
+      "क्या श्री हरि दर्शन सिटी में प्लॉट लेकर बाउंड्री करवा कर छोड़ सकते हैं, कोई कब्जा होने का डर तो नहीं रहेगा"
     ],
-    "answer": "Shree Hari Darshan City 100% Freehold residential plotted project है, जहाँ बायर के नाम पर सीधी रजिस्ट्री और दाखिल खारिज होती है।",
-    "spoken_answer": "Shree Hari Darshan City पूरी तरह से 100% फ्रीहोल्ड प्रोजेक्ट है।"
+    "answer": "जी नहीं, श्री हरि दर्शन सिटी एक पूरी तरह से गेटेड और सुरक्षित प्रोजेक्ट है, जहाँ 24 घंटे गार्ड और सुरक्षा मिलती है, इसलिए कब्जा होने का कोई डर नहीं रहता है और आप प्लॉट लेकर बाउंड्री करवा कर छोड़ सकते हैं।",
+    "spoken_answer": "जी नहीं, श्री हरि दर्शन सिटी एक पूरी तरह से गेटेड और सुरक्षित प्रोजेक्ट है, जहाँ 24 घंटे गार्ड और सुरक्षा मिलती है, इसलिए कब्जा होने का कोई डर नहीं रहता है और आप प्लॉट लेकर बाउंड्री करवा कर छोड़ सकते हैं।",
+    "content": "Q: क्या श्री हरि दर्शन सिटी में प्लॉट लेकर बाउंड्री करवा कर छोड़ सकते हैं, कोई कब्जा होने का डर तो नहीं रहेगा?\nA: जी नहीं, श्री हरि दर्शन सिटी एक पूरी तरह से गेटेड और सुरक्षित प्रोजेक्ट है, जहाँ 24 घंटे गार्ड और सुरक्षा मिलती है, इसलिए कब्जा होने का कोई डर नहीं रहता है और आप प्लॉट लेकर बाउंड्री करवा कर छोड़ सकते हैं।",
+    "project_name": "Shree Hari Darshan City"
   },
   {
-    "id": "haridarshan_plot_count",
-    "topic": "Total Plots & Expanding Project",
-    "canonical_question": "Shree Hari Darshan City में कुल कितने plots हैं?",
+    "id": "train_157",
+    "topic": "Shree Hari Darshan Internal Road Width",
+    "canonical_question": "श्री हरि दर्शन सिटी में अंदर की सड़कें कितनी चौड़ी हैं?",
     "variations": [
-      "Kitne plots hain Shree Hari Darshan City me?",
-      "Total plots in Shree Hari Darshan City",
-      "Expanding project Shree Hari Darshan"
+      "श्री हरि दर्शन सिटी में अंदर की सड़कें कितनी चौड़ी हैं?",
+      "श्री हरि दर्शन सिटी में अंदर की सड़कें कितनी चौड़ी हैं?",
+      "श्री हरि दर्शन सिटी में अंदर की सड़कें कितनी चौड़ी हैं"
     ],
-    "answer": "Shree Hari Darshan City एक expanding (विस्तारित होने वाला) प्रोजेक्ट है जिसमें अभी 150 से अधिक प्लॉट्स उपलब्ध हैं, और आगे भी इसका विस्तार हो रहा है।",
-    "spoken_answer": "यह आगे फैलने वाला प्रोजेक्ट है और अभी इसमें 150 से ज़्यादा प्लॉट्स उपलब्ध हैं।"
+    "answer": "श्री हरि दर्शन सिटी में अंदर 25 से 30 फीट चौड़ी सड़कें बनी हुई हैं, जिससे गाड़ियों के आने-जाने में कोई परेशानी नहीं होती।",
+    "spoken_answer": "श्री हरि दर्शन सिटी में अंदर 25 से 30 फीट चौड़ी सड़कें बनी हुई हैं, जिससे गाड़ियों के आने-जाने में कोई परेशानी नहीं होती।",
+    "content": "Q: श्री हरि दर्शन सिटी में अंदर की सड़कें कितनी चौड़ी हैं?\nA: श्री हरि दर्शन सिटी में अंदर 25 से 30 फीट चौड़ी सड़कें बनी हुई हैं, जिससे गाड़ियों के आने-जाने में कोई परेशानी नहीं होती।",
+    "project_name": "Shree Hari Darshan City"
   },
   {
-    "id": "haridarshan_pricing_policy",
-    "topic": "Plot Pricing Rate Starting ₹4500/sq.ft",
-    "canonical_question": "Shree Hari Darshan City में plot का price और rate क्या है?",
+    "id": "train_178",
+    "topic": "East & North Facing Plot Demand and Founder Check",
+    "canonical_question": "श्री हरि दर्शन सिटी में क्या ईस्ट या नॉर्थ फेसिंग प्लॉट्स भी अवेलेबल हैं?",
     "variations": [
-      "Shree Hari Darshan City me plot kitne ka hai?",
-      "Plot price in Shree Hari Darshan City Patanjali",
-      "Rate per sq ft in Shree Hari Darshan City",
-      "4500 per sq ft plot Haridwar"
+      "श्री हरि दर्शन सिटी में क्या ईस्ट या नॉर्थ फेसिंग प्लॉट्स भी अवेलेबल हैं?",
+      "श्री हरि दर्शन सिटी में क्या ईस्ट या नॉर्थ फेसिंग प्लॉट्स भी अवेलेबल हैं?",
+      "श्री हरि दर्शन सिटी में क्या ईस्ट या नॉर्थ फेसिंग प्लॉट्स भी अवेलेबल हैं"
     ],
-    "answer": "Shree Hari Darshan City में residential plots का starting rate ₹4,500 per sq.ft है। Exact कुल कीमत प्लॉट के साइज और लोकेशन पर निर्भर करती है।",
-    "spoken_answer": "Shree Hari Darshan City में प्लॉट्स का शुरुआती रेट 4500 रुपये प्रति स्क्वायर फीट है।"
+    "answer": "जी, ईस्ट और नॉर्थ फेसिंग जैसे स्पेसिफिक फेसिंग की डिमांड काफी ज्यादा होती है, इसकी करंट अवेलेबिलिटी के लिए आप राहुल द्विवेदी जी से पता कर लीजिए।",
+    "spoken_answer": "जी, ईस्ट और नॉर्थ फेसिंग जैसे स्पेसिफिक फेसिंग की डिमांड काफी ज्यादा होती है, इसकी करंट अवेलेबिलिटी के लिए आप राहुल द्विवेदी जी से पता कर लीजिए।",
+    "content": "Q: श्री हरि दर्शन सिटी में क्या ईस्ट या नॉर्थ फेसिंग प्लॉट्स भी अवेलेबल हैं?\nA: जी, ईस्ट और नॉर्थ फेसिंग जैसे स्पेसिफिक फेसिंग की डिमांड काफी ज्यादा होती है, इसकी करंट अवेलेबिलिटी के लिए आप राहुल द्विवेदी जी से पता कर लीजिए।",
+    "project_name": "Shree Hari Darshan City"
   },
   {
-    "id": "haridarshan_bank_loan",
-    "topic": "Bank Loan Eligibility",
-    "canonical_question": "Shree Hari Darshan City में plot खरीदने पर bank loan मिल सकता है?",
+    "id": "train_185",
+    "topic": "Shree Hari Darshan Exclusively Residential Plots",
+    "canonical_question": "क्या श्री हरि दर्शन सिटी में कमर्शियल दुकानें बनाने के लिए प्लॉट मिल सकता है?",
     "variations": [
-      "Shree Hari Darshan City me loan milta hai kya?",
-      "Plot loan in Shree Hari Darshan City",
-      "Loan percentage in Shree Hari Darshan City"
+      "क्या श्री हरि दर्शन सिटी में कमर्शियल दुकानें बनाने के लिए प्लॉट मिल सकता है?",
+      "क्या श्री हरि दर्शन सिटी में कमर्शियल दुकानें बनाने के लिए प्लॉट मिल सकता है?",
+      "क्या श्री हरि दर्शन सिटी में कमर्शियल दुकानें बनाने के लिए प्लॉट मिल सकता है"
     ],
-    "answer": "हाँ जी, RERA approved होने के कारण eligible buyers को property value का लगभग 80% से 90% तक bank loan मिल सकता है।",
-    "spoken_answer": "हाँ जी, RERA रजिस्टर्ड होने के कारण इसपर 80 से 90 प्रतिशत तक बैंक लोन मिल सकता है।"
-  },
-  {
-    "id": "haridarshan_site_visit",
-    "topic": "Site Visit & Contact Details",
-    "canonical_question": "Shree Hari Darshan City में site visit कैसे कर सकते हैं और किससे बात करें?",
-    "variations": [
-      "Shree Hari Darshan City site visit karni hai",
-      "Rahul Dwivedi number for Shree Hari Darshan City",
-      "Contact number for Shree Hari Darshan City"
-    ],
-    "answer": "Shree Hari Darshan City में site visit और authentic plot purchase के लिए आप The Propbazar के Rahul Dwivedi जी से 9990004807 पर contact कर सकते हैं।",
-    "spoken_answer": "साइट विज़िट और प्लॉट बुकिंग के लिए आप राहुल द्विवेदी जी से 9990004807 पर संपर्क कर सकते हैं।"
-  },
-  {
-    "id": "haridarshan_policy_docs_maint",
-    "topic": "Maintenance & Document Policy",
-    "canonical_question": "Shree Hari Darshan City में maintenance कितना है और क्या documents online मिल सकते हैं?",
-    "variations": [
-      "Maintenance in Shree Hari Darshan City",
-      "Documents online available for Shree Hari Darshan City"
-    ],
-    "answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से।",
-    "spoken_answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से।"
+    "answer": "जी, श्री हरि दर्शन सिटी मुख्य रूप से रेजिडेंशियल प्रोजेक्ट है, यहाँ केवल रहने के लिए रेजिडेंशियल प्लॉट्स ही उपलब्ध हैं।",
+    "spoken_answer": "जी, श्री हरि दर्शन सिटी मुख्य रूप से रेजिडेंशियल प्रोजेक्ट है, यहाँ केवल रहने के लिए रेजिडेंशियल प्लॉट्स ही उपलब्ध हैं।",
+    "content": "Q: क्या श्री हरि दर्शन सिटी में कमर्शियल दुकानें बनाने के लिए प्लॉट मिल सकता है?\nA: जी, श्री हरि दर्शन सिटी मुख्य रूप से रेजिडेंशियल प्रोजेक्ट है, यहाँ केवल रहने के लिए रेजिडेंशियल प्लॉट्स ही उपलब्ध हैं।",
+    "project_name": "Shree Hari Darshan City"
   }
 ]
