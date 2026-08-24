@@ -1,441 +1,282 @@
 [
   {
-    "id": "jurs_delivery_year",
-    "topic": "Delivery / Possession Year 2014",
-    "canonical_question": "JURS Country कब डिलीवर हुआ था?",
+    "id": "train_003",
+    "topic": "Jurs Country Amenities",
+    "canonical_question": "भैया, जर्स कंट्री में स्विमिंग पूल और जिम वगैरह की सुविधा है क्या?",
     "variations": [
-      "JURS Country kab deliver hua?",
-      "Jurs country delivery year",
-      "Jurs Country kab bana tha?",
-      "Possession year of JURS Country",
-      "Jurs country kab ready hua tha?"
+      "भैया, जर्स कंट्री में स्विमिंग पूल और जिम वगैरह की सुविधा है क्या?",
+      "जर्स कंट्री में स्विमिंग पूल और जिम वगैरह की सुविधा है क्या?",
+      "भैया, जर्स कंट्री में स्विमिंग पूल और जिम वगैरह की सुविधा है क्या"
     ],
-    "answer": "हाँ जी, जर्स कंट्री में 5 BHK फ्लैट (2296 sqft, कारपेट 1836 sqft) में 22x11.5 फीट का ड्राइंग हॉल, 5 बेडरूम (9.8x11.8, 13.2x10.2, 11.11x15.8, 12.11x10.11, 12.11x11 फीट), कुल 6 बाथरूम (6.6x7.8 फीट), 7x8.8 फीट की किचन और 4 बड़ी बालकनी मिलती हैं।",
-    "spoken_answer": "JURS Country 2014 में deliver हुआ था और यह पूरी तरह ready-to-move है।",
-    "content": "Q: भैया जर्स कंट्री के 5 BHK (2296 sqft) में कमरों, हॉल, किचन या बाथरूम का क्या साइज और लेआउट मिलता है?\nA: हाँ जी, जर्स कंट्री में 5 BHK फ्लैट (2296 sqft, कारपेट 1836 sqft) में 22x11.5 फीट का ड्राइंग हॉल, 5 बेडरूम (9.8x11.8, 13.2x10.2, 11.11x15.8, 12.11x10.11, 12.11x11 फीट), कुल 6 बाथरूम (6.6x7.8 फीट), 7x8.8 फीट की किचन और 4 बड़ी बालकनी मिलती हैं।"
+    "answer": "हाँ जी, जर्स कंट्री में स्विमिंग पूल, जिम, क्लब हाउस और मंदिर वगैरह काफी कुछ है।",
+    "spoken_answer": "हाँ जी, जर्स कंट्री में स्विमिंग पूल, जिम, क्लब हाउस और मंदिर वगैरह काफी कुछ है।",
+    "content": "Q: भैया, जर्स कंट्री में स्विमिंग पूल और जिम वगैरह की सुविधा है क्या?\nA: हाँ जी, जर्स कंट्री में स्विमिंग पूल, जिम, क्लब हाउस और मंदिर वगैरह काफी कुछ है।",
+    "project_name": "Jurs Country"
   },
   {
-    "id": "jurs_overview",
-    "topic": "General Overview & Configurations (No unprompted price)",
-    "canonical_question": "JURS Country के बारे में बताइए",
+    "id": "train_024",
+    "topic": "Har Ki Pauri & Ganga Ji Proximity",
+    "canonical_question": "भैया हर की पौड़ी और गंगा जी के सबसे पास कौन सी सोसाइटी पड़ेगी? मुझे गंगा स्नान के लिए नजदीक चाहिए।",
     "variations": [
-      "JURS Country ke baare me batao",
-      "jurs country kaisa hai",
-      "tell me about jurs country",
-      "jurs country me kya milta hai",
-      "jurs country ke baare me kuch batao"
+      "भैया हर की पौड़ी और गंगा जी के सबसे पास कौन सी सोसाइटी पड़ेगी? मुझे गंगा स्नान के लिए नजदीक चाहिए।",
+      "हर की पौड़ी और गंगा जी के सबसे पास कौन सी सोसाइटी पड़ेगी? मुझे गंगा स्नान के लिए नजदीक चाहिए।",
+      "भैया हर की पौड़ी और गंगा जी के सबसे पास कौन सी सोसाइटी पड़ेगी मुझे गंगा स्नान के लिए नजदीक चाहिए"
     ],
-    "answer": "JURS Country दिल्ली-हरिद्वार नेशनल हाईवे पर स्थित 35 एकड़ की प्रीमियम फ्रीहोल्ड टाउनशिप है, जहाँ 2 BHK, 3 BHK, 4 BHK और 5 BHK फ्लैट्स, विला और प्लॉट्स उपलब्ध हैं।",
-    "spoken_answer": "JURS Country में 2 BHK, 3 BHK, 4 BHK, 5 BHK फ्लैट्स, विला और प्लॉट्स उपलब्ध हैं।"
+    "answer": "वैसे तो सारे ही प्रोजेक्ट हर की पौड़ी से 20 मिनट की ड्राइव के अंदर हैं, मगर सबसे नजदीक जर्स कंट्री है जो कि हाईवे पे ही बना हुआ प्रोजेक्ट है।",
+    "spoken_answer": "वैसे तो सारे ही प्रोजेक्ट हर की पौड़ी से 20 मिनट की ड्राइव के अंदर हैं, मगर सबसे नजदीक जर्स कंट्री है जो कि हाईवे पे ही बना हुआ प्रोजेक्ट है।",
+    "content": "Q: भैया हर की पौड़ी और गंगा जी के सबसे पास कौन सी सोसाइटी पड़ेगी? मुझे गंगा स्नान के लिए नजदीक चाहिए।\nA: वैसे तो सारे ही प्रोजेक्ट हर की पौड़ी से 20 मिनट की ड्राइव के अंदर हैं, मगर सबसे नजदीक जर्स कंट्री है जो कि हाईवे पे ही बना हुआ प्रोजेक्ट है।",
+    "project_name": "Jurs Country"
   },
   {
-    "id": "jurs_loc_1",
-    "topic": "Location & Landmark",
-    "canonical_question": "JURS Country कहाँ पर है?",
+    "id": "train_067",
+    "topic": "Jurs Country Delivery Year",
+    "canonical_question": "जर्स कंट्री कब डिलीवर हुई थी?",
     "variations": [
-      "JURS Country kahan par hai?",
-      "Where is Jurs Country located in Haridwar?",
-      "Jurs Country ki location kya hai?",
-      "Jurs country kis road par hai?",
-      "Bhumannand hospital ke pass konsi society hai?",
-      "Lemon hotel ke pass jurs country hai kya?"
+      "जर्स कंट्री कब डिलीवर हुई थी?",
+      "जर्स कंट्री कब डिलीवर हुई थी?",
+      "जर्स कंट्री कब डिलीवर हुई थी"
     ],
-    "answer": "JURS Country NH-334 Delhi-Haridwar Highway पर, Haridwar से लगभग 5 किलोमीटर आगे Bhumaanand Hospital और Lemon Hotel के नजदीक स्थित है। यह Har Ki Pauri से लगभग 7 किलोमीटर दूर है।",
-    "spoken_answer": "JURS Country NH-334 Delhi-Haridwar Highway पर Bhumaanand Hospital और Lemon Hotel के पास स्थित है, जो Har Ki Pauri से लगभग 7 किलोमीटर है।"
+    "answer": "जर्स कंट्री 2013 में डिलीवर हुई थी।",
+    "spoken_answer": "जर्स कंट्री 2013 में डिलीवर हुई थी।",
+    "content": "Q: जर्स कंट्री कब डिलीवर हुई थी?\nA: जर्स कंट्री 2013 में डिलीवर हुई थी।",
+    "project_name": "Jurs Country"
   },
   {
-    "id": "jurs_dist_haridwar",
-    "topic": "Distance from Haridwar City",
-    "canonical_question": "JURS Country Haridwar से कितनी दूर है?",
+    "id": "train_074",
+    "topic": "Jurs Country 3 BHK Sizes & Rates",
+    "canonical_question": "जर्स कंट्री में 3 BHK का क्या रेट और क्या-क्या साइज मिल जाता है?",
     "variations": [
-      "Jurs country Haridwar se kitni door hai?",
-      "Haridwar se kitna distance hai Jurs country ka?",
-      "Distance from Haridwar main city to Jurs Country"
+      "जर्स कंट्री में 3 BHK का क्या रेट और क्या-क्या साइज मिल जाता है?",
+      "जर्स कंट्री में 3 BHK का क्या रेट और क्या-क्या साइज मिल जाता है?",
+      "जर्स कंट्री में 3 BHK का क्या रेट और क्या-क्या साइज मिल जाता है"
     ],
-    "answer": "JURS Country Haridwar से लगभग 5 किलोमीटर आगे है।",
-    "spoken_answer": "JURS Country Haridwar शहर से लगभग 5 किलोमीटर आगे स्थित है।"
+    "answer": "जर्स कंट्री में 3 BHK में 1210 स्क्वायर फीट 60 लाख, 1284 स्क्वायर फीट 65 लाख, 1388 स्क्वायर फीट 70 लाख, और 1645 स्क्वायर फीट 87 लाख में मिल जाएगा।",
+    "spoken_answer": "जर्स कंट्री में 3 BHK में 1210 स्क्वायर फीट 60 लाख, 1284 स्क्वायर फीट 65 लाख, 1388 स्क्वायर फीट 70 लाख, और 1645 स्क्वायर फीट 87 लाख में मिल जाएगा।",
+    "content": "Q: जर्स कंट्री में 3 BHK का क्या रेट और क्या-क्या साइज मिल जाता है?\nA: जर्स कंट्री में 3 BHK में 1210 स्क्वायर फीट 60 लाख, 1284 स्क्वायर फीट 65 लाख, 1388 स्क्वायर फीट 70 लाख, और 1645 स्क्वायर फीट 87 लाख में मिल जाएगा।",
+    "project_name": "Jurs Country"
   },
   {
-    "id": "jurs_dist_har_ki_pauri",
-    "topic": "Distance from Har Ki Pauri",
-    "canonical_question": "JURS Country Har Ki Pauri से कितनी दूर है?",
+    "id": "train_078",
+    "topic": "Distance to Har Ki Pauri and Ganga Ghat",
+    "canonical_question": "इन सोसायटियों से हर की पौड़ी और गंगा घाट कितनी दूर पड़ता है?",
     "variations": [
-      "Har Ki Pauri se kitni duri par hai Jurs Country?",
-      "Jurs country to Har ki pedi distance",
-      "Ganga ghat se kitna door hai Jurs country?",
-      "Distance from Har Ki Pauri to Jurs Country"
+      "इन सोसायटियों से हर की पौड़ी और गंगा घाट कितनी दूर पड़ता है?",
+      "इन सोसायटियों से हर की पौड़ी और गंगा घाट कितनी दूर पड़ता है?",
+      "इन सोसायटियों से हर की पौड़ी और गंगा घाट कितनी दूर पड़ता है"
     ],
-    "answer": "JURS Country Har Ki Pauri से लगभग 7 किलोमीटर दूर है।",
-    "spoken_answer": "JURS Country Har Ki Pauri से लगभग 7 किलोमीटर की दूरी पर है।"
+    "answer": "जर्स कंट्री से हर की पौड़ी लगभग 7 किलोमीटर दूर है, और बाकी सोसायटियों से यहाँ से लगभग 10 से 15 किलोमीटर की दूरी पर है।",
+    "spoken_answer": "जर्स कंट्री से हर की पौड़ी लगभग 7 किलोमीटर दूर है, और बाकी सोसायटियों से यहाँ से लगभग 10 से 15 किलोमीटर की दूरी पर है।",
+    "content": "Q: इन सोसायटियों से हर की पौड़ी और गंगा घाट कितनी दूर पड़ता है?\nA: जर्स कंट्री से हर की पौड़ी लगभग 7 किलोमीटर दूर है, और बाकी सोसायटियों से यहाँ से लगभग 10 से 15 किलोमीटर की दूरी पर है।",
+    "project_name": "Jurs Country"
   },
   {
-    "id": "jurs_dist_railway",
-    "topic": "Distance from Railway Station",
-    "canonical_question": "JURS Country Haridwar Railway Station से कितनी दूर है?",
+    "id": "train_086",
+    "topic": "Jurs Country 4 BHK & 5 BHK Pricing",
+    "canonical_question": "जर्स कंट्री में 4 BHK और 5 BHK का क्या साइज और क्या रेट है?",
     "variations": [
-      "Haridwar station se jurs country kitna door hai?",
-      "Railway station to Jurs Country distance",
-      "Station se kitna time lagta hai Jurs country aane me?"
+      "जर्स कंट्री में 4 BHK और 5 BHK का क्या साइज और क्या रेट है?",
+      "जर्स कंट्री में 4 BHK और 5 BHK का क्या साइज और क्या रेट है?",
+      "जर्स कंट्री में 4 BHK और 5 BHK का क्या साइज और क्या रेट है"
     ],
-    "answer": "JURS Country Haridwar Railway Station से लगभग 5 किलोमीटर दूर है।",
-    "spoken_answer": "JURS Country Haridwar Railway Station से लगभग 5 किलोमीटर की दूरी पर है।"
+    "answer": "4 BHK में 2575 स्क्वायर फीट 1 करोड़ 35 लाख और 2710 स्क्वायर फीट 1 करोड़ 50 लाख में मिल जाता है। 5 BHK का साइज 2296 स्क्वायर फीट है और इसकी कीमत 1 करोड़ 25 लाख रुपये है।",
+    "spoken_answer": "4 BHK में 2575 स्क्वायर फीट 1 करोड़ 35 लाख और 2710 स्क्वायर फीट 1 करोड़ 50 लाख में मिल जाता है। 5 BHK का साइज 2296 स्क्वायर फीट है और इसकी कीमत 1 करोड़ 25 लाख रुपये है।",
+    "content": "Q: जर्स कंट्री में 4 BHK और 5 BHK का क्या साइज और क्या रेट है?\nA: 4 BHK में 2575 स्क्वायर फीट 1 करोड़ 35 लाख और 2710 स्क्वायर फीट 1 करोड़ 50 लाख में मिल जाता है। 5 BHK का साइज 2296 स्क्वायर फीट है और इसकी कीमत 1 करोड़ 25 लाख रुपये है।",
+    "project_name": "Jurs Country"
   },
   {
-    "id": "jurs_dist_jwalapur",
-    "topic": "Distance from Jwalapur Station",
-    "canonical_question": "JURS Country Jwalapur Railway Station से कितनी दूर है?",
+    "id": "train_096",
+    "topic": "Schools & Hospitals Near Jurs Country",
+    "canonical_question": "जर्स कंट्री के आसपास कौन से अच्छे स्कूल और अस्पताल पड़ते हैं?",
     "variations": [
-      "Jwalapur station se kitni duri par hai?",
-      "Jwalapur railway station distance from Jurs country",
-      "Jwalapur se kitna pass hai?"
+      "जर्स कंट्री के आसपास कौन से अच्छे स्कूल और अस्पताल पड़ते हैं?",
+      "जर्स कंट्री के आसपास कौन से अच्छे स्कूल और अस्पताल पड़ते हैं?",
+      "जर्स कंट्री के आसपास कौन से अच्छे स्कूल और अस्पताल पड़ते हैं"
     ],
-    "answer": "JURS Country Jwalapur Railway Station से मात्र 2 किलोमीटर की दूरी पर है।",
-    "spoken_answer": "JURS Country Jwalapur Railway Station से मात्र 2 किलोमीटर दूर है।"
+    "answer": "जर्स कंट्री के कैंपस के अंदर ही 'द विजडम ग्लोबल स्कूल' (नर्सरी से 12वीं सीबीएसई) बना हुआ है और पास में भूमानंद हॉस्पिटल पड़ता है।",
+    "spoken_answer": "जर्स कंट्री के कैंपस के अंदर ही 'द विजडम ग्लोबल स्कूल' (नर्सरी से 12वीं सीबीएसई) बना हुआ है और पास में भूमानंद हॉस्पिटल पड़ता है।",
+    "content": "Q: जर्स कंट्री के आसपास कौन से अच्छे स्कूल और अस्पताल पड़ते हैं?\nA: जर्स कंट्री के कैंपस के अंदर ही 'द विजडम ग्लोबल स्कूल' (नर्सरी से 12वीं सीबीएसई) बना हुआ है और पास में भूमानंद हॉस्पिटल पड़ता है।",
+    "project_name": "Jurs Country"
   },
   {
-    "id": "jurs_dist_high_street",
-    "topic": "Distance from High Street",
-    "canonical_question": "JURS Country High Street से कितनी दूर है?",
+    "id": "train_118",
+    "topic": "Jurs Country In-House Daily Needs Shops",
+    "canonical_question": "क्या जर्स कंट्री के अंदर डेली नीड्स और ग्रॉसरी की दुकानें मौजूद हैं?",
     "variations": [
-      "High street market se kitni door hai?",
-      "Jurs Country to high street distance"
+      "क्या जर्स कंट्री के अंदर डेली नीड्स और ग्रॉसरी की दुकानें मौजूद हैं?",
+      "क्या जर्स कंट्री के अंदर डेली नीड्स और ग्रॉसरी की दुकानें मौजूद हैं?",
+      "क्या जर्स कंट्री के अंदर डेली नीड्स और ग्रॉसरी की दुकानें मौजूद हैं"
     ],
-    "answer": "JURS Country High Street से लगभग 1 किलोमीटर दूर है।",
-    "spoken_answer": "JURS Country High Street से लगभग 1 किलोमीटर की दूरी पर है।"
+    "answer": "हाँ जी, जर्स कंट्री के अंदर ही डेली नीड्स और ग्रॉसरी की दुकानें मौजूद हैं।",
+    "spoken_answer": "हाँ जी, जर्स कंट्री के अंदर ही डेली नीड्स और ग्रॉसरी की दुकानें मौजूद हैं।",
+    "content": "Q: क्या जर्स कंट्री के अंदर डेली नीड्स और ग्रॉसरी की दुकानें मौजूद हैं?\nA: हाँ जी, जर्स कंट्री के अंदर ही डेली नीड्स और ग्रॉसरी की दुकानें मौजूद हैं।",
+    "project_name": "Jurs Country"
   },
   {
-    "id": "jurs_dist_sidcul_bhel",
-    "topic": "Distance from SIDCUL and BHEL",
-    "canonical_question": "JURS Country SIDCUL और BHEL से कितनी दूर है?",
+    "id": "train_121",
+    "topic": "Jurs Country 24hr Gated Security on Highway",
+    "canonical_question": "जर्स कंट्री मेन हाईवे पर होने की वजह से क्या बाहर का कोई भी व्यक्ति अंदर आ सकता है?",
     "variations": [
-      "Sidcul se kitna distance hai Jurs country ka?",
-      "BHEL Haridwar se kitni door hai?",
-      "Distance to SIDCUL and BHEL from Jurs Country"
+      "जर्स कंट्री मेन हाईवे पर होने की वजह से क्या बाहर का कोई भी व्यक्ति अंदर आ सकता है?",
+      "जर्स कंट्री मेन हाईवे पर होने की वजह से क्या बाहर का कोई भी व्यक्ति अंदर आ सकता है?",
+      "जर्स कंट्री मेन हाईवे पर होने की वजह से क्या बाहर का कोई भी व्यक्ति अंदर आ सकता है"
     ],
-    "answer": "JURS Country SIDCUL और BHEL से लगभग 4 किलोमीटर दूर है।",
-    "spoken_answer": "JURS Country SIDCUL और BHEL से लगभग 4 किलोमीटर की दूरी पर है।"
+    "answer": "जर्स कंट्री पूरी तरह से गेटेड टाउनशिप है और यहाँ पर 24 घंटे सुरक्षा गार्ड तैनात रहते हैं, इसलिए बिना अनुमति के कोई भी बाहरी व्यक्ति अंदर नहीं आ सकता है।",
+    "spoken_answer": "जर्स कंट्री पूरी तरह से गेटेड टाउनशिप है और यहाँ पर 24 घंटे सुरक्षा गार्ड तैनात रहते हैं, इसलिए बिना अनुमति के कोई भी बाहरी व्यक्ति अंदर नहीं आ सकता है।",
+    "content": "Q: जर्स कंट्री मेन हाईवे पर होने की वजह से क्या बाहर का कोई भी व्यक्ति अंदर आ सकता है?\nA: जर्स कंट्री पूरी तरह से गेटेड टाउनशिप है और यहाँ पर 24 घंटे सुरक्षा गार्ड तैनात रहते हैं, इसलिए बिना अनुमति के कोई भी बाहरी व्यक्ति अंदर नहीं आ सकता है।",
+    "project_name": "Jurs Country"
   },
   {
-    "id": "jurs_acres",
-    "topic": "Township Area & Size",
-    "canonical_question": "JURS Country कितने एकड़ में फैला हुआ है?",
+    "id": "train_143",
+    "topic": "Jurs Country 2 BHK Starting Prices",
+    "canonical_question": "जर्स कंट्री में 2 BHK के कौन-कौन से साइज आते हैं और क्या रेट चल रहा है उनका?",
     "variations": [
-      "Jurs country total kitne acre ka project hai?",
-      "Kitne area me bana hai Jurs country?",
-      "Total area of Jurs Country township in acres"
+      "जर्स कंट्री में 2 BHK के कौन-कौन से साइज आते हैं और क्या रेट चल रहा है उनका?",
+      "जर्स कंट्री में 2 BHK के कौन-कौन से साइज आते हैं और क्या रेट चल रहा है उनका?",
+      "जर्स कंट्री में 2 BHK के कौन-कौन से साइज आते हैं और क्या रेट चल रहा है उनका"
     ],
-    "answer": "JURS Country लगभग 35 एकड़ में फैला हुआ Haridwar का विशाल integrated township है।",
-    "spoken_answer": "JURS Country लगभग 35 एकड़ में फैला हुआ विशाल integrated township है।"
+    "answer": "जर्स कंट्री में 2 BHK में 880 स्क्वायर फीट 45 लाख रुपये से और 980 स्क्वायर फीट 49 लाख रुपये से मिल जाएगा।",
+    "spoken_answer": "जर्स कंट्री में 2 BHK में 880 स्क्वायर फीट 45 लाख रुपये से और 980 स्क्वायर फीट 49 लाख रुपये से मिल जाएगा।",
+    "content": "Q: जर्स कंट्री में 2 BHK के कौन-कौन से साइज आते हैं और क्या रेट चल रहा है उनका?\nA: जर्स कंट्री में 2 BHK में 880 स्क्वायर फीट 45 लाख रुपये से और 980 स्क्वायर फीट 49 लाख रुपये से मिल जाएगा।",
+    "project_name": "Jurs Country"
   },
   {
-    "id": "jurs_overview",
-    "topic": "Project Overview",
-    "canonical_question": "JURS Country क्या है?",
+    "id": "train_162",
+    "topic": "Singh Dwar Landmark Explanation",
+    "canonical_question": "सिंह द्वार क्या है?",
     "variations": [
-      "Jurs Country ke bare me batao",
-      "What is Jurs Country project?",
-      "Jurs Country me kya-kya hai?"
+      "सिंह द्वार क्या है?",
+      "सिंह द्वार क्या है?",
+      "सिंह द्वार क्या है"
     ],
-    "answer": "JURS Country Haridwar का 35 एकड़ का एक integrated township है, जिसमें premium economy flats, luxury apartments (2, 3, 4, 5 BHK), villas और plots के साथ स्कूल, क्लब हाउस और सभी आधुनिक सुविधाएँ उपलब्ध हैं।",
-    "spoken_answer": "JURS Country Haridwar का 35 एकड़ का integrated township है, जिसमें 2 से 5 BHK फ्लैट्स, विला और प्लॉट्स के साथ स्कूल और सभी लक्ज़री सुविधाएँ उपलब्ध हैं।"
+    "answer": "सिंह द्वार हरिद्वार में एक मुख्य चौराहा और जाना-माना लैंडमार्क है, जो दिल्ली-हरिद्वार हाईवे (NH-58) पर पड़ता है और यहाँ से शहर और ज्वालापुर के लिए एंट्री होती है।",
+    "spoken_answer": "सिंह द्वार हरिद्वार में एक मुख्य चौराहा और जाना-माना लैंडमार्क है, जो दिल्ली-हरिद्वार हाईवे (NH-58) पर पड़ता है और यहाँ से शहर और ज्वालापुर के लिए एंट्री होती है।",
+    "content": "Q: सिंह द्वार क्या है?\nA: सिंह द्वार हरिद्वार में एक मुख्य चौराहा और जाना-माना लैंडमार्क है, जो दिल्ली-हरिद्वार हाईवे (NH-58) पर पड़ता है और यहाँ से शहर और ज्वालापुर के लिए एंट्री होती है।",
+    "project_name": "Jurs Country"
   },
   {
-    "id": "jurs_why_integrated",
-    "topic": "Why Integrated Township",
-    "canonical_question": "JURS Country को integrated township क्यों कहा जाता है?",
+    "id": "train_182",
+    "topic": "Jurs Country Temple Aarti by Senior Citizens",
+    "canonical_question": "जर्स कंट्री के मंदिर में क्या रोज सुबह-शाम पूजा और आरती होती है?",
     "variations": [
-      "Integrated township ka matlab kya hai yahan?",
-      "Why is Jurs Country called integrated township?"
+      "जर्स कंट्री के मंदिर में क्या रोज सुबह-शाम पूजा और आरती होती है?",
+      "जर्स कंट्री के मंदिर में क्या रोज सुबह-शाम पूजा और आरती होती है?",
+      "जर्स कंट्री के मंदिर में क्या रोज सुबह-शाम पूजा और आरती होती है"
     ],
-    "answer": "क्योंकि JURS Country में residential flats, luxury apartments, villas, plots के साथ-साथ The Wisdom Global School, club house, swimming pool, gym, parks, temple और yoga centre एक ही campus में integrated हैं।",
-    "spoken_answer": "क्योंकि JURS Country में घरों के साथ स्कूल, क्लब हाउस, स्विमिंग पूल, जिम, पार्क और मंदिर एक ही 35 एकड़ के कैंपस में उपलब्ध हैं।"
+    "answer": "हाँ जी, जर्स कंट्री के मंदिर में रोज सुबह-शाम सीनियर सिटीजन लोग पूजा और आरती करते रहते हैं।",
+    "spoken_answer": "हाँ जी, जर्स कंट्री के मंदिर में रोज सुबह-शाम सीनियर सिटीजन लोग पूजा और आरती करते रहते हैं।",
+    "content": "Q: जर्स कंट्री के मंदिर में क्या रोज सुबह-शाम पूजा और आरती होती है?\nA: हाँ जी, जर्स कंट्री के मंदिर में रोज सुबह-शाम सीनियर सिटीजन लोग पूजा और आरती करते रहते हैं।",
+    "project_name": "Jurs Country"
   },
   {
-    "id": "jurs_city_within_city",
-    "topic": "City within a City Concept",
-    "canonical_question": "JURS Country को 'City Within a City' क्यों कहा जाता है?",
+    "id": "train_194",
+    "topic": "Jurs Country Swimming Pool (Summer) & Gym (12 Months)",
+    "canonical_question": "जर्स कंट्री में स्विमिंग पूल और जिम चालू हालत में हैं?",
     "variations": [
-      "Why is Jurs Country called City Within a City?",
-      "City within a city kyu bolte hain isko?"
+      "जर्स कंट्री में स्विमिंग पूल और जिम चालू हालत में हैं?",
+      "जर्स कंट्री में स्विमिंग पूल और जिम चालू हालत में हैं?",
+      "जर्स कंट्री में स्विमिंग पूल और जिम चालू हालत में हैं"
     ],
-    "answer": "JURS Country में रहने के लिए घरों के साथ school, club house, sports facilities, parks, temple और सभी lifestyle सुविधाएँ एक ही township में उपलब्ध हैं, इसलिए इसे 'City Within a City' कहा जाता है।",
-    "spoken_answer": "यहाँ घरों के साथ स्कूल, स्पोर्ट्स, मंदिर और क्लब जैसी रोज़मर्रा की सभी सुविधाएँ एक ही कैंपस में हैं, इसलिए इसे City Within a City कहा जाता है।"
+    "answer": "हाँ जी, जर्स कंट्री में समर में स्विमिंग पूल हमेशा चालू रहता है और जिम 12 महीने चालू रहता है।",
+    "spoken_answer": "हाँ जी, जर्स कंट्री में समर में स्विमिंग पूल हमेशा चालू रहता है और जिम 12 महीने चालू रहता है।",
+    "content": "Q: जर्स कंट्री में स्विमिंग पूल और जिम चालू हालत में हैं?\nA: हाँ जी, जर्स कंट्री में समर में स्विमिंग पूल हमेशा चालू रहता है और जिम 12 महीने चालू रहता है।",
+    "project_name": "Jurs Country"
   },
   {
-    "id": "jurs_rera",
-    "topic": "RERA Approval & Registration",
-    "canonical_question": "क्या JURS Country RERA approved है?",
+    "id": "train_219",
+    "topic": "Jurs Country 3 BHK All Sizes (1210, 1284, 1388, 1645 sqft)",
+    "canonical_question": "जर्स कंट्री में 3 BHK के कौन से साइज आते हैं और कितने वॉशरूम मिलते हैं?",
     "variations": [
-      "Is Jurs Country RERA registered?",
-      "RERA number kya hai Jurs Country ka?",
-      "Kya rera approval hai project ke pass?",
-      "RERA registration details of Jurs Country"
+      "जर्स कंट्री में 3 BHK के कौन से साइज आते हैं और कितने वॉशरूम मिलते हैं?",
+      "जर्स कंट्री में 3 BHK के कौन से साइज आते हैं और कितने वॉशरूम मिलते हैं?",
+      "जर्स कंट्री में 3 BHK के कौन से साइज आते हैं और कितने वॉशरूम मिलते हैं"
     ],
-    "answer": "हाँ जी, JURS Country RERA registered project है। इसका RERA registration number UKREP09170000025 है।",
-    "spoken_answer": "हाँ जी, JURS Country RERA registered है और इसका RERA नंबर UKREP09170000025 है।"
+    "answer": "जर्स कंट्री में 3 BHK के चार साइज आते हैं—1210 स्क्वायर फीट, 1284 स्क्वायर फीट, 1388 स्क्वायर फीट और 1645 स्क्वायर फीट, और इनमें आपको 2 से 3 वॉशरूम मिल जाते हैं।",
+    "spoken_answer": "जर्स कंट्री में 3 BHK के चार साइज आते हैं—1210 स्क्वायर फीट, 1284 स्क्वायर फीट, 1388 स्क्वायर फीट और 1645 स्क्वायर फीट, और इनमें आपको 2 से 3 वॉशरूम मिल जाते हैं।",
+    "content": "Q: जर्स कंट्री में 3 BHK के कौन से साइज आते हैं और कितने वॉशरूम मिलते हैं?\nA: जर्स कंट्री में 3 BHK के चार साइज आते हैं—1210 स्क्वायर फीट, 1284 स्क्वायर फीट, 1388 स्क्वायर फीट और 1645 स्क्वायर फीट, और इनमें आपको 2 से 3 वॉशरूम मिल जाते हैं।",
+    "project_name": "Jurs Country"
   },
   {
-    "id": "jurs_hrda",
-    "topic": "HRDA / HDA Approval",
-    "canonical_question": "क्या JURS Country HRDA/HDA approved है?",
+    "id": "train_226",
+    "topic": "Jurs Country Internal Roads & Landscaping Garden Maintenance",
+    "canonical_question": "जर्स कंट्री के अंदर सड़कें और लैंडस्केप गार्डन कैसे मेंटेन किए जाते हैं?",
     "variations": [
-      "HRDA approved hai kya?",
-      "Haridwar Development Authority approval status",
-      "HDA se pass hai map?"
+      "जर्स कंट्री के अंदर सड़कें और लैंडस्केप गार्डन कैसे मेंटेन किए जाते हैं?",
+      "जर्स कंट्री के अंदर सड़कें और लैंडस्केप गार्डन कैसे मेंटेन किए जाते हैं?",
+      "जर्स कंट्री के अंदर सड़कें और लैंडस्केप गार्डन कैसे मेंटेन किए जाते हैं"
     ],
-    "answer": "हाँ जी, JURS Country Haridwar Development Authority यानी HDA/HRDA approved project है।",
-    "spoken_answer": "हाँ जी, JURS Country पूरी तरह Haridwar Development Authority यानी HRDA approved है।"
+    "answer": "जर्स कंट्री के अंदर चौड़ी सड़कें और सुंदर लैंडस्केप पार्क बहुत ही अच्छी तरह मेंटेन किए जाते हैं, जिनकी नियमित रूप से सफाई और देखभाल होती है।",
+    "spoken_answer": "जर्स कंट्री के अंदर चौड़ी सड़कें और सुंदर लैंडस्केप पार्क बहुत ही अच्छी तरह मेंटेन किए जाते हैं, जिनकी नियमित रूप से सफाई और देखभाल होती है।",
+    "content": "Q: जर्स कंट्री के अंदर सड़कें और लैंडस्केप गार्डन कैसे मेंटेन किए जाते हैं?\nA: जर्स कंट्री के अंदर चौड़ी सड़कें और सुंदर लैंडस्केप पार्क बहुत ही अच्छी तरह मेंटेन किए जाते हैं, जिनकी नियमित रूप से सफाई और देखभाल होती है।",
+    "project_name": "Jurs Country"
   },
   {
-    "id": "jurs_freehold",
-    "topic": "Freehold Status",
-    "canonical_question": "क्या JURS Country freehold है?",
+    "id": "train_238",
+    "topic": "Jurs Country 2 BHK Sizes (880 sqft & 980 sqft) Room Dimensions",
+    "canonical_question": "जर्स कंट्री के 880 स्क्वायर फीट और 980 स्क्वायर फीट 2 BHK में ड्राइंग हॉल, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है?",
     "variations": [
-      "Jurs Country freehold property hai ya leasehold?",
-      "Zameen freehold hai kya?",
-      "Is Jurs Country freehold?"
+      "जर्स कंट्री के 880 स्क्वायर फीट और 980 स्क्वायर फीट 2 BHK में ड्राइंग हॉल, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है?",
+      "जर्स कंट्री के 880 स्क्वायर फीट और 980 स्क्वायर फीट 2 BHK में ड्राइंग हॉल, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है?",
+      "जर्स कंट्री के 880 स्क्वायर फीट और 980 स्क्वायर फीट 2 BHK में ड्राइंग हॉल, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है"
     ],
-    "answer": "हाँ जी, JURS Country की जमीन completely freehold है, leasehold नहीं।",
-    "spoken_answer": "हाँ जी, JURS Country की ज़मीन 100% फ्रीहोल्ड है।"
+    "answer": "जर्स कंट्री में 2 BHK के 2 साइज आते हैं—880 स्क्वायर फीट और 980 स्क्वायर फीट। 880 स्क्वायर फीट 2 BHK (कारपेट 669 sqft) में ड्राइंग हॉल 15.8x11.2 फीट, मास्टर बेडरूम 10x13 फीट, दूसरा बेडरूम 10x12 फीट, किचन 6x9 फीट, बाथरूम 6x7 फीट और 2 बालकनी मिलती हैं। वहीं 980 स्क्वायर फीट 2 BHK (कारपेट 750 sqft) में ड्राइंग हॉल 19.6x10.5 फीट, पहला बेडरूम 13x10 फीट, दूसरा बेडरूम 12x10 फीट, किचन 9x6 फीट, बाथरूम 5x8 फीट और 2 बालकनी मिलती हैं।",
+    "spoken_answer": "जर्स कंट्री में 2 BHK के 2 साइज आते हैं—880 स्क्वायर फीट और 980 स्क्वायर फीट। 880 स्क्वायर फीट 2 BHK (कारपेट 669 sqft) में ड्राइंग हॉल 15.8x11.2 फीट, मास्टर बेडरूम 10x13 फीट, दूसरा बेडरूम 10x12 फीट, किचन 6x9 फीट, बाथरूम 6x7 फीट और 2 बालकनी मिलती हैं। वहीं 980 स्क्वायर फीट 2 BHK (कारपेट 750 sqft) में ड्राइंग हॉल 19.6x10.5 फीट, पहला बेडरूम 13x10 फीट, दूसरा बेडरूम 12x10 फीट, किचन 9x6 फीट, बाथरूम 5x8 फीट और 2 बालकनी मिलती हैं।",
+    "content": "Q: जर्स कंट्री के 880 स्क्वायर फीट और 980 स्क्वायर फीट 2 BHK में ड्राइंग हॉल, दोनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है?\nA: जर्स कंट्री में 2 BHK के 2 साइज आते हैं—880 स्क्वायर फीट और 980 स्क्वायर फीट। 880 स्क्वायर फीट 2 BHK (कारपेट 669 sqft) में ड्राइंग हॉल 15.8x11.2 फीट, मास्टर बेडरूम 10x13 फीट, दूसरा बेडरूम 10x12 फीट, किचन 6x9 फीट, बाथरूम 6x7 फीट और 2 बालकनी मिलती हैं। वहीं 980 स्क्वायर फीट 2 BHK (कारपेट 750 sqft) में ड्राइंग हॉल 19.6x10.5 फीट, पहला बेडरूम 13x10 फीट, दूसरा बेडरूम 12x10 फीट, किचन 9x6 फीट, बाथरूम 5x8 फीट और 2 बालकनी मिलती हैं।",
+    "project_name": "Jurs Country"
   },
   {
-    "id": "jurs_land_registration",
-    "topic": "Land Mutation & Registration",
-    "canonical_question": "JURS Country की जमीन किसके नाम पर registered है?",
+    "id": "train_240",
+    "topic": "Jurs Country 3 BHK Sizes (1210, 1284, 1645 sqft) Detailed Room Dimensions",
+    "canonical_question": "जर्स कंट्री के 3 BHK फ्लैट्स में ड्राइंग हॉल, तीनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है?",
     "variations": [
-      "Zameen kiske naam par registered hai?",
-      "Land registry mutation details of Jurs Country"
+      "जर्स कंट्री के 3 BHK फ्लैट्स में ड्राइंग हॉल, तीनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है?",
+      "जर्स कंट्री के 3 BHK फ्लैट्स में ड्राइंग हॉल, तीनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है?",
+      "जर्स कंट्री के 3 BHK फ्लैट्स में ड्राइंग हॉल, तीनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है"
     ],
-    "answer": "Project की जमीन developers के नाम fully mutated और registered है, और buyer को direct registry मिलती है।",
-    "spoken_answer": "प्रोजेक्ट की ज़मीन डेवलपर्स के नाम पूरी तरह म्यूटेटेड और रजिस्टर्ड है, जिससे बायर को डायरेक्ट रजिस्ट्री मिलती है।"
+    "answer": "जर्स कंट्री में 3 BHK में मुख्य रूप से 1210 sqft, 1284 sqft और 1645 sqft के साइज आते हैं। 1210 sqft (कारपेट 925 sqft) में ड्राइंग हॉल 22x11.5 फीट, बेडरूम्स 12.2x11, 13x10.5, 10x11 फीट, किचन 7x8.8 फीट, बाथरूम 5.5x9 फीट और 2 बालकनी मिलती हैं। 1284 sqft (कारपेट 988 sqft) में ड्राइंग हॉल 25x11.5 फीट, बेडरूम्स 12.2x12, 12.9x11.9, 10x12 फीट, किचन 7x9 फीट, बाथरूम 7.5x6.3 फीट और 2 बालकनी मिलती हैं। वहीं 1645 sqft में ड्राइंग हॉल 25x11.5 फीट, बेडरूम्स 11.11x15.5, 13.2x11.25, 12.11x10.5 फीट, किचन 11.5x9.7 फीट, बाथरूम 6.6x7.8 फीट और 3 बालकनी मिलती हैं।",
+    "spoken_answer": "जर्स कंट्री में 3 BHK में मुख्य रूप से 1210 sqft, 1284 sqft और 1645 sqft के साइज आते हैं। 1210 sqft (कारपेट 925 sqft) में ड्राइंग हॉल 22x11.5 फीट, बेडरूम्स 12.2x11, 13x10.5, 10x11 फीट, किचन 7x8.8 फीट, बाथरूम 5.5x9 फीट और 2 बालकनी मिलती हैं। 1284 sqft (कारपेट 988 sqft) में ड्राइंग हॉल 25x11.5 फीट, बेडरूम्स 12.2x12, 12.9x11.9, 10x12 फीट, किचन 7x9 फीट, बाथरूम 7.5x6.3 फीट और 2 बालकनी मिलती हैं। वहीं 1645 sqft में ड्राइंग हॉल 25x11.5 फीट, बेडरूम्स 11.11x15.5, 13.2x11.25, 12.11x10.5 फीट, किचन 11.5x9.7 फीट, बाथरूम 6.6x7.8 फीट और 3 बालकनी मिलती हैं।",
+    "content": "Q: जर्स कंट्री के 3 BHK फ्लैट्स में ड्राइंग हॉल, तीनों बेडरूम, किचन, बाथरूम और बालकनी का क्या-क्या साइज मिलता है?\nA: जर्स कंट्री में 3 BHK में मुख्य रूप से 1210 sqft, 1284 sqft और 1645 sqft के साइज आते हैं। 1210 sqft (कारपेट 925 sqft) में ड्राइंग हॉल 22x11.5 फीट, बेडरूम्स 12.2x11, 13x10.5, 10x11 फीट, किचन 7x8.8 फीट, बाथरूम 5.5x9 फीट और 2 बालकनी मिलती हैं। 1284 sqft (कारपेट 988 sqft) में ड्राइंग हॉल 25x11.5 फीट, बेडरूम्स 12.2x12, 12.9x11.9, 10x12 फीट, किचन 7x9 फीट, बाथरूम 7.5x6.3 फीट और 2 बालकनी मिलती हैं। वहीं 1645 sqft में ड्राइंग हॉल 25x11.5 फीट, बेडरूम्स 11.11x15.5, 13.2x11.25, 12.11x10.5 फीट, किचन 11.5x9.7 फीट, बाथरूम 6.6x7.8 फीट और 3 बालकनी मिलती हैं।",
+    "project_name": "Jurs Country"
   },
   {
-    "id": "jurs_section_143",
-    "topic": "Section 143 Approval",
-    "canonical_question": "JURS Country की जमीन किस section के अंतर्गत approved है?",
+    "id": "train_242",
+    "topic": "Jurs Country Luxury 5 BHK 2296 sqft Layout and 6 Bathrooms",
+    "canonical_question": "क्या जर्स कंट्री में 4 BHK या 5 BHK का भी कोई बड़ा साइज उपलब्ध है?",
     "variations": [
-      "143 approved hai kya?",
-      "Section 143 residential township approval"
+      "क्या जर्स कंट्री में 4 BHK या 5 BHK का भी कोई बड़ा साइज उपलब्ध है?",
+      "क्या जर्स कंट्री में 4 BHK या 5 BHK का भी कोई बड़ा साइज उपलब्ध है?",
+      "क्या जर्स कंट्री में 4 BHK या 5 BHK का भी कोई बड़ा साइज उपलब्ध है"
     ],
-    "answer": "JURS Country की जमीन Residential Township के रूप में Section 143 के अंतर्गत approved है।",
-    "spoken_answer": "हाँ जी, JURS Country रेजिडेंशियल टाउनशिप के रूप में Section 143 के तहत अप्रूव्ड है।"
+    "answer": "हाँ जी, जर्स कंट्री में बड़ा 5 BHK फ्लैट भी उपलब्ध है जिसका साइज 2296 स्क्वायर फीट (कारपेट एरिया 1836 sqft) है। इसमें 22x11.5 फीट का ड्राइंग हॉल, 5 स्पेशियस बेडरूम (9.8x11.8 से लेकर 11.11x15.8 फीट तक), कुल 6 बाथरूम (6.6x7.8 फीट), 7x8.8 फीट की किचन और 4 बड़ी बालकनी मिलती हैं।",
+    "spoken_answer": "हाँ जी, जर्स कंट्री में बड़ा 5 BHK फ्लैट भी उपलब्ध है जिसका साइज 2296 स्क्वायर फीट (कारपेट एरिया 1836 sqft) है। इसमें 22x11.5 फीट का ड्राइंग हॉल, 5 स्पेशियस बेडरूम (9.8x11.8 से लेकर 11.11x15.8 फीट तक), कुल 6 बाथरूम (6.6x7.8 फीट), 7x8.8 फीट की किचन और 4 बड़ी बालकनी मिलती हैं।",
+    "content": "Q: क्या जर्स कंट्री में 4 BHK या 5 BHK का भी कोई बड़ा साइज उपलब्ध है?\nA: हाँ जी, जर्स कंट्री में बड़ा 5 BHK फ्लैट भी उपलब्ध है जिसका साइज 2296 स्क्वायर फीट (कारपेट एरिया 1836 sqft) है। इसमें 22x11.5 फीट का ड्राइंग हॉल, 5 स्पेशियस बेडरूम (9.8x11.8 से लेकर 11.11x15.8 फीट तक), कुल 6 बाथरूम (6.6x7.8 फीट), 7x8.8 फीट की किचन और 4 बड़ी बालकनी मिलती हैं।",
+    "project_name": "Jurs Country"
   },
   {
-    "id": "jurs_govt_approval",
-    "topic": "Uttarakhand Habitat Developer Approval",
-    "canonical_question": "JURS Country के developers Government of Uttarakhand से approved हैं?",
+    "id": "train_251",
+    "topic": "Jurs Country 1645 sqft 3 BHK Carpet Area (1311 sqft)",
+    "canonical_question": "जर्स कंट्री के 1645 स्क्वायर फीट 3 BHK का कारपेट एरिया कितना है?",
     "variations": [
-      "Government of Uttarakhand approval status of developer"
+      "जर्स कंट्री के 1645 स्क्वायर फीट 3 BHK का कारपेट एरिया कितना है?",
+      "जर्स कंट्री के 1645 स्क्वायर फीट 3 BHK का कारपेट एरिया कितना है?",
+      "जर्स कंट्री के 1645 स्क्वायर फीट 3 BHK का कारपेट एरिया कितना है"
     ],
-    "answer": "हाँ जी, developers Government of Uttarakhand के Registered Habitat Developers के रूप में approved हैं।",
-    "spoken_answer": "हाँ जी, डेवलपर्स उत्तराखंड सरकार के रजिस्टर्ड हैबिटेट डेवलपर्स के रूप में अप्रूव्ड हैं।"
+    "answer": "जर्स कंट्री के 1645 स्क्वायर फीट 3 BHK का कारपेट एरिया 1311 स्क्वायर फीट है।",
+    "spoken_answer": "जर्स कंट्री के 1645 स्क्वायर फीट 3 BHK का कारपेट एरिया 1311 स्क्वायर फीट है।",
+    "content": "Q: जर्स कंट्री के 1645 स्क्वायर फीट 3 BHK का कारपेट एरिया कितना है?\nA: जर्स कंट्री के 1645 स्क्वायर फीट 3 BHK का कारपेट एरिया 1311 स्क्वायर फीट है।",
+    "project_name": "Jurs Country"
   },
   {
-    "id": "jurs_developer_name",
-    "topic": "Developer Details",
-    "canonical_question": "JURS Country का developer कौन है?",
+    "id": "train_255",
+    "topic": "Jurs Country 1210 sqft Drawing Hall and Kitchen Dimensions",
+    "canonical_question": "जर्स कंट्री के 1210 स्क्वायर फीट 3 BHK में ड्राइंग हॉल और किचन का क्या साइज है?",
     "variations": [
-      "Jurs country kisne banaya hai?",
-      "Who is the developer of Jurs Country?",
-      "Builder name of Jurs Country"
+      "जर्स कंट्री के 1210 स्क्वायर फीट 3 BHK में ड्राइंग हॉल और किचन का क्या साइज है?",
+      "जर्स कंट्री के 1210 स्क्वायर फीट 3 BHK में ड्राइंग हॉल और किचन का क्या साइज है?",
+      "जर्स कंट्री के 1210 स्क्वायर फीट 3 BHK में ड्राइंग हॉल और किचन का क्या साइज है"
     ],
-    "answer": "JURS Country को The Vardhman Developers द्वारा develop किया गया है, जो The Rishabh Velveleen Group से जुड़े हैं।",
-    "spoken_answer": "JURS Country को The Vardhman Developers द्वारा डेवलप किया गया है, जो The Rishabh Velveleen Group से जुड़े हैं।"
-  },
-  {
-    "id": "jurs_developer_group",
-    "topic": "Rishabh Velveleen Group Background",
-    "canonical_question": "The Rishabh Velveleen Group कब स्थापित हुआ था?",
-    "variations": [
-      "Developer group background and establishment year"
-    ],
-    "answer": "The Rishabh Velveleen Group की स्थापना 1987 में German collaboration के साथ हुई थी।",
-    "spoken_answer": "The Rishabh Velveleen Group की स्थापना 1987 में जर्मन कोलैबोरेशन के साथ हुई थी।"
-  },
-  {
-    "id": "jurs_options",
-    "topic": "Residential Options Available",
-    "canonical_question": "JURS Country में कौन-कौन से residential options available हैं?",
-    "variations": [
-      "Jurs country me kya kya milta hai?",
-      "What properties are available in Jurs Country?",
-      "Flat villa plot sab hai kya?"
-    ],
-    "answer": "JURS Country में premium economy flats, luxury apartments (2, 3, 4, 5 BHK), villas और residential plots available हैं।",
-    "spoken_answer": "JURS Country में 2 से 5 BHK फ्लैट्स, विला और रेजिडेंशियल प्लॉट्स उपलब्ध हैं।"
-  },
-  {
-    "id": "jurs_bhk_types",
-    "topic": "BHK Configuration",
-    "canonical_question": "JURS Country में कौन-कौन से BHK available हैं?",
-    "variations": [
-      "Jurs country me kitne BHK flats hain?",
-      "BHK options in Jurs Country"
-    ],
-    "answer": "JURS Country में 2 BHK, 3 BHK, 4 BHK और 5 BHK luxury apartments available हैं।",
-    "spoken_answer": "JURS Country में 2 BHK, 3 BHK, 4 BHK और 5 BHK अपार्टमेंट्स उपलब्ध हैं।"
-  },
-  {
-    "id": "jurs_2bhk_sizes",
-    "topic": "2 BHK Sizes & Prices",
-    "canonical_question": "JURS Country में 2 BHK के कौन-कौन से sizes और price available हैं?",
-    "variations": [
-      "2 BHK size in Jurs Country",
-      "2 BHK price in Jurs Country",
-      "Jurs country me 2 BHK kitne ka hai?",
-      "880 sq ft 2 BHK price in Jurs Country",
-      "988 sq ft 2 BHK price in Jurs Country"
-    ],
-    "answer": "JURS Country में 2 BHK के दो sizes available हैं: 880 sq.ft (कीमत ₹45 लाख से शुरू) और 988 sq.ft (कीमत ₹48 लाख से शुरू)।",
-    "spoken_answer": "JURS Country में 2 BHK 880 स्क्वायर फीट 45 लाख से और 988 स्क्वायर फीट 48 लाख से शुरू है।"
-  },
-  {
-    "id": "jurs_3bhk_sizes",
-    "topic": "3 BHK Sizes & Prices",
-    "canonical_question": "JURS Country में 3 BHK के कौन-कौन से sizes और price available हैं?",
-    "variations": [
-      "3 BHK size in Jurs Country",
-      "3 BHK price in Jurs Country",
-      "Jurs country me 3 BHK kitne ka hai?",
-      "1210 sq ft 3 BHK price",
-      "1248 sq ft 3 BHK price",
-      "1388 sq ft 3 BHK price",
-      "1645 sq ft 3 BHK price"
-    ],
-    "answer": "JURS Country में 3 BHK के चार sizes हैं: 1210 sq.ft (₹60 लाख से शुरू), 1248 sq.ft (₹65 लाख से शुरू), 1388 sq.ft (₹70 लाख से शुरू) और 1645 sq.ft (₹87 लाख से शुरू)।",
-    "spoken_answer": "JURS Country में 3 BHK 1210 से 1645 स्क्वायर फीट में 60 लाख से 87 लाख रुपये तक उपलब्ध है।"
-  },
-  {
-    "id": "jurs_4bhk_sizes",
-    "topic": "4 BHK Sizes & Prices",
-    "canonical_question": "JURS Country में 4 BHK के कौन-कौन से sizes और price available हैं?",
-    "variations": [
-      "4 BHK size in Jurs Country",
-      "4 BHK price in Jurs Country",
-      "Jurs country me 4 BHK kitne ka hai?",
-      "2575 sq ft 4 BHK price",
-      "2720 sq ft 4 BHK price"
-    ],
-    "answer": "JURS Country में 4 BHK के दो sizes हैं: 2575 sq.ft (₹1 करोड़ 35 लाख से शुरू) और 2720 sq.ft (₹1 करोड़ 50 लाख से शुरू)।",
-    "spoken_answer": "JURS Country में 4 BHK 2575 स्क्वायर फीट 1 करोड़ 35 लाख से और 2720 स्क्वायर फीट 1 करोड़ 50 लाख से शुरू है।"
-  },
-  {
-    "id": "jurs_5bhk_size",
-    "topic": "5 BHK Size & Price",
-    "canonical_question": "JURS Country में 5 BHK का size और price कितना है?",
-    "variations": [
-      "5 BHK size in Jurs Country",
-      "5 BHK price in Jurs Country",
-      "Jurs country me 5 BHK kitne ka hai?",
-      "2296 sq ft 5 BHK price"
-    ],
-    "answer": "JURS Country में 5 BHK का size 2296 sq.ft है और इसकी कीमत ₹1 करोड़ 25 लाख से शुरू है।",
-    "spoken_answer": "JURS Country में 5 BHK 2296 स्क्वायर फीट का है और इसकी कीमत 1 करोड़ 25 लाख रुपये से शुरू है।"
-  },
-  {
-    "id": "jurs_amenities_list",
-    "topic": "Complete Amenities",
-    "canonical_question": "JURS Country में कौन-कौन सी amenities available हैं?",
-    "variations": [
-      "Jurs Country me kya kya amenities hain?",
-      "Facilities in Jurs Country Haridwar",
-      "Club house, swimming pool, gym hai kya?"
-    ],
-    "answer": "JURS Country में Club House, Swimming Pool, Gymnasium, Meditation & Yoga Centre, Lawn Tennis Courts, Café, Billiards, Cards Room, Table Tennis, Music Room, Temple, Amphitheatre और landscaped green parks available हैं।",
-    "spoken_answer": "JURS Country में क्लब हाउस, स्विमिंग पूल, जिम, मंदिर, योगा सेंटर, टेनिस कोर्ट, कैफ़े और हरे-भरे पार्क उपलब्ध हैं।"
-  },
-  {
-    "id": "jurs_school",
-    "topic": "The Wisdom Global School",
-    "canonical_question": "क्या JURS Country में school है?",
-    "variations": [
-      "Jurs country me school hai kya?",
-      "Wisdom Global School Jurs Country",
-      "School details in Jurs Country township"
-    ],
-    "answer": "हाँ जी, JURS Country के अंदर The Wisdom Global School integrated है, जो Nursery से Class 12 तक CBSE syllabus वाला fully air-conditioned स्कूल है।",
-    "spoken_answer": "हाँ जी, टाउनशिप के अंदर The Wisdom Global School है, जो नर्सरी से 12वीं तक CBSE बोर्ड का एयर-कंडीशंड स्कूल है।"
-  },
-  {
-    "id": "jurs_temple",
-    "topic": "Mandir / Temple",
-    "canonical_question": "क्या JURS Country में मंदिर (Temple) है?",
-    "variations": [
-      "Society ke andar mandir hai kya?",
-      "Temple in Jurs Country"
-    ],
-    "answer": "हाँ जी, JURS Country residential township के अंदर एक सुंदर और शांत मंदिर (Temple) बना हुआ है।",
-    "spoken_answer": "हाँ जी, JURS Country टाउनशिप के अंदर सुंदर मंदिर उपलब्ध है।"
-  },
-  {
-    "id": "jurs_villas_plots",
-    "topic": "Villas & Plots in JURS Country",
-    "canonical_question": "क्या JURS Country में villas और plots available हैं?",
-    "variations": [
-      "Jurs country me villa mil jayega kya?",
-      "Plots in Jurs Country Haridwar",
-      "Row house in Jurs Country"
-    ],
-    "answer": "हाँ जी, JURS Country में flats के अलावा luxurious row houses/villas और residential plots भी available हैं।",
-    "spoken_answer": "हाँ जी, JURS Country में फ्लैट्स के अलावा लग्ज़री विला और रेजिडेंशियल प्लॉट्स भी उपलब्ध हैं।"
-  },
-  {
-    "id": "jurs_towers_detail",
-    "topic": "Towers: Parsvnath, Vardhman, Rishabh Towers",
-    "canonical_question": "JURS Country में कौन-कौन से towers और developments हैं?",
-    "variations": [
-      "Parsvnath tower kya hai Jurs country me?",
-      "Vardhman tower Jurs Country",
-      "Rishabh tower Jurs Country"
-    ],
-    "answer": "JURS Country में US architect designed high-rise 'Parsvnath Towers', fully-fitted luxury 'Vardhman Tower', premium economy 'Rishabh Tower', luxury duplex apartments और villas शामिल हैं।",
-    "spoken_answer": "JURS Country में पार्श्वनाथ टॉवर्स, वर्धमान टॉवर, ऋषभ टॉवर, लक्ज़री डुप्लेक्स और विला शामिल हैं।"
-  },
-  {
-    "id": "jurs_piped_gas",
-    "topic": "Piped Natural Gas (PNG)",
-    "canonical_question": "क्या JURS Country में piped gas connection है?",
-    "variations": [
-      "PNG gas connection in Jurs Country",
-      "Gas line connection hai kya?"
-    ],
-    "answer": "JURS Country Haridwar का पहला project है जिसमें piped natural gas (PNG) की सुविधा दी गई है।",
-    "spoken_answer": "हाँ जी, JURS Country हरिद्वार का पहला प्रोजेक्ट है जिसमें पाइप्ड नेचुरल गैस की सुविधा उपलब्ध है।"
-  },
-  {
-    "id": "jurs_utilities",
-    "topic": "Power, Water, Security & Construction",
-    "canonical_question": "JURS Country में पानी, बिजली बैकअप और सिक्योरिटी कैसी है?",
-    "variations": [
-      "24 hour power backup hai kya?",
-      "Water supply and security in Jurs Country",
-      "Construction quality and earthquake resistance"
-    ],
-    "answer": "JURS Country में 24 घंटे water supply, 24 घंटे power backup, 3-tier digital security, single-entry gate, Grade A earthquake-resistant Zone 4 structure और rainwater harvesting की व्यवस्था है।",
-    "spoken_answer": "यहाँ 24 घंटे पावर बैकअप, 24 घंटे पानी, 3-टियर डिजिटल सिक्योरिटी और भूकंपरोधी ग्रेड-A कंस्ट्रक्शन है।"
-  },
-  {
-    "id": "jurs_bank_loan",
-    "topic": "Bank Loans & Eligibility",
-    "canonical_question": "JURS Country में bank loan कितना मिल सकता है?",
-    "variations": [
-      "Loan kitna percent milega?",
-      "Home loan banks approved for Jurs Country",
-      "SBI PNB HDFC loan in Jurs Country"
-    ],
-    "answer": "JURS Country SBI, HDFC, ICICI, Axis Bank, PNB और LIC से approved है। Eligible buyers को property value का लगभग 80% से 90% तक bank loan मिल सकता है।",
-    "spoken_answer": "JURS Country एसबीआई और पीएनबी सहित सभी प्रमुख बैंकों से अप्रूव्ड है, जहाँ 80 से 90 प्रतिशत तक बैंक लोन मिल सकता है।"
-  },
-  {
-    "id": "jurs_policy_doc_price",
-    "topic": "Policies: Latest Prices, Maintenance & Documents",
-    "canonical_question": "JURS Country में maintenance और latest price की क्या policy है?",
-    "variations": [
-      "Maintenance kitna hai?",
-      "Documents online bhej sakte ho kya?",
-      "Exact current price policy"
-    ],
-    "answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से।",
-    "spoken_answer": "मेंटेनेंस रेंट वालों के लिए अलग होता है और बाय करने वालों के लिए अलग, इसके बारे में ऑफिस में बात करेंगे अच्छे से।"
+    "answer": "जर्स कंट्री के 1210 स्क्वायर फीट 3 BHK में ड्राइंग हॉल 22x11.5 फीट और किचन 7x8.8 फीट की मिलती है।",
+    "spoken_answer": "जर्स कंट्री के 1210 स्क्वायर फीट 3 BHK में ड्राइंग हॉल 22x11.5 फीट और किचन 7x8.8 फीट की मिलती है।",
+    "content": "Q: जर्स कंट्री के 1210 स्क्वायर फीट 3 BHK में ड्राइंग हॉल और किचन का क्या साइज है?\nA: जर्स कंट्री के 1210 स्क्वायर फीट 3 BHK में ड्राइंग हॉल 22x11.5 फीट और किचन 7x8.8 फीट की मिलती है।",
+    "project_name": "Jurs Country"
   }
 ]
