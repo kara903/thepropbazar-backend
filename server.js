@@ -512,6 +512,235 @@ ${dynamicKnowledge}` +
     }
 });
 
+// ============================================================================
+// ⚡ /api/chat-stream ENDPOINT (Ultra-Fast Sentence-Level Audio Streaming via SSE)
+// ============================================================================
+app.post('/api/chat-stream', async (req, res) => {
+    const { message, history = [], currentProject = "", currentBhk = "" } = req.body;
+
+    if (!message || !message.trim()) {
+        return res.status(400).json({ error: "Message is required." });
+    }
+
+    // Set SSE HTTP Headers
+    res.setHeader('Content-Type', 'text/event-stream');
+    res.setHeader('Cache-Control', 'no-cache');
+    res.setHeader('Connection', 'keep-alive');
+    if (res.flushHeaders) res.flushHeaders();
+
+    function sendSSE(data) {
+        res.write(`data: ${JSON.stringify(data)}\n\n`);
+    }
+
+    const geminiApiKey = (process.env.GEMINI_API_KEY || process.env.GOOGLE_API_KEY)?.trim();
+    const geminiModel = process.env.GEMINI_MODEL?.trim() || 'gemini-3.5-flash-lite';
+    const groqApiKey = process.env.GROQ_API_KEY?.trim();
+    const requestedModel = process.env.GROQ_MODEL?.trim() || 'openai/gpt-oss-20b';
+
+    let cleanMessage = (message || "").trim();
+    const recentHistory = Array.isArray(history) ? history.filter(t => t && t.text && t.role).slice(-8) : [];
+
+    function cleanText(txt) {
+        if (!txt) return "";
+        let s = String(txt).replace(/<think>[\s\S]*?<\/think>/gi, '').trim();
+        s = s.replace(/\*\*/g, '').replace(/[\#\_\*]/g, '').trim();
+        s = s.replace(/(\d+(?:\.\d+)?)\s*[\-–—‑]\s*(\d+(?:\.\d+)?)/g, '$1 से $2');
+        s = s.replace(/sq\.?\s*ft\.?/gi, 'स्क्वायर फीट');
+        s = s.replace(/sqft/gi, 'स्क्वायर फीट');
+        s = s.replace(/sq\s*feet/gi, 'स्क्वायर फीट');
+        s = s.replace(/\bSIDCUL\b/gi, 'सिडकुल');
+        s = s.replace(/\bBHEL\b/gi, 'भेल');
+        s = s.replace(/\bNH[- ]?58\b/gi, 'नेशनल हाईवे 58');
+        s = s.replace(/\bRERA\b/gi, 'रेरा');
+        s = s.replace(/^(?:राम[\s\-–—]*राम|नमस्ते|नमस्कार|हेलो|हाय|हैलो)\s*(?:जी)?[\s,।!\-–—]*\s*/i, '');
+        s = s.replace(/(?:[।!\n]|^)\s*(?:क्या आप (?:और|कोई और|इसके बारे में)[^।!\n]*\?|क्या मैं आपकी और मदद[^।!\n]*\?)\s*$/i, '');
+        return s.trim();
+    }
+
+    // 🧠 Detect Buyer Psyche
+    let activePsyche = detectCustomerPsyche(cleanMessage, recentHistory);
+
+    let retrievalParts = [];
+    if (currentProject) retrievalParts.push(`Project: ${currentProject}`);
+    if (currentBhk) retrievalParts.push(`BHK: ${currentBhk}`);
+    if (recentHistory.length > 0) {
+        for (const turn of recentHistory.slice(-4)) {
+            retrievalParts.push(`${turn.role}: ${turn.text}`);
+        }
+    }
+    retrievalParts.push(`Current customer request: ${cleanMessage}`);
+
+    const retrievalQuery = retrievalParts.join('\n');
+    let dynamicKnowledge = "";
+
+    try {
+        const vectorResults = await searchVectorDatabase(retrievalQuery, {
+            currentProject,
+            currentBhk,
+            maxResults: 4
+        });
+        if (vectorResults && vectorResults.length) {
+            dynamicKnowledge = "RELEVANT PROPERTY KNOWLEDGE:\n" + vectorResults.slice(0, 8).map((doc, i) =>
+                `${i + 1}. [${doc.project_name || 'Property'} | ${doc.category || 'General'}]\n${doc.content}`
+            ).join('\n\n');
+        } else if (propertyDataSummary) {
+            dynamicKnowledge = `PROPERTY KNOWLEDGE FALLBACK:\n${propertyDataSummary}`;
+        }
+    } catch(e) {
+        if (propertyDataSummary) dynamicKnowledge = `PROPERTY KNOWLEDGE FALLBACK:\n${propertyDataSummary}`;
+    }
+
+    const systemPromptText = `${BASE_VOICE_INSTRUCTIONS}
+
+=======================================================
+📊 LAYER 1: FACTUAL FOUNDATION (MASTER DATA MATRIX)
+=======================================================
+${MASTER_FACTUAL_MATRIX}
+
+=======================================================
+${activePsyche.instruction}
+=======================================================
+
+CURRENT RETRIEVED KNOWLEDGE (VECTOR DB):
+${dynamicKnowledge}` +
+        (currentProject || currentBhk ? `\n\nCURRENT WEBSITE CONTEXT: ${currentProject || 'all projects'}${currentBhk ? ` | BHK: ${currentBhk}` : ''}` : '');
+
+    const { synthesizeSpeech } = require('./scripts/google-tts');
+
+    let fullReply = "";
+    let sentenceBuffer = "";
+    let chunkIndex = 0;
+
+    if (geminiApiKey) {
+        try {
+            const contents = [];
+            for (const turn of recentHistory) {
+                if (turn.text.trim() === cleanMessage) continue;
+                contents.push({
+                    role: turn.role === 'user' ? 'user' : 'model',
+                    parts: [{ text: turn.text }]
+                });
+            }
+            contents.push({ role: 'user', parts: [{ text: cleanMessage }] });
+
+            const geminiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${geminiModel}:streamGenerateContent?key=${geminiApiKey}&alt=sse`;
+            const geminiRes = await fetch(geminiUrl, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    contents,
+                    systemInstruction: { parts: [{ text: systemPromptText }] },
+                    generationConfig: {
+                        temperature: 0.35,
+                        maxOutputTokens: 600
+                    }
+                })
+            });
+
+            if (geminiRes.ok) {
+                const reader = geminiRes.body.getReader();
+                const decoder = new TextDecoder();
+                let sseBuffer = '';
+
+                async function emitSentenceChunk(sentenceText) {
+                    const cleanSentence = cleanText(sentenceText);
+                    if (!cleanSentence || cleanSentence.length < 2) return;
+
+                    let audioContent = null;
+                    try {
+                        audioContent = await synthesizeSpeech(cleanSentence, 'MALE');
+                    } catch(e) {
+                        console.warn("Stream TTS chunk error:", e.message);
+                    }
+
+                    sendSSE({
+                        type: 'chunk',
+                        index: chunkIndex++,
+                        text: cleanSentence,
+                        audioContent: audioContent
+                    });
+                }
+
+                while (true) {
+                    const { done, value } = await reader.read();
+                    if (done) break;
+
+                    sseBuffer += decoder.decode(value, { stream: true });
+                    const lines = sseBuffer.split('\n');
+                    sseBuffer = lines.pop();
+
+                    for (const line of lines) {
+                        const trimmed = line.trim();
+                        if (trimmed.startsWith('data:')) {
+                            const jsonStr = trimmed.slice(5).trim();
+                            if (jsonStr) {
+                                try {
+                                    const parsed = JSON.parse(jsonStr);
+                                    const piece = parsed?.candidates?.[0]?.content?.parts?.[0]?.text || '';
+                                    if (piece) {
+                                        fullReply += piece;
+                                        sentenceBuffer += piece;
+
+                                        // Delimiter check: Purna Viram '।', '?', '!', '\n\n', or '.'
+                                        const match = sentenceBuffer.match(/([\s\S]*?[।\?\!\n]+)([\s\S]*)/);
+                                        if (match) {
+                                            const completed = match[1].trim();
+                                            sentenceBuffer = match[2] || '';
+                                            if (completed && completed.split(/\s+/).length >= 4) {
+                                                await emitSentenceChunk(completed);
+                                            } else if (completed) {
+                                                sentenceBuffer = completed + ' ' + sentenceBuffer;
+                                            }
+                                        }
+                                    }
+                                } catch(e) {}
+                            }
+                        }
+                    }
+                }
+
+                // Emit remaining text
+                if (sentenceBuffer.trim()) {
+                    await emitSentenceChunk(sentenceBuffer.trim());
+                }
+
+                sendSSE({
+                    type: 'done',
+                    fullReply: cleanText(fullReply),
+                    activePsyche: activePsyche.type
+                });
+                res.end();
+                return;
+            }
+        } catch(e) {
+            console.warn("Gemini stream exception:", e.message);
+        }
+    }
+
+    // Fallback if streaming failed
+    try {
+        let fallbackReply = "हरिद्वार प्रॉपर्टीज के बारे में आप जो भी पूछना चाहें, पूछ सकते हैं।";
+        let audioContent = null;
+        try {
+            audioContent = await synthesizeSpeech(fallbackReply, 'MALE');
+        } catch(e){}
+        sendSSE({
+            type: 'chunk',
+            index: 0,
+            text: fallbackReply,
+            audioContent: audioContent
+        });
+        sendSSE({
+            type: 'done',
+            fullReply: fallbackReply,
+            activePsyche: activePsyche.type
+        });
+        res.end();
+    } catch(err) {
+        res.end();
+    }
+});
+
 // Dedicated Google Cloud Text-to-Speech API Endpoint
 app.post('/api/tts', async (req, res) => {
     const { text, gender = 'MALE' } = req.body;
