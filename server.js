@@ -514,7 +514,7 @@ ${dynamicKnowledge}` +
 
 // Dedicated Google Cloud Text-to-Speech API Endpoint
 app.post('/api/tts', async (req, res) => {
-    const { text, gender = 'FEMALE' } = req.body;
+    const { text, gender = 'MALE' } = req.body;
     if (!text) return res.status(400).json({ error: "Text is required" });
     try {
         const { synthesizeSpeech } = require('./scripts/google-tts');
