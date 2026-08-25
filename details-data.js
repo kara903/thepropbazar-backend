@@ -1,19 +1,6 @@
 /*
   ============================================================
-  PROPERTY DATA - You can easily edit this file to update content.
-  
-  FORMAT for each project:
-    "project name" â†’ contains BHK options
-      Each BHK option has:
-        - flatPhotos: array of image URLs (6-8 photos)
-        - flatVideos: array of video URLs (3-4 videos)
-        - size: flat size string
-        - price: price string
-        - societyDescription: one-line society description
-        - societyPhotos: array of image URLs
-        - societyVideos: array of video URLs
-        - connectivity: array of { icon, title, distance }
-        - strengths: array of { icon, title, description }
+  PROPERTY DATA - Comprehensive Real Estate Matrix for Haridwar
   ============================================================
 */
 
@@ -21,17 +8,62 @@ const PROPERTY_DATA = {
 
     "Mantra Happy Homes": {
         "2BHK": {
-            flatPhotos: [
-            ],
-            flatVideos: [
-                "https://youtu.be/eGnJ-8d_vRQ",
-                "https://youtube.com/shorts/2oPeM09RYa0?feature=share"
-            ],
             size: "810 sq.ft",
             price: "₹27 Lakh*",
             carpet: "Varies",
             facing: "Multiple Options",
-            vastu: "Multiple Options"
+            vastu: "Multiple Options",
+            brochureUrl: "brochures/mantra-happy-homes-brochure.pdf",
+            sizes: [
+                {
+                    size: "810 sq.ft",
+                    price: "₹27 Lakh*",
+                    carpet: "615 sq.ft approx",
+                    layoutImage: "images/mantra happy homes.jpg",
+                    photos: [
+                        "mantra happy homes's society images and videos/watermark-removed-Gemini_Generated_Image_4q6c1d4q6c1d4q6c (1).jpg",
+                        "mantra happy homes's society images and videos/watermark-removed-Gemini_Generated_Image_7okrpg7okrpg7okr.jpg",
+                        "mantra happy homes's society images and videos/watermark-removed-Gemini_Generated_Image_mvj84cmvj84cmvj8.jpg"
+                    ],
+                    videos: [
+                        "https://youtu.be/eGnJ-8d_vRQ",
+                        "https://youtube.com/shorts/2oPeM09RYa0?feature=share"
+                    ]
+                },
+                {
+                    size: "950 sq.ft",
+                    price: "₹34 Lakh*",
+                    carpet: "720 sq.ft approx",
+                    layoutImage: "images/mantra happy homes.jpg",
+                    photos: [
+                        "mantra happy homes's society images and videos/watermark-removed-Gemini_Generated_Image_n1ztahn1ztahn1zt.jpg",
+                        "mantra happy homes's society images and videos/watermark-removed-Gemini_Generated_Image_pfvetkpfvetkpfve.jpg",
+                        "mantra happy homes's society images and videos/watermark-removed-Gemini_Generated_Image_s7zp27s7zp27s7zp.jpg"
+                    ],
+                    videos: [
+                        "https://youtube.com/shorts/zCpAppKWXN0?feature=share"
+                    ]
+                },
+                {
+                    size: "1010 sq.ft",
+                    price: "₹38 Lakh*",
+                    carpet: "770 sq.ft approx",
+                    layoutImage: "images/mantra happy homes.jpg",
+                    photos: [
+                        "mantra happy homes's society images and videos/watermark-removed-Gemini_Generated_Image_sfckj9sfckj9sfck.jpg",
+                        "mantra happy homes's society images and videos/watermark-removed-Gemini_Generated_Image_vs6hfmvs6hfmvs6h.jpg",
+                        "mantra happy homes's society images and videos/watermark-removed-watermark-removed-Gemini_Generated_Image_xlni6uxlni6uxlni.jpg"
+                    ],
+                    videos: [
+                        "https://youtu.be/eGnJ-8d_vRQ"
+                    ]
+                }
+            ],
+            flatPhotos: [],
+            flatVideos: [
+                "https://youtu.be/eGnJ-8d_vRQ",
+                "https://youtube.com/shorts/2oPeM09RYa0?feature=share"
+            ]
         },
         society: {
             googleReviews: "4.4/5 (550+ Google Reviews)",
@@ -76,17 +108,77 @@ const PROPERTY_DATA = {
 
     "Haridwar Greens": {
         "1BHK": {
-            flatPhotos: [
-            ],
-            flatVideos: [
-            ],
             size: "485 sq.ft",
             price: "₹16 Lakh*",
             carpet: "367 sq.ft",
             facing: "Multiple Options",
-            vastu: "Multiple Options"
+            vastu: "Multiple Options",
+            brochureUrl: "brochures/haridwar-greens-brochure.pdf",
+            sizes: [
+                {
+                    size: "485 sq.ft",
+                    price: "₹16 Lakh*",
+                    carpet: "367 sq.ft",
+                    layoutImage: "images/haridwar greens.jpg",
+                    photos: [],
+                    videos: []
+                },
+                {
+                    size: "575 sq.ft",
+                    price: "₹18 Lakh*",
+                    carpet: "435 sq.ft",
+                    layoutImage: "images/haridwar greens.jpg",
+                    photos: [],
+                    videos: []
+                }
+            ],
+            flatPhotos: [],
+            flatVideos: []
         },
         "2BHK": {
+            size: "1075 sq.ft",
+            price: "₹38 Lakh*",
+            carpet: "Varies",
+            facing: "Multiple Options",
+            vastu: "Multiple Options",
+            brochureUrl: "brochures/haridwar-greens-brochure.pdf",
+            sizes: [
+                {
+                    size: "945 sq.ft",
+                    price: "₹34 Lakh*",
+                    carpet: "715 sq.ft",
+                    layoutImage: "images/haridwar greens.jpg",
+                    photos: [
+                        "2 BHK flat images haridwar greens/IMG-20260714-WA0050.jpg",
+                        "2 BHK flat images haridwar greens/IMG-20260714-WA0051.jpg",
+                        "2 BHK flat images haridwar greens/IMG-20260714-WA0052.jpg"
+                    ],
+                    videos: []
+                },
+                {
+                    size: "1075 sq.ft",
+                    price: "₹38 Lakh*",
+                    carpet: "815 sq.ft",
+                    layoutImage: "images/haridwar greens.jpg",
+                    photos: [
+                        "2 BHK flat images haridwar greens/IMG-20260714-WA0053.jpg",
+                        "2 BHK flat images haridwar greens/IMG-20260714-WA0054.jpg",
+                        "2 BHK flat images haridwar greens/IMG-20260714-WA0055.jpg"
+                    ],
+                    videos: []
+                },
+                {
+                    size: "1100 sq.ft",
+                    price: "₹40 Lakh*",
+                    carpet: "835 sq.ft",
+                    layoutImage: "images/haridwar greens.jpg",
+                    photos: [
+                        "2 BHK flat images haridwar greens/IMG-20260714-WA0057.jpg",
+                        "2 BHK flat images haridwar greens/IMG-20260714-WA0058.jpg"
+                    ],
+                    videos: []
+                }
+            ],
             flatPhotos: [
                 "2 BHK flat images haridwar greens/IMG-20260714-WA0050.jpg",
                 "2 BHK flat images haridwar greens/IMG-20260714-WA0051.jpg",
@@ -97,28 +189,53 @@ const PROPERTY_DATA = {
                 "2 BHK flat images haridwar greens/IMG-20260714-WA0057.jpg",
                 "2 BHK flat images haridwar greens/IMG-20260714-WA0058.jpg"
             ],
-            flatVideos: [
-            ],
-            size: "1075 sq.ft",
-            price: "₹38 Lakh*",
-            carpet: "Varies",
-            facing: "Multiple Options",
-            vastu: "Multiple Options"
+            flatVideos: []
         },
         "3BHK": {
-            flatPhotos: [
-            ],
-            flatVideos: [
-                "https://youtube.com/shorts/_Ge5eT4V_m8?feature=share",
-                "https://youtube.com/shorts/tl0zx1xgF20?feature=share"
-            ],
             size: "1410 sq.ft",
             price: "₹50 Lakh*",
             carpet: "Varies",
             facing: "Multiple Options",
-            vastu: "Multiple Options"
+            vastu: "Multiple Options",
+            brochureUrl: "brochures/haridwar-greens-brochure.pdf",
+            sizes: [
+                {
+                    size: "1410 sq.ft",
+                    price: "₹50 Lakh*",
+                    carpet: "1070 sq.ft",
+                    layoutImage: "images/haridwar greens.jpg",
+                    photos: [],
+                    videos: [
+                        "https://youtube.com/shorts/_Ge5eT4V_m8?feature=share"
+                    ]
+                },
+                {
+                    size: "1484 sq.ft",
+                    price: "₹60 Lakh*",
+                    carpet: "1125 sq.ft",
+                    layoutImage: "images/haridwar greens.jpg",
+                    photos: [],
+                    videos: [
+                        "https://youtube.com/shorts/tl0zx1xgF20?feature=share"
+                    ]
+                },
+                {
+                    size: "1700 sq.ft",
+                    price: "₹72 Lakh*",
+                    carpet: "1290 sq.ft",
+                    layoutImage: "images/haridwar greens.jpg",
+                    photos: [],
+                    videos: [
+                        "https://youtube.com/shorts/_Ge5eT4V_m8?feature=share"
+                    ]
+                }
+            ],
+            flatPhotos: [],
+            flatVideos: [
+                "https://youtube.com/shorts/_Ge5eT4V_m8?feature=share",
+                "https://youtube.com/shorts/tl0zx1xgF20?feature=share"
+            ]
         },
-        // Society-level data (shared across all BHKs)
         society: {
             googleReviews: "4.2/5 (500+ Google Reviews)",
             deliveredYear: "2017",
@@ -174,37 +291,88 @@ const PROPERTY_DATA = {
 
     "Deep Ganga": {
         "1BHK": {
-            flatPhotos: [
-],
-            flatVideos: [
-],
             size: "740 sq.ft",
-            price: "₹27 Lakh*",
+            price: "₹26 Lakh*",
             carpet: "Varies",
             facing: "Multiple Options",
-            vastu: "Multiple Options"
+            vastu: "Multiple Options",
+            brochureUrl: "brochures/deep-ganga-brochure.pdf",
+            sizes: [
+                {
+                    size: "740 sq.ft",
+                    price: "₹26 Lakh*",
+                    carpet: "560 sq.ft",
+                    layoutImage: "images/deep ganga.webp",
+                    photos: [],
+                    videos: []
+                }
+            ],
+            flatPhotos: [],
+            flatVideos: []
         },
         "2BHK": {
-            flatPhotos: [
-],
-            flatVideos: [
-],
             size: "1180 sq.ft",
             price: "₹38 Lakh*",
             carpet: "Varies",
             facing: "Multiple Options",
-            vastu: "Multiple Options"
+            vastu: "Multiple Options",
+            brochureUrl: "brochures/deep-ganga-brochure.pdf",
+            sizes: [
+                {
+                    size: "1050 sq.ft",
+                    price: "₹35 Lakh*",
+                    carpet: "790 sq.ft",
+                    layoutImage: "images/deep ganga.webp",
+                    photos: [],
+                    videos: []
+                },
+                {
+                    size: "1180 sq.ft",
+                    price: "₹38 Lakh*",
+                    carpet: "890 sq.ft",
+                    layoutImage: "images/deep ganga.webp",
+                    photos: [],
+                    videos: []
+                },
+                {
+                    size: "1250 sq.ft",
+                    price: "₹42 Lakh*",
+                    carpet: "945 sq.ft",
+                    layoutImage: "images/deep ganga.webp",
+                    photos: [],
+                    videos: []
+                }
+            ],
+            flatPhotos: [],
+            flatVideos: []
         },
         "3BHK": {
-            flatPhotos: [
-],
-            flatVideos: [
-],
             size: "1478 sq.ft",
             price: "₹55 Lakh*",
             carpet: "Varies",
             facing: "Multiple Options",
-            vastu: "Multiple Options"
+            vastu: "Multiple Options",
+            brochureUrl: "brochures/deep-ganga-brochure.pdf",
+            sizes: [
+                {
+                    size: "1478 sq.ft",
+                    price: "₹55 Lakh*",
+                    carpet: "1120 sq.ft",
+                    layoutImage: "images/deep ganga.webp",
+                    photos: [],
+                    videos: []
+                },
+                {
+                    size: "1550 sq.ft",
+                    price: "₹60 Lakh*",
+                    carpet: "1175 sq.ft",
+                    layoutImage: "images/deep ganga.webp",
+                    photos: [],
+                    videos: []
+                }
+            ],
+            flatPhotos: [],
+            flatVideos: []
         },
         society: {
             googleReviews: "4.0/5 (400+ Google Reviews)",
@@ -227,8 +395,7 @@ const PROPERTY_DATA = {
                 "deep ganga's society's images and videos/unnamed (7).webp",
                 "deep ganga's society's images and videos/unnamed.webp"
             ],
-            videos: [
-],
+            videos: [],
             connectivity: [
                 { icon: "fa-place-of-worship", title: "Har Ki Pauri", distance: "20 Min Drive" },
                 { icon: "fa-train", title: "Haridwar bus/railway station", distance: "18 Min Drive" },
@@ -243,7 +410,7 @@ const PROPERTY_DATA = {
             ],
             strengths: [
                 { icon: "fa-shield-halved", title: "24x7 Security", desc: "Gated community with CCTV and security guards." },
-                { icon: "fa-water", title: "Ganga View", desc: "Beautiful views of the holy river Ganga from select flats." },
+                { icon: "fa-cart-shopping", title: "In-Campus Shopping", desc: "Commercial complex & daily needs shopping inside society." },
                 { icon: "fa-car", title: "Ample Parking", desc: "Covered and open parking available." },
                 { icon: "fa-bolt", title: "Power Backup", desc: "Full power backup for all units." },
                 { icon: "fa-tree", title: "Green Spaces", desc: "Well-maintained gardens and walking trails." },
@@ -254,29 +421,73 @@ const PROPERTY_DATA = {
 
     "Antriksh NRI City": {
         "2BHK": {
-            flatPhotos: [
-],
-            flatVideos: [
-                "https://youtube.com/shorts/AyMKw_3jOVg?feature=share"
-],
             size: "915 sq.ft",
             price: "₹40 Lakh*",
             carpet: "Varies",
             facing: "Multiple Options",
-            vastu: "Multiple Options"
+            vastu: "Multiple Options",
+            brochureUrl: "brochures/antriksh-nri-city-brochure.pdf",
+            sizes: [
+                {
+                    size: "915 sq.ft",
+                    price: "₹40 Lakh*",
+                    carpet: "695 sq.ft",
+                    layoutImage: "images/antriksh nri city.jpg",
+                    photos: [],
+                    videos: [
+                        "https://youtube.com/shorts/AyMKw_3jOVg?feature=share"
+                    ]
+                },
+                {
+                    size: "1016 sq.ft",
+                    price: "₹45 Lakh*",
+                    carpet: "770 sq.ft",
+                    layoutImage: "images/antriksh nri city.jpg",
+                    photos: [],
+                    videos: [
+                        "https://youtube.com/shorts/AyMKw_3jOVg?feature=share"
+                    ]
+                }
+            ],
+            flatPhotos: [],
+            flatVideos: [
+                "https://youtube.com/shorts/AyMKw_3jOVg?feature=share"
+            ]
         },
         "3BHK": {
-            flatPhotos: [
-],
-            flatVideos: [
-                "https://youtube.com/shorts/zaxsO6GiI8I?feature=share",
-                "https://youtube.com/shorts/ipDCNKyHqIc?feature=share"
-            ],
             size: "1315 sq.ft",
             price: "₹57 Lakh*",
             carpet: "Varies",
             facing: "Multiple Options",
-            vastu: "Multiple Options"
+            vastu: "Multiple Options",
+            brochureUrl: "brochures/antriksh-nri-city-brochure.pdf",
+            sizes: [
+                {
+                    size: "1315 sq.ft",
+                    price: "₹57 Lakh*",
+                    carpet: "995 sq.ft",
+                    layoutImage: "images/antriksh nri city.jpg",
+                    photos: [],
+                    videos: [
+                        "https://youtube.com/shorts/zaxsO6GiI8I?feature=share"
+                    ]
+                },
+                {
+                    size: "1450 sq.ft",
+                    price: "₹65 Lakh*",
+                    carpet: "1100 sq.ft",
+                    layoutImage: "images/antriksh nri city.jpg",
+                    photos: [],
+                    videos: [
+                        "https://youtube.com/shorts/ipDCNKyHqIc?feature=share"
+                    ]
+                }
+            ],
+            flatPhotos: [],
+            flatVideos: [
+                "https://youtube.com/shorts/zaxsO6GiI8I?feature=share",
+                "https://youtube.com/shorts/ipDCNKyHqIc?feature=share"
+            ]
         },
         society: {
             googleReviews: "4.0/5 (200+ Google Reviews)",
@@ -317,6 +528,38 @@ const PROPERTY_DATA = {
 
     "Jurs Country": {
         "2BHK": {
+            size: "880 sq.ft",
+            price: "₹45 Lakh*",
+            carpet: "Varies",
+            facing: "Multiple Options",
+            vastu: "Multiple Options",
+            brochureUrl: "brochures/jurs-country-brochure.pdf",
+            sizes: [
+                {
+                    size: "880 sq.ft",
+                    price: "₹45 Lakh*",
+                    carpet: "665 sq.ft",
+                    layoutImage: "images/jurs country.jpg",
+                    photos: [
+                        "jurs country's 2 BHK images and videos/6ehduir3_optOrig.jpg",
+                        "jurs country's 2 BHK images and videos/7tm3c6tn_optOrig.jpg"
+                    ],
+                    videos: [
+                        "jurs country's 2 BHK images and videos/2 Bhk Semi Furnished Apartment For Sale in Jurs Country Jwalapur Haridwar 9897588881. - Investors Forum Realty (360p, h264).mp4"
+                    ]
+                },
+                {
+                    size: "980 sq.ft",
+                    price: "₹49 Lakh*",
+                    carpet: "740 sq.ft",
+                    layoutImage: "images/jurs country.jpg",
+                    photos: [
+                        "jurs country's 2 BHK images and videos/jib9vl7m_optOrig.jpg",
+                        "jurs country's 2 BHK images and videos/tr389z8a_optOrig.jpg"
+                    ],
+                    videos: []
+                }
+            ],
             flatPhotos: [
                 "jurs country's 2 BHK images and videos/6ehduir3_optOrig.jpg",
                 "jurs country's 2 BHK images and videos/7tm3c6tn_optOrig.jpg",
@@ -325,14 +568,58 @@ const PROPERTY_DATA = {
             ],
             flatVideos: [
                 "jurs country's 2 BHK images and videos/2 Bhk Semi Furnished Apartment For Sale in Jurs Country Jwalapur Haridwar 9897588881. - Investors Forum Realty (360p, h264).mp4"
-            ],
-            size: "880 sq.ft",
-            price: "₹45 Lakh*",
-            carpet: "Varies",
-            facing: "Multiple Options",
-            vastu: "Multiple Options"
+            ]
         },
         "3BHK": {
+            size: "1210 sq.ft",
+            price: "₹60 Lakh*",
+            carpet: "Varies",
+            facing: "Multiple Options",
+            vastu: "Multiple Options",
+            brochureUrl: "brochures/jurs-country-brochure.pdf",
+            sizes: [
+                {
+                    size: "1210 sq.ft",
+                    price: "₹60 Lakh*",
+                    carpet: "915 sq.ft",
+                    layoutImage: "images/jurs country.jpg",
+                    photos: [
+                        "jurs country's 3 BHK images and videos/6ehduir3_optOrig.jpg",
+                        "jurs country's 3 BHK images and videos/7tm3c6tn_optOrig.jpg"
+                    ],
+                    videos: [
+                        "https://youtube.com/shorts/g3th1bt-au0?feature=share"
+                    ]
+                },
+                {
+                    size: "1284 sq.ft",
+                    price: "₹65 Lakh*",
+                    carpet: "970 sq.ft",
+                    layoutImage: "images/jurs country.jpg",
+                    photos: [
+                        "jurs country's 3 BHK images and videos/jib9vl7m_optOrig.jpg"
+                    ],
+                    videos: []
+                },
+                {
+                    size: "1388 sq.ft",
+                    price: "₹70 Lakh*",
+                    carpet: "1050 sq.ft",
+                    layoutImage: "images/jurs country.jpg",
+                    photos: [
+                        "jurs country's 3 BHK images and videos/tr389z8a_optOrig.jpg"
+                    ],
+                    videos: []
+                },
+                {
+                    size: "1645 sq.ft",
+                    price: "₹87 Lakh*",
+                    carpet: "1245 sq.ft",
+                    layoutImage: "images/jurs country.jpg",
+                    photos: [],
+                    videos: []
+                }
+            ],
             flatPhotos: [
                 "jurs country's 3 BHK images and videos/6ehduir3_optOrig.jpg",
                 "jurs country's 3 BHK images and videos/7tm3c6tn_optOrig.jpg",
@@ -341,42 +628,76 @@ const PROPERTY_DATA = {
             ],
             flatVideos: [
                 "https://youtube.com/shorts/g3th1bt-au0?feature=share"
-            ],
-            size: "1210 sq.ft",
-            price: "₹60 Lakh*",
-            carpet: "Varies",
-            facing: "Multiple Options",
-            vastu: "Multiple Options"
+            ]
         },
         "4BHK": {
+            size: "2575 sq.ft",
+            price: "₹1.35 Cr*",
+            carpet: "Varies",
+            facing: "Multiple Options",
+            vastu: "Multiple Options",
+            brochureUrl: "brochures/jurs-country-brochure.pdf",
+            sizes: [
+                {
+                    size: "2575 sq.ft",
+                    price: "₹1.35 Cr*",
+                    carpet: "1950 sq.ft",
+                    layoutImage: "images/jurs country.jpg",
+                    photos: [
+                        "jurs country's 4 BHK images and videos/6ehduir3_optOrig.jpg",
+                        "jurs country's 4 BHK images and videos/7tm3c6tn_optOrig.jpg"
+                    ],
+                    videos: []
+                },
+                {
+                    size: "2710 sq.ft",
+                    price: "₹1.50 Cr*",
+                    carpet: "2050 sq.ft",
+                    layoutImage: "images/jurs country.jpg",
+                    photos: [
+                        "jurs country's 4 BHK images and videos/jib9vl7m_optOrig.jpg",
+                        "jurs country's 4 BHK images and videos/tr389z8a_optOrig.jpg"
+                    ],
+                    videos: []
+                }
+            ],
             flatPhotos: [
                 "jurs country's 4 BHK images and videos/6ehduir3_optOrig.jpg",
                 "jurs country's 4 BHK images and videos/7tm3c6tn_optOrig.jpg",
                 "jurs country's 4 BHK images and videos/jib9vl7m_optOrig.jpg",
                 "jurs country's 4 BHK images and videos/tr389z8a_optOrig.jpg"
             ],
-            flatVideos: [
-],
+            flatVideos: []
+        },
+        "5BHK": {
             size: "2296 sq.ft",
             price: "₹1.25 Cr*",
             carpet: "Varies",
             facing: "Multiple Options",
-            vastu: "Multiple Options"
-        },
-        "5BHK": {
+            vastu: "Multiple Options",
+            brochureUrl: "brochures/jurs-country-brochure.pdf",
+            sizes: [
+                {
+                    size: "2296 sq.ft",
+                    price: "₹1.25 Cr*",
+                    carpet: "1740 sq.ft",
+                    layoutImage: "images/jurs country.jpg",
+                    photos: [
+                        "jurs country's 5 BHK images and videos/6ehduir3_optOrig.jpg",
+                        "jurs country's 5 BHK images and videos/7tm3c6tn_optOrig.jpg",
+                        "jurs country's 5 BHK images and videos/jib9vl7m_optOrig.jpg",
+                        "jurs country's 5 BHK images and videos/tr389z8a_optOrig.jpg"
+                    ],
+                    videos: []
+                }
+            ],
             flatPhotos: [
                 "jurs country's 5 BHK images and videos/6ehduir3_optOrig.jpg",
                 "jurs country's 5 BHK images and videos/7tm3c6tn_optOrig.jpg",
                 "jurs country's 5 BHK images and videos/jib9vl7m_optOrig.jpg",
                 "jurs country's 5 BHK images and videos/tr389z8a_optOrig.jpg"
             ],
-            flatVideos: [
-],
-            size: "2575 sq.ft",
-            price: "₹1.35 Cr*",
-            carpet: "Varies",
-            facing: "Multiple Options",
-            vastu: "Multiple Options"
+            flatVideos: []
         },
         society: {
             googleReviews: "4.1/5 (300+ Google Reviews)",
@@ -428,13 +749,40 @@ const PROPERTY_DATA = {
     "Homeland": {
         isPlot: true,
         "Details": {
-            flatPhotos: [],
-            flatVideos: [],
             size: "852 to 2218 sq.ft (66 Plots)",
             price: "₹3500/sq.ft*",
             carpet: "Varies",
             facing: "Multiple Options",
-            vastu: "Multiple Options"
+            vastu: "Multiple Options",
+            brochureUrl: "brochures/homeland-brochure.pdf",
+            sizes: [
+                {
+                    size: "852 sq.ft",
+                    price: "₹29.8 Lakh*",
+                    carpet: "852 sq.ft",
+                    layoutImage: "home land's society images and videos/Screenshot 2026-07-24 130540.png",
+                    photos: [],
+                    videos: []
+                },
+                {
+                    size: "1200 sq.ft",
+                    price: "₹42 Lakh*",
+                    carpet: "1200 sq.ft",
+                    layoutImage: "home land's society images and videos/Screenshot 2026-07-24 130700.png",
+                    photos: [],
+                    videos: []
+                },
+                {
+                    size: "2218 sq.ft",
+                    price: "₹77.6 Lakh*",
+                    carpet: "2218 sq.ft",
+                    layoutImage: "home land's society images and videos/Screenshot 2026-07-24 130723.png",
+                    photos: [],
+                    videos: []
+                }
+            ],
+            flatPhotos: [],
+            flatVideos: []
         },
         society: {
             deliveredYear: "Under Construction",
@@ -462,129 +810,61 @@ const PROPERTY_DATA = {
         }
     },
 
-
     "Independent Home": {
         "Details": {
             flatPhotos: [
                 "flat images/IMG-20260714-WA0050.jpg",
                 "flat images/IMG-20260714-WA0051.jpg",
-                "flat images/IMG-20260714-WA0052.jpg",
-                "flat images/IMG-20260714-WA0053.jpg",
-                "flat images/IMG-20260714-WA0054.jpg",
-                "flat images/IMG-20260714-WA0055.jpg",
-                "flat images/IMG-20260714-WA0057.jpg",
-                "flat images/IMG-20260714-WA0058.jpg"
+                "flat images/IMG-20260714-WA0052.jpg"
             ],
             flatVideos: [
-                "flat video/VID-20260714-WA0048.mp4",
-                "flat video/VID-20260714-WA0049.mp4"
+                "flat video/VID-20260714-WA0048.mp4"
             ],
             size: "Various Sizes Available",
             price: "Contact for Price",
             carpet: "Varies",
             facing: "Multiple Options",
-            vastu: "Multiple Options"
+            vastu: "Multiple Options",
+            sizes: []
         },
         society: {
             description: "Premium independent homes available in prime locations across Haridwar. Build your dream home with complete freedom and privacy.",
             photos: [
                 "society images/haridwar greens.webp",
-                "society images/image (1).avif",
-                "society images/image (1).webp",
-                "society images/image (2).avif",
-                "society images/image (2).webp",
-                "society images/image (3).avif",
-                "society images/image (3).webp",
-                "society images/image (4).webp",
-                "society images/image.avif",
-                "society images/image.webp",
-                "society images/unnamed (1).webp",
-                "society images/unnamed (2).webp",
-                "society images/unnamed (3).webp",
-                "society images/unnamed (4).webp",
-                "society images/unnamed (5).webp",
-                "society images/unnamed (6).webp",
-                "society images/unnamed (7).webp",
-                "society images/unnamed (8).webp",
-                "society images/unnamed.webp"
+                "society images/image (1).webp"
             ],
-            videos: [
-                "society video/lv_0_20260715104532.mp4",
-                "society video/lv_0_20260715111549.mp4"
-            ],
+            videos: [],
             connectivity: [
                 { icon: "fa-road", title: "Main Road Access", distance: "Varies" },
                 { icon: "fa-hospital", title: "Nearby Hospital", distance: "Varies" },
                 { icon: "fa-school", title: "Schools", distance: "Varies" }
             ],
             strengths: [
-                { icon: "fa-house", title: "Full Ownership", desc: "Complete ownership of land and building." },
-                { icon: "fa-maximize", title: "Customizable", desc: "Design and build as per your wish." },
-                { icon: "fa-tree", title: "Private Garden", desc: "Your own private garden space." },
-                { icon: "fa-car", title: "Private Parking", desc: "Dedicated parking within your premises." }
+                { icon: "fa-house", title: "Full Ownership", desc: "Complete ownership of land and building." }
             ]
         }
     },
 
     "Land": {
         "Details": {
-            flatPhotos: [
-                "flat images/IMG-20260714-WA0050.jpg",
-                "flat images/IMG-20260714-WA0051.jpg",
-                "flat images/IMG-20260714-WA0052.jpg",
-                "flat images/IMG-20260714-WA0053.jpg",
-                "flat images/IMG-20260714-WA0054.jpg",
-                "flat images/IMG-20260714-WA0055.jpg",
-                "flat images/IMG-20260714-WA0057.jpg",
-                "flat images/IMG-20260714-WA0058.jpg"
-            ],
-            flatVideos: [
-                "flat video/VID-20260714-WA0048.mp4",
-                "flat video/VID-20260714-WA0049.mp4"
-            ],
+            flatPhotos: [],
+            flatVideos: [],
             size: "Various Plot Sizes",
             price: "Contact for Price",
             carpet: "Varies",
             facing: "Multiple Options",
-            vastu: "Multiple Options"
+            vastu: "Multiple Options",
+            sizes: []
         },
         society: {
-            description: "Prime land and plots available in and around Haridwar for residential and investment purposes. Excellent growth potential.",
-            photos: [
-                "society images/haridwar greens.webp",
-                "society images/image (1).avif",
-                "society images/image (1).webp",
-                "society images/image (2).avif",
-                "society images/image (2).webp",
-                "society images/image (3).avif",
-                "society images/image (3).webp",
-                "society images/image (4).webp",
-                "society images/image.avif",
-                "society images/image.webp",
-                "society images/unnamed (1).webp",
-                "society images/unnamed (2).webp",
-                "society images/unnamed (3).webp",
-                "society images/unnamed (4).webp",
-                "society images/unnamed (5).webp",
-                "society images/unnamed (6).webp",
-                "society images/unnamed (7).webp",
-                "society images/unnamed (8).webp",
-                "society images/unnamed.webp"
-            ],
-            videos: [
-                "society video/lv_0_20260715104532.mp4",
-                "society video/lv_0_20260715111549.mp4"
-            ],
+            description: "Prime land and plots available in and around Haridwar for residential and investment purposes.",
+            photos: [],
+            videos: [],
             connectivity: [
-                { icon: "fa-road", title: "Road Connectivity", distance: "On Main Road" },
-                { icon: "fa-bolt", title: "Electricity", distance: "Available" },
-                { icon: "fa-water", title: "Water Supply", distance: "Available" }
+                { icon: "fa-road", title: "Road Connectivity", distance: "On Main Road" }
             ],
             strengths: [
-                { icon: "fa-chart-line", title: "High ROI", desc: "Excellent investment returns in Haridwar region." },
-                { icon: "fa-file-contract", title: "Clear Title", desc: "All properties with clear legal titles." },
-                { icon: "fa-maximize", title: "Flexible Sizes", desc: "Plots available from 100 sq.yd to 500 sq.yd." },
-                { icon: "fa-road", title: "Developed Area", desc: "Located in well-developed residential areas." }
+                { icon: "fa-chart-line", title: "High ROI", desc: "Excellent investment returns in Haridwar region." }
             ]
         }
     },
@@ -592,13 +872,32 @@ const PROPERTY_DATA = {
     "Shree Haridarshan": {
         isPlot: true,
         "Details": {
-            flatPhotos: [],
-            flatVideos: [],
             size: "Various Plot Sizes",
             price: "₹4500/sq.ft*",
             carpet: "Varies",
             facing: "Multiple Options",
-            vastu: "Multiple Options"
+            vastu: "Multiple Options",
+            brochureUrl: "brochures/shree-haridarshan-brochure.pdf",
+            sizes: [
+                {
+                    size: "100 sq.yd (900 sq.ft)",
+                    price: "₹40.5 Lakh*",
+                    carpet: "900 sq.ft",
+                    layoutImage: "shree haridarshan's images and videos/Screenshot 2026-07-24 125554.png",
+                    photos: [],
+                    videos: []
+                },
+                {
+                    size: "150 sq.yd (1350 sq.ft)",
+                    price: "₹60.75 Lakh*",
+                    carpet: "1350 sq.ft",
+                    layoutImage: "shree haridarshan's images and videos/Screenshot 2026-07-24 125628.png",
+                    photos: [],
+                    videos: []
+                }
+            ],
+            flatPhotos: [],
+            flatVideos: []
         },
         society: {
             deliveredYear: "Under Construction",
@@ -607,10 +906,7 @@ const PROPERTY_DATA = {
             photos: [
                 "shree haridarshan's images and videos/Screenshot 2026-07-24 125554.png",
                 "shree haridarshan's images and videos/Screenshot 2026-07-24 125628.png",
-                "shree haridarshan's images and videos/Screenshot 2026-07-24 125650.png",
-                "shree haridarshan's images and videos/Screenshot 2026-07-24 125924.png",
-                "shree haridarshan's images and videos/Screenshot 2026-07-24 125945.png",
-                "shree haridarshan's images and videos/Screenshot 2026-07-24 130007.png"
+                "shree haridarshan's images and videos/Screenshot 2026-07-24 125650.png"
             ],
             videos: [],
             connectivity: [
@@ -624,4 +920,3 @@ const PROPERTY_DATA = {
         }
     }
 };
-
