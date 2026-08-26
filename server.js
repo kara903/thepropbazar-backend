@@ -880,4 +880,13 @@ app.listen(PORT, () => {
     console.log(`📋 Broker Leads Dashboard: http://localhost:${PORT}/leads.html`);
     console.log(`🤖 AI Engine: ${process.env.PRIMARY_AI_PROVIDER || 'gemini'}`);
     console.log(`======================================================\n`);
+
+    // 🔄 24x7 Self Keep-Alive Bot (Prevents Render from Sleeping)
+    const RENDER_PUBLIC_URL = process.env.RENDER_EXTERNAL_URL || 'https://thepropbazar-backend.onrender.com';
+    setInterval(() => {
+        fetch(`${RENDER_PUBLIC_URL}/health`)
+            .then(r => r.json())
+            .then(d => console.log(`[Keep-Alive Bot] 📡 4-min heartbeat ping successful at ${new Date().toLocaleTimeString('en-IN')}`))
+            .catch(err => console.warn(`[Keep-Alive Bot] Ping notice:`, err.message));
+    }, 4 * 60 * 1000);
 });
