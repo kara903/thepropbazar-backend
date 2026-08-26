@@ -536,9 +536,39 @@
         grid.style.display = 'grid';
         document.getElementById('stickyBar').style.display = 'block';
 
-        // Column width — fits 2-3 on screen
-        const colWidth = 'clamp(300px, 85vw, 550px)';
-        grid.style.gridTemplateColumns = `repeat(${projects.length}, ${colWidth})`;
+        // Column width — calculate dynamically so no ugly empty space on right
+        const totalProjects = projects.length;
+        const screenWidth = window.innerWidth || document.documentElement.clientWidth || 1024;
+        
+        let colWidth;
+        if (screenWidth >= 1200) {
+            if (totalProjects <= 2) {
+                colWidth = `calc(100% / ${totalProjects})`;
+            } else if (totalProjects === 3) {
+                colWidth = `calc(100% / 3)`;
+            } else {
+                colWidth = '420px';
+            }
+        } else if (screenWidth >= 768) {
+            if (totalProjects <= 2) {
+                colWidth = `calc(100% / ${totalProjects})`;
+            } else {
+                colWidth = '380px';
+            }
+        } else {
+            if (totalProjects === 1) {
+                colWidth = '100vw';
+            } else {
+                colWidth = 'clamp(300px, 86vw, 400px)';
+            }
+        }
+
+        grid.style.gridTemplateColumns = `repeat(${totalProjects}, ${colWidth})`;
+        if (totalProjects <= 2 || (screenWidth >= 1200 && totalProjects <= 3)) {
+            grid.style.width = '100%';
+        } else {
+            grid.style.width = 'max-content';
+        }
 
         // Sticky header
         renderHeaderBar(projects, colWidth);
