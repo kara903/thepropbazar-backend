@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>The Propbazar Haridwar — Compare Flats & Properties</title>
+    <meta name="description" content="Compare BHK flats side-by-side across top Haridwar projects (Mantra Happy Homes, Haridwar Greens, Jurs Country, Deep Ganga, Antriksh NRI City). Swipe to compare prices, amenities, photos, and videos.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/plyr.css" />
+    <script src="https://cdn.plyr.io/3.7.8/plyr.polyfilled.js" defer></script>
+    <link rel="stylesheet" href="details.css?v=20260826_1715">
+    <link rel="preload" href="welcome-male.mp3" as="audio" type="audio/mpeg">
+    <link rel="preload" href="filler1.mp3" as="audio" type="audio/mpeg">
+    <link rel="preload" href="filler2.mp3" as="audio" type="audio/mpeg">
+    <link rel="preload" href="filler3.mp3" as="audio" type="audio/mpeg">
+</head>
+<body>
+
+    <!-- BHK Type Tabs -->
+    <nav class="bhk-tabs">
+        <div class="bhk-tabs-inner" id="bhkTabsContainer"></div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Sticky Header Bar -->
+        <div class="sticky-header-bar sticky-bar" id="stickyBar">
+            <div class="sticky-header-track sticky-track" id="stickyTrack"></div>
+        </div>
+
+        <!-- Comparison Scroll Container -->
+        <div class="comparison-scroll comp-scroll" id="compScroll">
+            <div class="comparison-grid comp-grid" id="compGrid"></div>
+        </div>
+    </main>
+
+    <!-- Lightbox Modal -->
+    <div class="lightbox" id="lightbox">
+        <button class="lightbox-close" id="lightboxClose" aria-label="Close image preview">
+            <i class="fa-solid fa-xmark"></i>
+        </button>
+        <div class="lightbox-content">
+            <img id="lightboxImg" src="" alt="Full view">
+        </div>
+    </div>
+
+    <script src="details-data.js?v=20260826_1715"></script>
+    <script src="details.js?v=20260826_1715"></script>
+    <script src="voice-assistant.js?v=20260826_1715"></script>
+</body>
+</html>
