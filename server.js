@@ -221,7 +221,7 @@ function detectCustomerPsyche(message, history = []) {
 // 🚀 /api/chat ENDPOINT (3-LAYER PROMPT + VECTOR RETRIEVAL + GROQ/GEMINI + DIRECT AUDIO)
 // ============================================================================
 app.post('/api/chat', async (req, res) => {
-    const { message, audioBase64, mimeType = "audio/webm", history = [], currentProject = "", currentBhk = "" } = req.body;
+    const { message, audioBase64, mimeType = "audio/webm", history = [], currentProject = "", currentBhk = "", customerName = "" } = req.body;
 
     if ((!message || !message.trim()) && !audioBase64) {
         return res.status(400).json({ error: "Message or audio is required." });
@@ -293,6 +293,8 @@ app.post('/api/chat', async (req, res) => {
         }
 
         // Assemble Full 3-Layer System Prompt
+        const customerInstruction = customerName ? `\n\nCUSTOMER NAME: ${customerName}. If the customer just introduced themselves, warmly acknowledge their name with "नमस्ते ${customerName} जी!" and directly deliver the tailored flat/budget recommendations based on their stated requirement.` : '';
+
         const systemPromptText = `${BASE_VOICE_INSTRUCTIONS}
 
 =======================================================
@@ -306,7 +308,8 @@ ${activePsyche.instruction}
 
 CURRENT RETRIEVED KNOWLEDGE (VECTOR DB):
 ${dynamicKnowledge}` +
-            (currentProject || currentBhk ? `\n\nCURRENT WEBSITE CONTEXT: ${currentProject || 'all projects'}${currentBhk ? ` | BHK: ${currentBhk}` : ''}` : '');
+            (currentProject || currentBhk ? `\n\nCURRENT WEBSITE CONTEXT: ${currentProject || 'all projects'}${currentBhk ? ` | BHK: ${currentBhk}` : ''}` : '') +
+            customerInstruction;
 
         let reply = "";
         let usedModel = "";
@@ -516,7 +519,7 @@ ${dynamicKnowledge}` +
 // ⚡ /api/chat-stream ENDPOINT (Ultra-Fast Sentence-Level Audio Streaming via SSE)
 // ============================================================================
 app.post('/api/chat-stream', async (req, res) => {
-    const { message, history = [], currentProject = "", currentBhk = "" } = req.body;
+    const { message, history = [], currentProject = "", currentBhk = "", customerName = "" } = req.body;
 
     if (!message || !message.trim()) {
         return res.status(400).json({ error: "Message is required." });
@@ -590,6 +593,8 @@ app.post('/api/chat-stream', async (req, res) => {
         if (propertyDataSummary) dynamicKnowledge = `PROPERTY KNOWLEDGE FALLBACK:\n${propertyDataSummary}`;
     }
 
+    const customerInstruction = customerName ? `\n\nCUSTOMER NAME: ${customerName}. If the customer just introduced themselves, warmly acknowledge their name with "नमस्ते ${customerName} जी!" and directly deliver the tailored flat/budget recommendations based on their stated requirement.` : '';
+
     const systemPromptText = `${BASE_VOICE_INSTRUCTIONS}
 
 =======================================================
@@ -603,7 +608,8 @@ ${activePsyche.instruction}
 
 CURRENT RETRIEVED KNOWLEDGE (VECTOR DB):
 ${dynamicKnowledge}` +
-        (currentProject || currentBhk ? `\n\nCURRENT WEBSITE CONTEXT: ${currentProject || 'all projects'}${currentBhk ? ` | BHK: ${currentBhk}` : ''}` : '');
+        (currentProject || currentBhk ? `\n\nCURRENT WEBSITE CONTEXT: ${currentProject || 'all projects'}${currentBhk ? ` | BHK: ${currentBhk}` : ''}` : '') +
+        customerInstruction;
 
     const { synthesizeSpeech } = require('./scripts/google-tts');
 
@@ -779,20 +785,33 @@ app.post('/api/log-conversation', (req, res) => {
 
         const existingIndex = existingLogs.findIndex(item => item.id === convId);
 
+        let finalName = customerName && customerName.trim() ? customerName.trim() : "Website Visitor";
+        let finalPhone = customerPhone && customerPhone.trim() ? customerPhone.trim() : "Not provided";
+
+        if (existingIndex >= 0) {
+            const prev = existingLogs[existingIndex];
+            if (finalName === "Website Visitor" && prev.customerName && prev.customerName !== "Website Visitor") {
+                finalName = prev.customerName;
+            }
+            if (finalPhone === "Not provided" && prev.customerPhone && prev.customerPhone !== "Not provided") {
+                finalPhone = prev.customerPhone;
+            }
+        }
+
         const logEntry = {
             id: convId,
+            sessionId: convId,
             timestamp: new Date().toISOString(),
-            dateFormatted: new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' }),
-            customerName: customerName || "Anonymous Visitor",
-            customerPhone: customerPhone || "Not provided",
-            currentProject: currentProject || "General",
+            dateFormatted: existingIndex >= 0 ? existingLogs[existingIndex].dateFormatted : new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' }),
+            customerName: finalName,
+            customerPhone: finalPhone,
+            currentProject: currentProject || "Haridwar Properties",
             durationSeconds: durationSeconds,
             summary: transcript.filter(t => t.role === 'user').map(t => t.text).slice(0, 3).join(" | ") || "Voice Inquiry",
             transcript: transcript
         };
 
         if (existingIndex >= 0) {
-            logEntry.dateFormatted = existingLogs[existingIndex].dateFormatted;
             existingLogs[existingIndex] = logEntry;
         } else {
             existingLogs.unshift(logEntry);
