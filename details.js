@@ -355,32 +355,35 @@
         const sizes = (d.sizes && d.sizes.length > 0) ? d.sizes : null;
         const currentIdx = selectedSizeIndices[p.name] !== undefined ? selectedSizeIndices[p.name] : 0;
         const activeSize = sizes ? (sizes[currentIdx] || sizes[0]) : null;
+        const currentSizeLabel = activeSize ? ` (${activeSize.size})` : '';
+
+        // If no layout image is present for this size
+        if (!activeSize || !activeSize.layoutImage) {
+            return cell('cell-media', `
+                <div class="row-label"><i class="fa-solid fa-ruler-combined"></i> VIEW SIZE${currentSizeLabel}</div>
+                <div class="layout-error-box">
+                    <div class="layout-error-icon">
+                        <i class="fa-solid fa-circle-exclamation"></i>
+                    </div>
+                    <div class="layout-error-title">लेआउट मैप अभी लोड नहीं हो रहा है</div>
+                    <div class="layout-error-sub">इस साइज़${currentSizeLabel} का फ्लोर प्लान लेआउट जल्द उपलब्ध होगा।</div>
+                </div>
+            `, isLast);
+        }
 
         let photos = [];
         let videos = [];
 
-        if (activeSize) {
-            if (activeSize.layoutImage) {
-                photos.push(activeSize.layoutImage);
-            }
-            if (activeSize.photos && activeSize.photos.length > 0) {
-                photos.push(...activeSize.photos);
-            }
-            if (activeSize.videos && activeSize.videos.length > 0) {
-                videos.push(...activeSize.videos);
-            }
+        if (activeSize.layoutImage) {
+            photos.push(activeSize.layoutImage);
+        }
+        if (activeSize.photos && activeSize.photos.length > 0) {
+            photos.push(...activeSize.photos);
+        }
+        if (activeSize.videos && activeSize.videos.length > 0) {
+            videos.push(...activeSize.videos);
         }
 
-        if (photos.length === 0 && videos.length === 0) {
-            photos = (d.flatPhotos && d.flatPhotos.length > 0) ? d.flatPhotos : [];
-            videos = (d.flatVideos && d.flatVideos.length > 0) ? d.flatVideos : [];
-            if (photos.length === 0 && videos.length === 0 && p.society) {
-                photos = (p.society.photos && p.society.photos.length > 1) ? p.society.photos.slice(1) : [];
-                videos = p.society.videos || [];
-            }
-        }
-
-        const currentSizeLabel = activeSize ? ` (${activeSize.size})` : '';
         return createInteractiveGallery(p.name, 'flat', `VIEW SIZE${currentSizeLabel}`, 'fa-ruler-combined', videos, photos, isLast);
     }
 
@@ -557,14 +560,14 @@
             }
         } else {
             if (totalProjects === 1) {
-                colWidth = '100vw';
+                colWidth = '100%';
             } else {
-                colWidth = 'clamp(300px, 86vw, 400px)';
+                colWidth = '86vw';
             }
         }
 
         grid.style.gridTemplateColumns = `repeat(${totalProjects}, ${colWidth})`;
-        if (totalProjects <= 2 || (screenWidth >= 1200 && totalProjects <= 3)) {
+        if (totalProjects === 1 || (screenWidth >= 768 && totalProjects <= 2) || (screenWidth >= 1200 && totalProjects <= 3)) {
             grid.style.width = '100%';
         } else {
             grid.style.width = 'max-content';
