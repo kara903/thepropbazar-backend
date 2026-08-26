@@ -17,7 +17,7 @@
         chatStreamEndpoint: 'https://thepropbazar-backend.onrender.com/api/chat-stream',
         ttsEndpoint: 'https://thepropbazar-backend.onrender.com/api/tts',
         healthEndpoint: 'https://thepropbazar-backend.onrender.com/health',
-        initialGreeting: "नमस्कार! मुझे The Propbazar के फाउंडर राहुल द्विवेदी जी ने आपकी मदद के लिए यहाँ रखा हुआ है। मुझे इन सोसाइटीज का काफी नॉलेज है। अभी आप सबसे टॉप से अपनी रिक्वायरमेंट के हिसाब से BHK ऑप्शंस को सेलेक्ट कर सकते हैं और फिर राइट स्क्रॉल करके कम्पेयर कर सकते हैं। और आपको जो भी पूछना हो, आप मुझसे पूछ सकते हैं।",
+        initialGreeting: "नमस्कार! मुझे The Propbazar के फाउंडर राहुल द्विवेदी जी ने आपकी मदद के लिए यहाँ रखा हुआ है। मुझे इन सोसाइटीज का काफी नॉलेज है। आपका शुभ नाम क्या है और आपकी क्या रिक्वायरमेंट है—जैसे 1, 2 या 3 BHK फ्लैट या बजट?",
         language: 'hi-IN',
         sessionKey: 'propbazar_ai_session_started'
     };
@@ -911,7 +911,8 @@
                     message: userSpeech,
                     history: transcriptHistory,
                     currentProject: currentProject,
-                    currentBhk: currentBhk
+                    currentBhk: currentBhk,
+                    customerName: customerName || ""
                 })
             });
 
@@ -972,7 +973,8 @@
                         message: userSpeech,
                         history: transcriptHistory,
                         currentProject: currentProject,
-                        currentBhk: currentBhk
+                        currentBhk: currentBhk,
+                        customerName: customerName || ""
                     })
                 });
                 if (fallbackRes.ok) {
@@ -1004,16 +1006,49 @@
 
     function detectCustomerDetails(speech) {
         if (!speech) return;
+        const clean = speech.trim();
+
+        // Phone detection (if spoken)
         const digits = speech.replace(/\D/g, '');
         const phoneMatch = digits.match(/[6-9]\d{9}/);
         if (phoneMatch && !customerPhone) {
             customerPhone = phoneMatch[0];
             console.log("✓ Customer Phone:", customerPhone);
         }
-        const nameMatch = speech.match(/(?:naam|name\s+is|am|hu|mera\s+naam)\s+([A-Za-z\u0900-\u097F]+)/i);
-        if (nameMatch && nameMatch[1] && !customerName) {
-            customerName = nameMatch[1];
-            console.log("✓ Customer Name:", customerName);
+
+        // Full Devanagari + English Name Extraction
+        if (!customerName) {
+            const patterns = [
+                /(?:मेरा\s*नाम|mera\s*naam|नाम\s*है|naam\s*hai|my\s*name\s*is|this\s*is)\s+([A-Za-z\u0900-\u097F]+(?:\s+[A-Za-z\u0900-\u097F]+)?)/i,
+                /(?:मैं|main|mai|me)\s+([A-Za-z\u0900-\u097F]+(?:\s+[A-Za-z\u0900-\u097F]+)?)\s+(?:बोल\s*रहा|बोल\s*रही|bol\s*raha|bol\s*rahi|हूँ|hu|hoon)/i,
+                /(?:i\s*am|i'm)\s+([A-Za-z\u0900-\u097F]+(?:\s+[A-Za-z\u0900-\u097F]+)?)/i,
+                /^([A-Za-z\u0900-\u097F]+(?:\s+[A-Za-z\u0900-\u097F]+)?)(?:,|\s+मुझे|\s+mujhe|\s+muze|\s+चाहिए|\s+chahiye|\s+and|\s+need)/i
+            ];
+
+            for (const p of patterns) {
+                const m = clean.match(p);
+                if (m && m[1]) {
+                    let candidate = m[1].trim().replace(/\s+(?:है|hai)$/i, '').trim();
+                    const stopWords = ['flat', 'bhk', 'haridwar', 'plot', 'price', 'rate', 'budget', 'lakh', 'crore', 'ready', 'society', 'deep', 'ganga', 'mantra', 'nri', 'jurs'];
+                    if (!stopWords.includes(candidate.toLowerCase()) && candidate.length >= 2) {
+                        customerName = candidate;
+                        console.log("✓ Customer Name Detected:", customerName);
+                        break;
+                    }
+                }
+            }
+
+            // Direct 1-2 words if early turn
+            if (!customerName && transcriptHistory.length <= 3) {
+                const words = clean.split(/\s+/);
+                if (words.length <= 2 && /^[A-Za-z\u0900-\u097F\s]+$/.test(clean)) {
+                    const stopWords = ['namaste', 'नमस्ते', 'hello', 'hi', 'bhai', 'sir', '1bhk', '2bhk', '3bhk', 'flat', 'plot', 'rate', 'price', 'kitna', 'kaha'];
+                    if (!stopWords.includes(clean.toLowerCase()) && clean.length >= 2) {
+                        customerName = clean;
+                        console.log("✓ Customer Name Detected (Direct):", customerName);
+                    }
+                }
+            }
         }
     }
 
