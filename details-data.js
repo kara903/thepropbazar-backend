@@ -26,9 +26,7 @@ const PROPERTY_DATA = {
                         "mantra happy homes's society images and videos/watermark-removed-Gemini_Generated_Image_mvj84cmvj84cmvj8.jpg"
                     ],
                     videos: [
-                        "https://youtu.be/eGnJ-8d_vRQ",
-                        "https://youtube.com/shorts/2oPeM09RYa0?feature=share"
-                    ]
+                        ]
                 },
                 {
                     size: "950 sq.ft",
@@ -41,8 +39,7 @@ const PROPERTY_DATA = {
                         "mantra happy homes's society images and videos/watermark-removed-Gemini_Generated_Image_s7zp27s7zp27s7zp.jpg"
                     ],
                     videos: [
-                        "https://youtube.com/shorts/zCpAppKWXN0?feature=share"
-                    ]
+                        ]
                 },
                 {
                     size: "1010 sq.ft",
@@ -55,15 +52,12 @@ const PROPERTY_DATA = {
                         "mantra happy homes's society images and videos/watermark-removed-watermark-removed-Gemini_Generated_Image_xlni6uxlni6uxlni.jpg"
                     ],
                     videos: [
-                        "https://youtu.be/eGnJ-8d_vRQ"
-                    ]
+                        ]
                 }
             ],
             flatPhotos: [],
             flatVideos: [
-                "https://youtu.be/eGnJ-8d_vRQ",
-                "https://youtube.com/shorts/2oPeM09RYa0?feature=share"
-            ]
+                ]
         },
         society: {
             googleReviews: "4.4/5 (550+ Google Reviews)",
@@ -83,8 +77,7 @@ const PROPERTY_DATA = {
                 "mantra happy homes's society images and videos/watermark-removed-watermark-removed-Gemini_Generated_Image_xlni6uxlni6uxlni.jpg"
             ],
             videos: [
-                "https://youtube.com/shorts/zCpAppKWXN0?feature=share"
-            ],
+                ],
             connectivity: [
                 { icon: "fa-place-of-worship", title: "Har Ki Pauri", distance: "18 Min Drive" },
                 { icon: "fa-train", title: "Haridwar bus/railway station", distance: "15 Min Drive" },
@@ -206,8 +199,7 @@ const PROPERTY_DATA = {
                     layoutImage: "images/haridwar greens.jpg",
                     photos: [],
                     videos: [
-                        "https://youtube.com/shorts/_Ge5eT4V_m8?feature=share"
-                    ]
+                        ]
                 },
                 {
                     size: "1484 sq.ft",
@@ -216,8 +208,7 @@ const PROPERTY_DATA = {
                     layoutImage: "images/haridwar greens.jpg",
                     photos: [],
                     videos: [
-                        "https://youtube.com/shorts/tl0zx1xgF20?feature=share"
-                    ]
+                        ]
                 },
                 {
                     size: "1700 sq.ft",
@@ -226,15 +217,12 @@ const PROPERTY_DATA = {
                     layoutImage: "images/haridwar greens.jpg",
                     photos: [],
                     videos: [
-                        "https://youtube.com/shorts/_Ge5eT4V_m8?feature=share"
-                    ]
+                        ]
                 }
             ],
             flatPhotos: [],
             flatVideos: [
-                "https://youtube.com/shorts/_Ge5eT4V_m8?feature=share",
-                "https://youtube.com/shorts/tl0zx1xgF20?feature=share"
-            ]
+                ]
         },
         society: {
             googleReviews: "4.2/5 (500+ Google Reviews)",
@@ -263,9 +251,7 @@ const PROPERTY_DATA = {
                 "haridwar green's society photos and videos/unnamed.webp"
             ],
             videos: [
-                "https://youtu.be/Hu6Xxf1VS8o",
-                "https://youtu.be/ch3UQNx3vKM"
-            ],
+                ],
             connectivity: [
                 { icon: "fa-place-of-worship", title: "Har Ki Pauri", distance: "25 Min Drive" },
                 { icon: "fa-train", title: "Haridwar bus/railway station", distance: "20 Min Drive" },
@@ -435,8 +421,7 @@ const PROPERTY_DATA = {
                     layoutImage: "images/antriksh nri city.jpg",
                     photos: [],
                     videos: [
-                        "https://youtube.com/shorts/AyMKw_3jOVg?feature=share"
-                    ]
+                        ]
                 },
                 {
                     size: "1016 sq.ft",
@@ -445,14 +430,12 @@ const PROPERTY_DATA = {
                     layoutImage: "images/antriksh nri city.jpg",
                     photos: [],
                     videos: [
-                        "https://youtube.com/shorts/AyMKw_3jOVg?feature=share"
-                    ]
+                        ]
                 }
             ],
             flatPhotos: [],
             flatVideos: [
-                "https://youtube.com/shorts/AyMKw_3jOVg?feature=share"
-            ]
+                ]
         },
         "3BHK": {
             size: "1315 sq.ft",
@@ -469,8 +452,7 @@ const PROPERTY_DATA = {
                     layoutImage: "images/antriksh nri city.jpg",
                     photos: [],
                     videos: [
-                        "https://youtube.com/shorts/zaxsO6GiI8I?feature=share"
-                    ]
+                        ]
                 },
                 {
                     size: "1450 sq.ft",
@@ -479,15 +461,12 @@ const PROPERTY_DATA = {
                     layoutImage: "images/antriksh nri city.jpg",
                     photos: [],
                     videos: [
-                        "https://youtube.com/shorts/ipDCNKyHqIc?feature=share"
-                    ]
+                        ]
                 }
             ],
             flatPhotos: [],
             flatVideos: [
-                "https://youtube.com/shorts/zaxsO6GiI8I?feature=share",
-                "https://youtube.com/shorts/ipDCNKyHqIc?feature=share"
-            ]
+                ]
         },
         society: {
             googleReviews: "4.0/5 (200+ Google Reviews)",
@@ -501,8 +480,7 @@ const PROPERTY_DATA = {
                 "antriksh NRI city's society's images and videos/site_plan_nri_city.jpg"
             ],
             videos: [
-                "https://youtube.com/shorts/d_QVCNHLNMo?feature=share"
-            ],
+                ],
             connectivity: [
                 { icon: "fa-place-of-worship", title: "Har Ki Pauri", distance: "18 Min Drive" },
                 { icon: "fa-train", title: "Haridwar bus/railway station", distance: "15 Min Drive" },
@@ -588,8 +566,7 @@ const PROPERTY_DATA = {
                         "jurs country's 3 BHK images and videos/7tm3c6tn_optOrig.jpg"
                     ],
                     videos: [
-                        "https://youtube.com/shorts/g3th1bt-au0?feature=share"
-                    ]
+                        ]
                 },
                 {
                     size: "1284 sq.ft",
@@ -627,8 +604,7 @@ const PROPERTY_DATA = {
                 "jurs country's 3 BHK images and videos/tr389z8a_optOrig.jpg"
             ],
             flatVideos: [
-                "https://youtube.com/shorts/g3th1bt-au0?feature=share"
-            ]
+                ]
         },
         "4BHK": {
             size: "2575 sq.ft",
