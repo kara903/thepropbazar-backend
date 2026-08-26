@@ -17,7 +17,7 @@
         chatStreamEndpoint: 'https://thepropbazar-backend.onrender.com/api/chat-stream',
         ttsEndpoint: 'https://thepropbazar-backend.onrender.com/api/tts',
         healthEndpoint: 'https://thepropbazar-backend.onrender.com/health',
-        initialGreeting: "राम राम! मुझे The Propbazar के फाउंडर राहुल द्विवेदी जी ने आपकी मदद के लिए यहाँ रखा हुआ है। ऊपर आपको सारे BHK ऑप्शंस मिल जाते हैं, जहाँ आप अपनी रिक्वायरमेंट का BHK सेलेक्ट करके राइट स्क्रॉल करके सभी सोसाइटीज को कम्पेयर कर सकते हैं। इसके अलावा आप मुझसे हरिद्वार की किसी भी प्रॉपर्टी के बारे में कुछ भी पूछ सकते हैं।",
+        initialGreeting: "नमस्कार! मुझे The Propbazar के फाउंडर राहुल द्विवेदी जी ने आपकी मदद के लिए यहाँ रखा हुआ है। मुझे इन सोसाइटीज का काफी नॉलेज है। अभी आप सबसे टॉप से अपनी रिक्वायरमेंट के हिसाब से BHK ऑप्शंस को सेलेक्ट कर सकते हैं और फिर राइट स्क्रॉल करके कम्पेयर कर सकते हैं। और आपको जो भी पूछना हो, आप मुझसे पूछ सकते हैं।",
         language: 'hi-IN',
         sessionKey: 'propbazar_ai_session_started'
     };
